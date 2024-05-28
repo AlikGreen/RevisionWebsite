@@ -28,23 +28,27 @@ document.addEventListener("DOMContentLoaded", () =>
 
         setInputElement.appendChild(setElement);
     });
-    LoadJson(setInputElement.value)
+    wordsSet = LoadJson(setInputElement.value);
+    ShuffleArray(wordsSet);
 });
 
 var wordsSet;
 
 setInputElement.addEventListener("change", (event) =>
 {
-    LoadJson(event.target.value)
+    wordsSet = LoadJson(event.target.value)
+    ShuffleArray(wordsSet);
     score = 0;
     answered = 0;
     index = 0;
 });
 nextButtonElement.addEventListener("click", NextWord);
+backButtonElement.addEventListener
 submitButtonElement.addEventListener("click", CheckAnswer);
 
 
-function LoadJson(filename) {
+function LoadJson(filename) 
+{
     // Construct the path to the JSON file
     const filePath = filename;
 
@@ -59,13 +63,15 @@ function LoadJson(filename) {
 
     // Define the onload event handler
     xhr.onload = function() {
-        if (xhr.status === 200) {
+        if (xhr.status === 200) 
+        {
             // File contents retrieved successfully
             const jsonData = JSON.parse(xhr.responseText);
             console.log(jsonData); // Output the parsed JSON data
             // Do something with the data (e.g., assign it to a global variable)
-            wordsSet = jsonData;
-        } else {
+            return jsonData;
+        } else 
+        {
             // Error handling if the file retrieval fails
             console.error("Failed to load JSON file:", xhr.statusText);
         }
@@ -89,7 +95,7 @@ var index = 0;
 function NextWord()
 {
     currentWord = wordsSet[index];
-    index++;
+    
     isSpanishToEnglish = RandomChoice([true, false])
     if(isSpanishToEnglish)
     {
@@ -101,6 +107,8 @@ function NextWord()
     }
     wordInputElement.value = "";
     correctTextElement.innerText = "";
+
+    index++;
 }
 
 var score = 0;
@@ -218,4 +226,15 @@ function ConvertToAscii(inputString)
         return character.charCodeAt(0);
     });
     return asciiString;
+}
+
+function ShuffleArray(array) 
+{
+    for (var i = array.length - 1; i > 0; i--) 
+    {
+        var j = Math.floor(Math.random() * (i + 1));
+        var temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
 }
