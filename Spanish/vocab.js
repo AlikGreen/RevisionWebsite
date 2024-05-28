@@ -8,12 +8,12 @@ const scoreTextElement = document.getElementById("score-text");
 
 const sets =
 [
-    "VocabSets/1st 100.json",
-    "VocabSets/french vocab.json",
-    "VocabSets/spanish vocab.json",
     "VocabSets/1st 400.json",
     "VocabSets/2st 400.json",
     "VocabSets/3st 400.json",
+    "VocabSets/1st 100.json",
+    "VocabSets/spanish vocab.json",
+    "VocabSets/french vocab.json",
 ]
 
 document.addEventListener("DOMContentLoaded", () =>
