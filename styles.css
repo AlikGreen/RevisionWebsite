@@ -1,0 +1,44 @@
+body, html
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+body
+{
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.menu-bar 
+{
+    background-color: rgb(33, 33, 33);
+    width: 100%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.menu-button 
+{
+    height: 48px;
+    margin-left: 6px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    overflow: hidden;
+}
+
+.menu-button img
+{
+    margin-right: 10px;
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+}

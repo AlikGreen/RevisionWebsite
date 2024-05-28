@@ -1,0 +1,155 @@
+.margin-top-10
+{
+    margin-top: 10px;
+}
+
+.margin-left-10
+{
+    margin-left: 10px;
+}
+
+.margin-right-10
+{
+    margin-right: 10px;
+}
+
+.margin-bottom-10
+{
+    margin-bottom: 10px;
+}
+
+.margin-10
+{
+    margin: 10px;
+}
+
+
+.margin-right-40
+{
+    margin-right: 40px;
+}
+
+.margin-left-40
+{
+    margin-left: 40px;
+}
+
+.margin-40
+{
+    margin: 40px;
+}
+
+.padding-top-10
+{
+    padding-top: 10px;
+}
+
+.padding-left-10
+{
+    padding-left: 10px;
+}
+
+.padding-right-10
+{
+    padding-right: 10px;
+}
+
+.padding-bottom-10
+{
+    padding-bottom: 10px;
+}
+
+.padding-10
+{
+    padding: 10px;
+}
+
+
+.padding-right-5
+{
+    padding-right: 5px;
+}
+
+.padding-left-5
+{
+    padding-left: 5px;
+}
+
+.padding-top-5
+{
+    padding-top: 5px;
+}
+
+.padding-bottom-5
+{
+    padding-bottom: 5px;
+}
+
+.padding-5
+{
+    padding: 5px;
+}
+
+
+
+.button
+{
+    width: auto;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-block; 
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.bg-colour-black
+{
+    background-color: black;
+}
+
+.bg-colour-dark
+{
+    background-color: rgb(25, 25, 25);
+}
+
+.bg-colour-blue
+{
+    background-color: rgb(23, 34, 255);
+}
+
+.colour-white
+{
+    color: white;
+}
+
+.colour-green
+{
+    color: rgb(0, 175, 0);
+}
+
+.colour-white
+{
+    color: rgb(175, 0, 0);
+}
+
+.font-size-12
+{
+    font-size: 12px;
+}
+
+.font-size-16
+{
+    font-size: 16px;
+}
+
+.font-size-24
+{
+    font-size: 24px;
+}
+
+.font-size-28
+{
+    font-size: 28px;
+}
