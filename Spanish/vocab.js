@@ -6,12 +6,14 @@ const nextButtonElement = document.getElementById("next-btn");
 const correctTextElement = document.getElementById("correct-text");
 const scoreTextElement = document.getElementById("score-text");
 
+console.log(EditDistance("hello", "holla"));
+
 const sets =
 [
-    "VocabSets/1st 400.json",
-    "VocabSets/2st 400.json",
-    "VocabSets/3st 400.json",
-    "VocabSets/1st 100.json",
+    "VocabSets/spanish 0-280.json",
+    "VocabSets/spanish 280-560.json",
+    "VocabSets/spanish 560-840.json",
+    "VocabSets/spanish 840-1120.json",
     "VocabSets/spanish vocab.json",
     "VocabSets/french vocab.json",
 ]
@@ -121,7 +123,7 @@ function CheckAnswer()
     
     correctAnswers.forEach((ans) =>
     {
-        if(EditDistance(userAnswer, ans <=2))
+        if(EditDistance(userAnswer, ans) <= 1)
         {
             isCorrect = true;
         }
@@ -156,7 +158,8 @@ function CheckAnswer()
 }
   
 
-function EditDistance(str1, str2) {
+function EditDistance(str1, str2) 
+{
     // Create a 2D array to store the distances
     const dp = [];
     for (let i = 0; i <= str1.length; i++) {

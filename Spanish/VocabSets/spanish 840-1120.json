@@ -1,647 +1,13 @@
 [
     {
         "spanishwords": [
-            "solucionar"
-        ],
-        "englishwords": [
-            "to solve",
-            "to resolve"
-        ]
-    },
-    {
-        "spanishwords": [
-            "beneficio"
-        ],
-        "englishwords": [
-            "Benefit"
-        ]
-    },
-    {
-        "spanishwords": [
-            "campana"
-        ],
-        "englishwords": [
-            "Campaign"
-        ]
-    },
-    {
-        "spanishwords": [
-            "culpa"
-        ],
-        "englishwords": [
-            "fault",
-            "blame",
-            "guilt"
-        ]
-    },
-    {
-        "spanishwords": [
-            "derechos"
-        ],
-        "englishwords": [
-            "Rights"
-        ]
-    },
-    {
-        "spanishwords": [
-            "desarrollo"
-        ],
-        "englishwords": [
-            "Development"
-        ]
-    },
-    {
-        "spanishwords": [
-            "desigualdad"
-        ],
-        "englishwords": [
-            "Inequality"
-        ]
-    },
-    {
-        "spanishwords": [
-            "encuesta"
-        ],
-        "englishwords": [
-            "poll",
-            "survey"
-        ]
-    },
-    {
-        "spanishwords": [
-            "escasez"
-        ],
-        "englishwords": [
-            "shortage",
-            "want",
-            "lack"
-        ]
-    },
-    {
-        "spanishwords": [
-            "extranjero"
-        ],
-        "englishwords": [
-            "Foreigner"
-        ]
-    },
-    {
-        "spanishwords": [
-            "falta"
-        ],
-        "englishwords": [
-            "Lack"
-        ]
-    },
-    {
-        "spanishwords": [
-            "gamberro"
-        ],
-        "englishwords": [
-            "hooligan",
-            "lout",
-            "troublemaker"
-        ]
-    },
-    {
-        "spanishwords": [
-            "gobierno"
-        ],
-        "englishwords": [
-            "Government"
-        ]
-    },
-    {
-        "spanishwords": [
-            "igualdad"
-        ],
-        "englishwords": [
-            "Equality"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ladron"
-        ],
-        "englishwords": [
-            "Thief"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ley"
-        ],
-        "englishwords": [
-            "Law"
-        ]
-    },
-    {
-        "spanishwords": [
-            "libertad"
-        ],
-        "englishwords": [
-            "liberty",
-            "freedom"
-        ]
-    },
-    {
-        "spanishwords": [
-            "multa"
-        ],
-        "englishwords": [
-            "Fine"
-        ]
-    },
-    {
-        "spanishwords": [
-            "necesitados"
-        ],
-        "englishwords": [
-            "needy people"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pobreza"
-        ],
-        "englishwords": [
-            "poverty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "prejuicio"
-        ],
-        "englishwords": [
-            "prejudice"
-        ]
-    },
-    {
-        "spanishwords": [
-            "preocupacion"
-        ],
-        "englishwords": [
-            "worry",
-            "anxiety"
-        ]
-    },
-    {
-        "spanishwords": [
-            "rob"
-        ],
-        "englishwords": [
-            "theft",
-            "burglary"
-        ]
-    },
-    {
-        "spanishwords": [
-            "sin techo"
-        ],
-        "englishwords": [
-            "homeless people"
-        ]
-    },
-    {
-        "spanishwords": [
-            "testigo"
-        ],
-        "englishwords": [
-            "Witness"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ventaja"
-        ],
-        "englishwords": [
-            "Advantage"
-        ]
-    },
-    {
-        "spanishwords": [
-            "violencia"
-        ],
-        "englishwords": [
-            "Violence"
-        ]
-    },
-    {
-        "spanishwords": [
-            "escaso"
-        ],
-        "englishwords": [
-            "scarce",
-            "meagre"
-        ]
-    },
-    {
-        "spanishwords": [
-            "grave"
-        ],
-        "englishwords": [
-            "serious"
-        ]
-    },
-    {
-        "spanishwords": [
-            "injusto"
-        ],
-        "englishwords": [
-            "unjust",
-            "unfair"
-        ]
-    },
-    {
-        "spanishwords": [
-            "justo"
-        ],
-        "englishwords": [
-            "just",
-            "fair"
-        ]
-    },
-    {
-        "spanishwords": [
-            "mundial"
-        ],
-        "englishwords": [
-            "global",
-            "world-wide"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pobre"
-        ],
-        "englishwords": [
-            "poor"
-        ]
-    },
-    {
-        "spanishwords": [
-            "banarse"
-        ],
-        "englishwords": [
-            "to bathe",
-            "to swim"
-        ]
-    },
-    {
-        "spanishwords": [
-            "broncearse"
-        ],
-        "englishwords": [
-            "to get a tan"
-        ]
-    },
-    {
-        "spanishwords": [
-            "decepcionar"
-        ],
-        "englishwords": [
-            "to disappoint"
-        ]
-    },
-    {
-        "spanishwords": [
-            "descansar"
-        ],
-        "englishwords": [
-            "to rest"
-        ]
-    },
-    {
-        "spanishwords": [
-            "esperar"
-        ],
-        "englishwords": [
-            "to wait"
-        ]
-    },
-    {
-        "spanishwords": [
-            "esquiar"
-        ],
-        "englishwords": [
-            "to ski"
-        ]
-    },
-    {
-        "spanishwords": [
-            "estar de vacaciones"
-        ],
-        "englishwords": [
-            "to be on holiday"
-        ]
-    },
-    {
-        "spanishwords": [
-            "informar"
-        ],
-        "englishwords": [
-            "to find out"
-        ]
-    },
-    {
-        "spanishwords": [
-            "llevar"
-        ],
-        "englishwords": [
-            "to take"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pasar"
-        ],
-        "englishwords": [
-            "to spend time; to go through; to pass"
-        ]
-    },
-    {
-        "spanishwords": [
-            "recordar"
-        ],
-        "englishwords": [
-            "to remember"
-        ]
-    },
-    {
-        "spanishwords": [
-            "regresar"
-        ],
-        "englishwords": [
-            "to go back"
-        ]
-    },
-    {
-        "spanishwords": [
-            "relajarse"
-        ],
-        "englishwords": [
-            "to relax"
-        ]
-    },
-    {
-        "spanishwords": [
-            "sacar"
-        ],
-        "englishwords": [
-            "to take photos"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tomar el sol"
-        ],
-        "englishwords": [
-            "to sunbathe"
-        ]
-    },
-    {
-        "spanishwords": [
-            "venir"
-        ],
-        "englishwords": [
-            "to come"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ver"
-        ],
-        "englishwords": [
-            "to see"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ambiente"
-        ],
-        "englishwords": [
-            "Atmosphere"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carnet de identidad"
-        ],
-        "englishwords": [
-            "identity card"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carnet"
-        ],
-        "englishwords": [
-            "pass; card"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cheque"
-        ],
-        "englishwords": [
-            "travellers cheque"
-        ]
-    },
-    {
-        "spanishwords": [
-            "crema solar"
-        ],
-        "englishwords": [
-            "Suncream"
-        ]
-    },
-    {
-        "spanishwords": [
-            "crucero"
-        ],
-        "englishwords": [
-            "Cruise"
-        ]
-    },
-    {
-        "spanishwords": [
-            "deportes acuaticos"
-        ],
-        "englishwords": [
-            "water sports"
-        ]
-    },
-    {
-        "spanishwords": [
-            "descanso"
-        ],
-        "englishwords": [
-            "rest",
-            "pause"
-        ]
-    },
-    {
-        "spanishwords": [
-            "DNI"
-        ],
-        "englishwords": [
-            "ID card"
-        ]
-    },
-    {
-        "spanishwords": [
-            "equipaje"
-        ],
-        "englishwords": [
-            "Luggage"
-        ]
-    },
-    {
-        "spanishwords": [
-            "esqui"
-        ],
-        "englishwords": [
-            "Skiing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "excursion"
-        ],
-        "englishwords": [
-            "trip",
-            "excursion"
-        ]
-    },
-    {
-        "spanishwords": [
-            "folleto"
-        ],
-        "englishwords": [
-            "leaflet",
-            "pamphlet"
-        ]
-    },
-    {
-        "spanishwords": [
-            "guia"
-        ],
-        "englishwords": [
-            "Guide"
-        ]
-    },
-    {
-        "spanishwords": [
-            "guia"
-        ],
-        "englishwords": [
-            "Guidebook"
-        ]
-    },
-    {
-        "spanishwords": [
-            "insolacion"
-        ],
-        "englishwords": [
-            "Sunstroke"
-        ]
-    },
-    {
-        "spanishwords": [
-            "isla"
-        ],
-        "englishwords": [
-            "Island"
-        ]
-    },
-    {
-        "spanishwords": [
-            "maleta"
-        ],
-        "englishwords": [
-            "Suitcase"
-        ]
-    },
-    {
-        "spanishwords": [
-            "maquina"
-        ],
-        "englishwords": [
-            "Camera"
-        ]
-    },
-    {
-        "spanishwords": [
-            "mar"
-        ],
-        "englishwords": [
-            "Sea"
-        ]
-    },
-    {
-        "spanishwords": [
-            "montana"
-        ],
-        "englishwords": [
-            "Mountain"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pais"
-        ],
-        "englishwords": [
-            "Country"
-        ]
-    },
-    {
-        "spanishwords": [
-            "parque de atracciones"
-        ],
-        "englishwords": [
-            "fairground",
-            "funfair"
-        ]
-    },
-    {
-        "spanishwords": [
-            "parque tematico"
-        ],
-        "englishwords": [
-            "theme park"
-        ]
-    },
-    {
-        "spanishwords": [
-            "playa"
-        ],
-        "englishwords": [
-            "Beach"
-        ]
-    },
-    {
-        "spanishwords": [
-            "postal"
-        ],
-        "englishwords": [
-            "Postcard"
-        ]
-    },
-    {
-        "spanishwords": [
-            "recuerdo"
-        ],
-        "englishwords": [
-            "Souvenir"
-        ]
-    },
-    {
-        "spanishwords": [
             "sitio"
         ],
         "englishwords": [
             "place",
-            "site"
+            "site",
+            "space",
+            "room"
         ]
     },
     {
@@ -672,7 +38,8 @@
     },
     {
         "spanishwords": [
-            "alojarse"
+            "alojarse",
+            "quedarse"
         ],
         "englishwords": [
             "to lodge",
@@ -689,18 +56,12 @@
     },
     {
         "spanishwords": [
-            "cambiar"
+            "cambiar",
+            "hacer transbordo"
         ],
         "englishwords": [
-            "to change"
-        ]
-    },
-    {
-        "spanishwords": [
-            "quedarse"
-        ],
-        "englishwords": [
-            "to stay"
+            "to change",
+            "to transfer"
         ]
     },
     {
@@ -770,26 +131,10 @@
     },
     {
         "spanishwords": [
-            "direccion"
-        ],
-        "englishwords": [
-            "Management"
-        ]
-    },
-    {
-        "spanishwords": [
             "ficha"
         ],
         "englishwords": [
             "registration form"
-        ]
-    },
-    {
-        "spanishwords": [
-            "habitacion"
-        ],
-        "englishwords": [
-            "room"
         ]
     },
     {
@@ -802,7 +147,7 @@
     },
     {
         "spanishwords": [
-            "papel higienico"
+            "papel higiénico"
         ],
         "englishwords": [
             "toilet paper"
@@ -818,7 +163,7 @@
     },
     {
         "spanishwords": [
-            "pension"
+            "pensión"
         ],
         "englishwords": [
             "boarding house"
@@ -834,7 +179,7 @@
     },
     {
         "spanishwords": [
-            "recepcion"
+            "recepción"
         ],
         "englishwords": [
             "Reception"
@@ -858,23 +203,6 @@
     },
     {
         "spanishwords": [
-            "sitio"
-        ],
-        "englishwords": [
-            "space",
-            "room"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tienda"
-        ],
-        "englishwords": [
-            "Tent"
-        ]
-    },
-    {
-        "spanishwords": [
             "vista"
         ],
         "englishwords": [
@@ -883,22 +211,7 @@
     },
     {
         "spanishwords": [
-            "disponible"
-        ],
-        "englishwords": [
-            "available"
-        ]
-    },
-    {
-        "spanishwords": [
-            "fumador"
-        ],
-        "englishwords": [
-            "smoking"
-        ]
-    },
-    {
-        "spanishwords": [
+            "disponible",
             "libre"
         ],
         "englishwords": [
@@ -907,7 +220,7 @@
     },
     {
         "spanishwords": [
-            "media pension"
+            "media pensión"
         ],
         "englishwords": [
             "half board"
@@ -915,7 +228,7 @@
     },
     {
         "spanishwords": [
-            "pension completa"
+            "pensión completa"
         ],
         "englishwords": [
             "full board"
@@ -927,23 +240,6 @@
         ],
         "englishwords": [
             "to park"
-        ]
-    },
-    {
-        "spanishwords": [
-            "caminar"
-        ],
-        "englishwords": [
-            "to walk"
-        ]
-    },
-    {
-        "spanishwords": [
-            "coger"
-        ],
-        "englishwords": [
-            "to take",
-            "to catch"
         ]
     },
     {
@@ -965,39 +261,7 @@
     },
     {
         "spanishwords": [
-            "detener"
-        ],
-        "englishwords": [
-            "to stop"
-        ]
-    },
-    {
-        "spanishwords": [
-            "doblar"
-        ],
-        "englishwords": [
-            "to turn"
-        ]
-    },
-    {
-        "spanishwords": [
-            "hacer transbordo"
-        ],
-        "englishwords": [
-            "to change",
-            "to transfer"
-        ]
-    },
-    {
-        "spanishwords": [
-            "llegar"
-        ],
-        "englishwords": [
-            "to arrive"
-        ]
-    },
-    {
-        "spanishwords": [
+            "detener",
             "parar"
         ],
         "englishwords": [
@@ -1006,10 +270,19 @@
     },
     {
         "spanishwords": [
-            "perder"
+            "doblar",
+            "torcer"
         ],
         "englishwords": [
-            "to lose; to miss"
+            "to turn"
+        ]
+    },
+    {
+        "spanishwords": [
+            "llegar"
+        ],
+        "englishwords": [
+            "to arrive"
         ]
     },
     {
@@ -1030,26 +303,10 @@
     },
     {
         "spanishwords": [
-            "torcer"
-        ],
-        "englishwords": [
-            "to turn"
-        ]
-    },
-    {
-        "spanishwords": [
             "viajar"
         ],
         "englishwords": [
             "to travel"
-        ]
-    },
-    {
-        "spanishwords": [
-            "volver"
-        ],
-        "englishwords": [
-            "to return"
         ]
     },
     {
@@ -1073,12 +330,12 @@
             "agencia"
         ],
         "englishwords": [
-            "travel agents"
+            "travel agents"
         ]
     },
     {
         "spanishwords": [
-            "anden"
+            "andén"
         ],
         "englishwords": [
             "Platform"
@@ -1110,16 +367,7 @@
     },
     {
         "spanishwords": [
-            "averia"
-        ],
-        "englishwords": [
-            "breakdown",
-            "fault"
-        ]
-    },
-    {
-        "spanishwords": [
-            "avion"
+            "avión"
         ],
         "englishwords": [
             "airplane",
@@ -1136,15 +384,7 @@
     },
     {
         "spanishwords": [
-            "billete"
-        ],
-        "englishwords": [
-            "ticket"
-        ]
-    },
-    {
-        "spanishwords": [
-            "bonobusl"
+            "bonobúsl"
         ],
         "englishwords": [
             "bus pass"
@@ -1161,7 +401,7 @@
     },
     {
         "spanishwords": [
-            "camion"
+            "camión"
         ],
         "englishwords": [
             "Lorry"
@@ -1169,7 +409,8 @@
     },
     {
         "spanishwords": [
-            "carnet de conducir"
+            "carnet de conducir",
+            "permiso de conducir"
         ],
         "englishwords": [
             "driving licence"
@@ -1193,7 +434,7 @@
     },
     {
         "spanishwords": [
-            "cinturon de seguridad"
+            "cinturón de seguridad"
         ],
         "englishwords": [
             "seat belt"
@@ -1234,7 +475,7 @@
     },
     {
         "spanishwords": [
-            "estacion"
+            "estación"
         ],
         "englishwords": [
             "station"
@@ -1242,7 +483,7 @@
     },
     {
         "spanishwords": [
-            "estacion de servicio"
+            "estación de servicio"
         ],
         "englishwords": [
             "service station"
@@ -1306,19 +547,11 @@
     },
     {
         "spanishwords": [
-            "paso subterraneo"
+            "paso subterráneo"
         ],
         "englishwords": [
             "underpass",
             "subway"
-        ]
-    },
-    {
-        "spanishwords": [
-            "permiso de conducir"
-        ],
-        "englishwords": [
-            "driving licence"
         ]
     },
     {
@@ -1363,7 +596,7 @@
     },
     {
         "spanishwords": [
-            "senal"
+            "señal"
         ],
         "englishwords": [
             "sign",
@@ -1372,36 +605,10 @@
     },
     {
         "spanishwords": [
-            "taquilla"
-        ],
-        "englishwords": [
-            "ticket office"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tranvia"
+            "tranvía"
         ],
         "englishwords": [
             "Tram"
-        ]
-    },
-    {
-        "spanishwords": [
-            "via"
-        ],
-        "englishwords": [
-            "track",
-            "lane"
-        ]
-    },
-    {
-        "spanishwords": [
-            "viaje"
-        ],
-        "englishwords": [
-            "trip",
-            "journey"
         ]
     },
     {
@@ -1447,7 +654,7 @@
     },
     {
         "spanishwords": [
-            "aleman"
+            "alemán"
         ],
         "englishwords": [
             "German"
@@ -1463,7 +670,7 @@
     },
     {
         "spanishwords": [
-            "britanico"
+            "británico"
         ],
         "englishwords": [
             "British"
@@ -1488,7 +695,7 @@
     },
     {
         "spanishwords": [
-            "escoces"
+            "escocés"
         ],
         "englishwords": [
             "Scot",
@@ -1505,7 +712,7 @@
     },
     {
         "spanishwords": [
-            "Espana"
+            "España"
         ],
         "englishwords": [
             "Spain"
@@ -1513,7 +720,7 @@
     },
     {
         "spanishwords": [
-            "espanol"
+            "español"
         ],
         "englishwords": [
             "Spanish"
@@ -1545,7 +752,7 @@
     },
     {
         "spanishwords": [
-            "frances"
+            "francés"
         ],
         "englishwords": [
             "French"
@@ -1569,7 +776,7 @@
     },
     {
         "spanishwords": [
-            "gales"
+            "galés"
         ],
         "englishwords": [
             "Welsh"
@@ -1577,7 +784,7 @@
     },
     {
         "spanishwords": [
-            "Gran Bretana"
+            "Gran Bretaña"
         ],
         "englishwords": [
             "Great Britain"
@@ -1609,7 +816,7 @@
     },
     {
         "spanishwords": [
-            "ingles"
+            "inglés"
         ],
         "englishwords": [
             "English"
@@ -1625,7 +832,7 @@
     },
     {
         "spanishwords": [
-            "irlandes"
+            "irlandés"
         ],
         "englishwords": [
             "Irish"
@@ -1657,23 +864,6 @@
     },
     {
         "spanishwords": [
-            "ensenar"
-        ],
-        "englishwords": [
-            "to teach"
-        ]
-    },
-    {
-        "spanishwords": [
-            "optar"
-        ],
-        "englishwords": [
-            "to choose",
-            "to opt for"
-        ]
-    },
-    {
-        "spanishwords": [
             "sacar buenas/malas notas"
         ],
         "englishwords": [
@@ -1682,15 +872,7 @@
     },
     {
         "spanishwords": [
-            "aleman"
-        ],
-        "englishwords": [
-            "German"
-        ]
-    },
-    {
-        "spanishwords": [
-            "arte dramatico"
+            "arte dramático"
         ],
         "englishwords": [
             "Drama"
@@ -1706,7 +888,7 @@
     },
     {
         "spanishwords": [
-            "ciencias economicas",
+            "ciencias económicas",
             "las"
         ],
         "englishwords": [
@@ -1723,18 +905,12 @@
     },
     {
         "spanishwords": [
-            "cocina"
-        ],
-        "englishwords": [
-            "food technology"
-        ]
-    },
-    {
-        "spanishwords": [
             "comercio"
         ],
         "englishwords": [
-            "business studies"
+            "business studies",
+            "commerce",
+            "trade"
         ]
     },
     {
@@ -1756,22 +932,6 @@
     },
     {
         "spanishwords": [
-            "espanol"
-        ],
-        "englishwords": [
-            "Spanish"
-        ]
-    },
-    {
-        "spanishwords": [
-            "frances"
-        ],
-        "englishwords": [
-            "French"
-        ]
-    },
-    {
-        "spanishwords": [
             "gimnasia"
         ],
         "englishwords": [
@@ -1788,18 +948,10 @@
     },
     {
         "spanishwords": [
-            "informatica"
+            "informática"
         ],
         "englishwords": [
             "IT"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ingles"
-        ],
-        "englishwords": [
-            "English"
         ]
     },
     {
@@ -1821,7 +973,7 @@
     },
     {
         "spanishwords": [
-            "quimica"
+            "química"
         ],
         "englishwords": [
             "chemistry"
@@ -1891,16 +1043,20 @@
             "trabajador"
         ],
         "englishwords": [
-            "hard working"
+            "hard working",
+            "Worker"
         ]
     },
     {
         "spanishwords": [
-            "conseguir"
+            "conseguir",
+            "lograr",
+            "obtener"
         ],
         "englishwords": [
             "to get",
-            "to achieve"
+            "to achieve",
+            "to obtain"
         ]
     },
     {
@@ -1913,36 +1069,10 @@
     },
     {
         "spanishwords": [
-            "esperar"
-        ],
-        "englishwords": [
-            "to hope; to expect"
-        ]
-    },
-    {
-        "spanishwords": [
-            "lograr"
-        ],
-        "englishwords": [
-            "to achieve"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tomar un ano libre/sabatico"
+            "tomar un año libre/sabático"
         ],
         "englishwords": [
             "to take a gap year"
-        ]
-    },
-    {
-        "spanishwords": [
-            "academia",
-            "la"
-        ],
-        "englishwords": [
-            "academy",
-            "school post-16"
         ]
     },
     {
@@ -1961,14 +1091,6 @@
             "apprenticeship",
             "training",
             "learning"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carrera"
-        ],
-        "englishwords": [
-            "career; profession"
         ]
     },
     {
@@ -2006,7 +1128,7 @@
     },
     {
         "spanishwords": [
-            "formacion"
+            "formación"
         ],
         "englishwords": [
             "vocational training"
@@ -2049,7 +1171,7 @@
     },
     {
         "spanishwords": [
-            "util"
+            "útil"
         ],
         "englishwords": [
             "useful"
@@ -2057,7 +1179,8 @@
     },
     {
         "spanishwords": [
-            "apoyar"
+            "apoyar",
+            "ayudar"
         ],
         "englishwords": [
             "to support",
@@ -2080,14 +1203,6 @@
         "englishwords": [
             "to approve",
             "to pass"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ayudar"
-        ],
-        "englishwords": [
-            "to help"
         ]
     },
     {
@@ -2140,18 +1255,10 @@
     },
     {
         "spanishwords": [
-            "disenar"
+            "diseñar"
         ],
         "englishwords": [
             "to design"
-        ]
-    },
-    {
-        "spanishwords": [
-            "entender"
-        ],
-        "englishwords": [
-            "to understand"
         ]
     },
     {
@@ -2188,15 +1295,8 @@
     },
     {
         "spanishwords": [
-            "faltar"
-        ],
-        "englishwords": [
-            "to be absent"
-        ]
-    },
-    {
-        "spanishwords": [
-            "fracasar"
+            "fracasar",
+            "suspender"
         ],
         "englishwords": [
             "to fail"
@@ -2236,16 +1336,7 @@
     },
     {
         "spanishwords": [
-            "molestar"
-        ],
-        "englishwords": [
-            "to annoy",
-            "to bother"
-        ]
-    },
-    {
-        "spanishwords": [
-            "oir"
+            "oír"
         ],
         "englishwords": [
             "to listen",
@@ -2295,26 +1386,10 @@
     },
     {
         "spanishwords": [
-            "repartir"
-        ],
-        "englishwords": [
-            "to hand out"
-        ]
-    },
-    {
-        "spanishwords": [
             "repasar"
         ],
         "englishwords": [
             "to revise"
-        ]
-    },
-    {
-        "spanishwords": [
-            "suspender"
-        ],
-        "englishwords": [
-            "to fail"
         ]
     },
     {
@@ -2368,7 +1443,8 @@
     },
     {
         "spanishwords": [
-            "apoyo"
+            "apoyo",
+            "ayuda"
         ],
         "englishwords": [
             "help",
@@ -2394,14 +1470,6 @@
     },
     {
         "spanishwords": [
-            "ayuda"
-        ],
-        "englishwords": [
-            "help"
-        ]
-    },
-    {
-        "spanishwords": [
             "bachillerato"
         ],
         "englishwords": [
@@ -2410,7 +1478,7 @@
     },
     {
         "spanishwords": [
-            "biologia"
+            "biología"
         ],
         "englishwords": [
             "biology"
@@ -2418,7 +1486,7 @@
     },
     {
         "spanishwords": [
-            "boligrafo"
+            "bolígrafo"
         ],
         "englishwords": [
             "Pen"
@@ -2459,7 +1527,8 @@
     },
     {
         "spanishwords": [
-            "colegio"
+            "colegio",
+            "escuela"
         ],
         "englishwords": [
             "School"
@@ -2500,18 +1569,10 @@
     },
     {
         "spanishwords": [
-            "ensenanza"
+            "enseñanza"
         ],
         "englishwords": [
             "teaching; education"
-        ]
-    },
-    {
-        "spanishwords": [
-            "escuela"
-        ],
-        "englishwords": [
-            "School"
         ]
     },
     {
@@ -2524,7 +1585,7 @@
     },
     {
         "spanishwords": [
-            "evaluacion"
+            "evaluación"
         ],
         "englishwords": [
             "Assessment"
@@ -2540,7 +1601,7 @@
     },
     {
         "spanishwords": [
-            "exito"
+            "éxito"
         ],
         "englishwords": [
             "Success"
@@ -2548,18 +1609,10 @@
     },
     {
         "spanishwords": [
-            "explicacion"
+            "explicación"
         ],
         "englishwords": [
             "Explanation"
-        ]
-    },
-    {
-        "spanishwords": [
-            "falta"
-        ],
-        "englishwords": [
-            "mistake; absence"
         ]
     },
     {
@@ -2597,7 +1650,7 @@
     },
     {
         "spanishwords": [
-            "intimidacion"
+            "intimidación"
         ],
         "englishwords": [
             "Bullying"
@@ -2605,7 +1658,7 @@
     },
     {
         "spanishwords": [
-            "lapices de colores"
+            "lápices de colores"
         ],
         "englishwords": [
             "colour pencils"
@@ -2613,7 +1666,7 @@
     },
     {
         "spanishwords": [
-            "leccion"
+            "lección"
         ],
         "englishwords": [
             "Lesson"
@@ -2625,14 +1678,6 @@
         ],
         "englishwords": [
             "reading"
-        ]
-    },
-    {
-        "spanishwords": [
-            "letra"
-        ],
-        "englishwords": [
-            "letter of the alphabet"
         ]
     },
     {
@@ -2662,7 +1707,7 @@
     },
     {
         "spanishwords": [
-            "pagina"
+            "página"
         ],
         "englishwords": [
             "page"
@@ -2702,16 +1747,6 @@
     },
     {
         "spanishwords": [
-            "prueba",
-            ""
-        ],
-        "englishwords": [
-            "test",
-            "proof"
-        ]
-    },
-    {
-        "spanishwords": [
             "recreo"
         ],
         "englishwords": [
@@ -2747,14 +1782,6 @@
     },
     {
         "spanishwords": [
-            "reunion"
-        ],
-        "englishwords": [
-            "meeting"
-        ]
-    },
-    {
-        "spanishwords": [
             "rutina"
         ],
         "englishwords": [
@@ -2771,7 +1798,7 @@
     },
     {
         "spanishwords": [
-            "salon de actos"
+            "salón de actos"
         ],
         "englishwords": [
             "hall",
@@ -2886,14 +1913,6 @@
     },
     {
         "spanishwords": [
-            "encontrar"
-        ],
-        "englishwords": [
-            "to find"
-        ]
-    },
-    {
-        "spanishwords": [
             "estar en huelga"
         ],
         "englishwords": [
@@ -2910,15 +1929,7 @@
     },
     {
         "spanishwords": [
-            "ganar"
-        ],
-        "englishwords": [
-            "to earn"
-        ]
-    },
-    {
-        "spanishwords": [
-            "llamar por telefono"
+            "llamar por teléfono"
         ],
         "englishwords": [
             "to telephone"
@@ -2930,23 +1941,6 @@
         ],
         "englishwords": [
             "to become"
-        ]
-    },
-    {
-        "spanishwords": [
-            "obtener"
-        ],
-        "englishwords": [
-            "to get",
-            "to obtain"
-        ]
-    },
-    {
-        "spanishwords": [
-            "probar"
-        ],
-        "englishwords": [
-            "to have a go; to try"
         ]
     },
     {
@@ -2963,14 +1957,6 @@
         ],
         "englishwords": [
             "to apply"
-        ]
-    },
-    {
-        "spanishwords": [
-            "trabajar"
-        ],
-        "englishwords": [
-            "to work"
         ]
     },
     {
@@ -2993,7 +1979,7 @@
     },
     {
         "spanishwords": [
-            "albanil"
+            "albañil"
         ],
         "englishwords": [
             "brick-layer",
@@ -3068,14 +2054,6 @@
     },
     {
         "spanishwords": [
-            "carta"
-        ],
-        "englishwords": [
-            "letter"
-        ]
-    },
-    {
-        "spanishwords": [
             "cartero"
         ],
         "englishwords": [
@@ -3106,15 +2084,6 @@
             "merchant",
             "retailer",
             "shop owner"
-        ]
-    },
-    {
-        "spanishwords": [
-            "comercio"
-        ],
-        "englishwords": [
-            "commerce",
-            "trade"
         ]
     },
     {
@@ -3160,7 +2129,7 @@
     },
     {
         "spanishwords": [
-            "ejercito"
+            "ejército"
         ],
         "englishwords": [
             "Army"
@@ -3299,7 +2268,7 @@
     },
     {
         "spanishwords": [
-            "linea"
+            "línea"
         ],
         "englishwords": [
             "line"
@@ -3320,15 +2289,6 @@
         "englishwords": [
             "serviceman",
             "soldier"
-        ]
-    },
-    {
-        "spanishwords": [
-            "objetivo"
-        ],
-        "englishwords": [
-            "aim",
-            "objective"
         ]
     },
     {
@@ -3381,16 +2341,7 @@
     },
     {
         "spanishwords": [
-            "pintor"
-        ],
-        "englishwords": [
-            "painter",
-            "artist"
-        ]
-    },
-    {
-        "spanishwords": [
-            "policia"
+            "policía"
         ],
         "englishwords": [
             "police officer"
@@ -3447,18 +2398,10 @@
     },
     {
         "spanishwords": [
-            "titulo"
+            "título"
         ],
         "englishwords": [
             "university degree"
-        ]
-    },
-    {
-        "spanishwords": [
-            "trabajador"
-        ],
-        "englishwords": [
-            "Worker"
         ]
     },
     {

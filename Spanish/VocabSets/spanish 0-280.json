@@ -12,7 +12,8 @@
             "adolescente"
         ],
         "englishwords": [
-            "teenager"
+            "teenager",
+            "adolescent"
         ]
     },
     {
@@ -20,12 +21,13 @@
             "anciano"
         ],
         "englishwords": [
-            "old person"
+            "old person",
+            "old"
         ]
     },
     {
         "spanishwords": [
-            "bebe"
+            "bebé"
         ],
         "englishwords": [
             "baby"
@@ -33,7 +35,7 @@
     },
     {
         "spanishwords": [
-            "companero"
+            "compañero"
         ],
         "englishwords": [
             "friend",
@@ -42,7 +44,7 @@
     },
     {
         "spanishwords": [
-            "demas"
+            "demás"
         ],
         "englishwords": [
             "other people"
@@ -50,7 +52,8 @@
     },
     {
         "spanishwords": [
-            "esposo"
+            "esposo",
+            "marido"
         ],
         "englishwords": [
             "husband",
@@ -83,7 +86,8 @@
     },
     {
         "spanishwords": [
-            "hijo"
+            "hijo",
+            "niño"
         ],
         "englishwords": [
             "child"
@@ -107,7 +111,7 @@
     },
     {
         "spanishwords": [
-            "huerfano"
+            "huérfano"
         ],
         "englishwords": [
             "orphan"
@@ -126,7 +130,8 @@
             "joven"
         ],
         "englishwords": [
-            "young person"
+            "young person",
+            "young"
         ]
     },
     {
@@ -135,7 +140,8 @@
         ],
         "englishwords": [
             "OAP",
-            "pensioner"
+            "pensioner",
+            "retired"
         ]
     },
     {
@@ -157,15 +163,8 @@
     },
     {
         "spanishwords": [
-            "marido"
-        ],
-        "englishwords": [
-            "husband"
-        ]
-    },
-    {
-        "spanishwords": [
-            "miembro"
+            "miembro",
+            "socio"
         ],
         "englishwords": [
             "member"
@@ -193,14 +192,6 @@
         ],
         "englishwords": [
             "grandchild"
-        ]
-    },
-    {
-        "spanishwords": [
-            "nino"
-        ],
-        "englishwords": [
-            "child"
         ]
     },
     {
@@ -245,7 +236,7 @@
     },
     {
         "spanishwords": [
-            "tio"
+            "tío"
         ],
         "englishwords": [
             "uncle"
@@ -262,15 +253,32 @@
     {
         "spanishwords": [
             "viudo",
-            ""
+            "",
+            "pescado",
+            "revista",
+            "precio",
+            "grandes almacenes",
+            "sano healthy",
+            "vertedero",
+            "prueba"
         ],
         "englishwords": [
-            "widower"
+            "widower",
+            "fish",
+            "magazine",
+            "",
+            "price",
+            "department store",
+            "wholesome",
+            "rubbish dump",
+            "test",
+            "proof"
         ]
     },
     {
         "spanishwords": [
-            "acoger"
+            "acoger",
+            "recibir"
         ],
         "englishwords": [
             "to receive",
@@ -295,7 +303,8 @@
     },
     {
         "spanishwords": [
-            "agradecer"
+            "agradecer",
+            "dar las gracias"
         ],
         "englishwords": [
             "to thank"
@@ -328,7 +337,8 @@
     },
     {
         "spanishwords": [
-            "comprender"
+            "comprender",
+            "entender"
         ],
         "englishwords": [
             "to understand"
@@ -361,7 +371,8 @@
     },
     {
         "spanishwords": [
-            "cuidar"
+            "cuidar",
+            "ocuparse de"
         ],
         "englishwords": [
             "to look after"
@@ -369,18 +380,10 @@
     },
     {
         "spanishwords": [
-            "cumplir anos"
+            "cumplir años"
         ],
         "englishwords": [
             "to have a birthday"
-        ]
-    },
-    {
-        "spanishwords": [
-            "dar las gracias"
-        ],
-        "englishwords": [
-            "to thank"
         ]
     },
     {
@@ -436,12 +439,14 @@
             "encontrar"
         ],
         "englishwords": [
-            "to meet with someone"
+            "to meet with someone",
+            "to find"
         ]
     },
     {
         "spanishwords": [
-            "fastidiar"
+            "fastidiar",
+            "molestar"
         ],
         "englishwords": [
             "to annoy",
@@ -466,14 +471,6 @@
     },
     {
         "spanishwords": [
-            "mal con"
-        ],
-        "englishwords": [
-            "to get on  with someone"
-        ]
-    },
-    {
-        "spanishwords": [
             "llorar"
         ],
         "englishwords": [
@@ -482,19 +479,13 @@
     },
     {
         "spanishwords": [
-            "maltratar"
+            "maltratar",
+            "maltrato"
         ],
         "englishwords": [
             "to mistreat",
-            "abuse"
-        ]
-    },
-    {
-        "spanishwords": [
-            "molestar"
-        ],
-        "englishwords": [
-            "to bother"
+            "abuse",
+            "mistreatment"
         ]
     },
     {
@@ -503,14 +494,6 @@
         ],
         "englishwords": [
             "to be born"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ocuparse de"
-        ],
-        "englishwords": [
-            "to look after"
         ]
     },
     {
@@ -531,10 +514,14 @@
     },
     {
         "spanishwords": [
-            "pelear"
+            "pelear",
+            "combatir",
+            "luchar"
         ],
         "englishwords": [
-            "to fight"
+            "to fight",
+            "to combat",
+            "to struggle"
         ]
     },
     {
@@ -547,7 +534,7 @@
     },
     {
         "spanishwords": [
-            "reirse"
+            "reírse"
         ],
         "englishwords": [
             "to laugh"
@@ -580,7 +567,7 @@
     },
     {
         "spanishwords": [
-            "sonreirse"
+            "sonreírse"
         ],
         "englishwords": [
             "to smile"
@@ -588,18 +575,20 @@
     },
     {
         "spanishwords": [
-            "tener ganas"
+            "tener ganas",
+            "apetecer"
         ],
         "englishwords": [
-            "to feel like"
+            "to feel like",
+            "to fancy"
         ]
     },
     {
         "spanishwords": [
-            "teneranos"
+            "teneraños"
         ],
         "englishwords": [
-            "to beyears old"
+            "to beyears old"
         ]
     },
     {
@@ -645,22 +634,7 @@
     },
     {
         "spanishwords": [
-            "boda"
-        ],
-        "englishwords": [
-            "wedding"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carino"
-        ],
-        "englishwords": [
-            "affection"
-        ]
-    },
-    {
-        "spanishwords": [
+            "boda",
             "casamiento"
         ],
         "englishwords": [
@@ -669,7 +643,16 @@
     },
     {
         "spanishwords": [
-            "comprension"
+            "cariño"
+        ],
+        "englishwords": [
+            "affection"
+        ]
+    },
+    {
+        "spanishwords": [
+            "comprensión",
+            "comprensivo"
         ],
         "englishwords": [
             "understanding"
@@ -728,7 +711,8 @@
             "fiesta"
         ],
         "englishwords": [
-            "party"
+            "party",
+            "festival"
         ]
     },
     {
@@ -737,15 +721,6 @@
         ],
         "englishwords": [
             "home"
-        ]
-    },
-    {
-        "spanishwords": [
-            "maltrato"
-        ],
-        "englishwords": [
-            "mistreatment",
-            "abuse"
         ]
     },
     {
@@ -767,7 +742,8 @@
     },
     {
         "spanishwords": [
-            "ocio"
+            "ocio",
+            "tiempo libre"
         ],
         "englishwords": [
             "free time",
@@ -784,7 +760,8 @@
     },
     {
         "spanishwords": [
-            "paseo"
+            "paseo",
+            "salida"
         ],
         "englishwords": [
             "outing",
@@ -805,15 +782,17 @@
             "recuerdo"
         ],
         "englishwords": [
-            "memory"
+            "memory",
+            "Souvenir"
         ]
     },
     {
         "spanishwords": [
-            "reunion"
+            "reunión"
         ],
         "englishwords": [
-            "get-together"
+            "get-together",
+            "meeting"
         ]
     },
     {
@@ -827,26 +806,10 @@
     },
     {
         "spanishwords": [
-            "salida"
-        ],
-        "englishwords": [
-            "outing"
-        ]
-    },
-    {
-        "spanishwords": [
             "sentimiento"
         ],
         "englishwords": [
             "Feeling"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tiempo libre"
-        ],
-        "englishwords": [
-            "free time"
         ]
     },
     {
@@ -972,7 +935,7 @@
     },
     {
         "spanishwords": [
-            "genero"
+            "género"
         ],
         "englishwords": [
             "gender"
@@ -1028,15 +991,8 @@
     },
     {
         "spanishwords": [
-            "adolescente"
-        ],
-        "englishwords": [
-            "adolescent"
-        ]
-    },
-    {
-        "spanishwords": [
-            "alegre"
+            "alegre",
+            "feliz"
         ],
         "englishwords": [
             "happy"
@@ -1044,10 +1000,13 @@
     },
     {
         "spanishwords": [
-            "amable"
+            "amable",
+            "simpático"
         ],
         "englishwords": [
-            "kind"
+            "kind",
+            "nice",
+            "pleasant"
         ]
     },
     {
@@ -1060,14 +1019,6 @@
     },
     {
         "spanishwords": [
-            "anciano"
-        ],
-        "englishwords": [
-            "old"
-        ]
-    },
-    {
-        "spanishwords": [
             "animado"
         ],
         "englishwords": [
@@ -1076,7 +1027,7 @@
     },
     {
         "spanishwords": [
-            "antipatico"
+            "antipático"
         ],
         "englishwords": [
             "unpleasant"
@@ -1084,13 +1035,15 @@
     },
     {
         "spanishwords": [
-            "atrevido"
+            "atrevido",
+            "valiente"
         ],
         "englishwords": [
             "cheeky",
             "insolent",
             "bold",
-            "daring"
+            "daring",
+            "brave"
         ]
     },
     {
@@ -1121,7 +1074,7 @@
     },
     {
         "spanishwords": [
-            "carinoso"
+            "cariñoso"
         ],
         "englishwords": [
             "affectionate",
@@ -1130,7 +1083,7 @@
     },
     {
         "spanishwords": [
-            "castano"
+            "castaño"
         ],
         "englishwords": [
             "chestnut",
@@ -1155,15 +1108,9 @@
     },
     {
         "spanishwords": [
-            "comprensivo"
-        ],
-        "englishwords": [
-            "understanding"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cortes"
+            "cortés",
+            "educado",
+            "formal"
         ],
         "englishwords": [
             "polite"
@@ -1187,7 +1134,7 @@
     },
     {
         "spanishwords": [
-            "debil"
+            "débil"
         ],
         "englishwords": [
             "weak"
@@ -1203,34 +1150,10 @@
     },
     {
         "spanishwords": [
-            "educado"
-        ],
-        "englishwords": [
-            "polite"
-        ]
-    },
-    {
-        "spanishwords": [
-            "egoista"
+            "egoísta"
         ],
         "englishwords": [
             "selfish"
-        ]
-    },
-    {
-        "spanishwords": [
-            "feliz"
-        ],
-        "englishwords": [
-            "happy"
-        ]
-    },
-    {
-        "spanishwords": [
-            "formal"
-        ],
-        "englishwords": [
-            "polite"
         ]
     },
     {
@@ -1243,7 +1166,7 @@
     },
     {
         "spanishwords": [
-            "gloton"
+            "glotón"
         ],
         "englishwords": [
             "greedy"
@@ -1279,22 +1202,6 @@
         ],
         "englishwords": [
             "honest"
-        ]
-    },
-    {
-        "spanishwords": [
-            "joven"
-        ],
-        "englishwords": [
-            "young"
-        ]
-    },
-    {
-        "spanishwords": [
-            "jubilado"
-        ],
-        "englishwords": [
-            "retired"
         ]
     },
     {
@@ -1363,7 +1270,8 @@
     },
     {
         "spanishwords": [
-            "perezoso"
+            "perezoso",
+            "vago"
         ],
         "englishwords": [
             "lazy",
@@ -1375,7 +1283,8 @@
             "rico"
         ],
         "englishwords": [
-            "wealthy"
+            "wealthy",
+            "tasty"
         ]
     },
     {
@@ -1396,7 +1305,7 @@
     },
     {
         "spanishwords": [
-            "seguro de si mismo"
+            "seguro de sí mismo"
         ],
         "englishwords": [
             "self-assured"
@@ -1412,21 +1321,12 @@
     },
     {
         "spanishwords": [
-            "serio"
+            "serio",
+            "grave"
         ],
         "englishwords": [
             "serious",
             "responsible"
-        ]
-    },
-    {
-        "spanishwords": [
-            "simpatico"
-        ],
-        "englishwords": [
-            "kind",
-            "nice",
-            "pleasant"
         ]
     },
     {
@@ -1456,25 +1356,7 @@
     },
     {
         "spanishwords": [
-            "vago"
-        ],
-        "englishwords": [
-            "idle",
-            "lazy"
-        ]
-    },
-    {
-        "spanishwords": [
-            "valiente"
-        ],
-        "englishwords": [
-            "brave",
-            "bold"
-        ]
-    },
-    {
-        "spanishwords": [
-            "Ano Nuevo"
+            "Año Nuevo"
         ],
         "englishwords": [
             "New Year"
@@ -1486,14 +1368,6 @@
         ],
         "englishwords": [
             "flag"
-        ]
-    },
-    {
-        "spanishwords": [
-            "castanuelas"
-        ],
-        "englishwords": [
-            "castanets )"
         ]
     },
     {
@@ -1515,7 +1389,7 @@
     },
     {
         "spanishwords": [
-            "Dia de los Inocentes"
+            "Día de los Inocentes"
         ],
         "englishwords": [
             "28 December"
@@ -1523,15 +1397,15 @@
     },
     {
         "spanishwords": [
-            "Dia de los Muertos"
+            "Día de los Muertos"
         ],
         "englishwords": [
-            "All Souls Day"
+            "All Souls Day"
         ]
     },
     {
         "spanishwords": [
-            "Dia de Reyes"
+            "Día de Reyes"
         ],
         "englishwords": [
             "Epiphany",
@@ -1540,7 +1414,7 @@
     },
     {
         "spanishwords": [
-            "dia festivo"
+            "día festivo"
         ],
         "englishwords": [
             "public holiday"
@@ -1564,18 +1438,12 @@
     },
     {
         "spanishwords": [
-            "feria"
+            "feria",
+            "justo"
         ],
         "englishwords": [
-            "fair"
-        ]
-    },
-    {
-        "spanishwords": [
-            "fiesta"
-        ],
-        "englishwords": [
-            "festival"
+            "fair",
+            "just"
         ]
     },
     {
@@ -1604,7 +1472,7 @@
     },
     {
         "spanishwords": [
-            "muneca"
+            "muñeca"
         ],
         "englishwords": [
             "Doll"
@@ -1636,7 +1504,7 @@
     },
     {
         "spanishwords": [
-            "Papa Noel"
+            "Papá Noel"
         ],
         "englishwords": [
             "Father Christmas"
@@ -1663,7 +1531,7 @@
             "santo"
         ],
         "englishwords": [
-            "saints day"
+            "saints day"
         ]
     },
     {
@@ -1740,7 +1608,7 @@
     },
     {
         "spanishwords": [
-            "policiaco"
+            "policíaco"
         ],
         "englishwords": [
             "police"
@@ -1756,7 +1624,8 @@
     },
     {
         "spanishwords": [
-            "actuacion"
+            "actuación",
+            "papel"
         ],
         "englishwords": [
             "performance",
@@ -1776,15 +1645,18 @@
             "anuncio"
         ],
         "englishwords": [
-            "advert"
+            "advert",
+            "announcement"
         ]
     },
     {
         "spanishwords": [
-            "artista"
+            "artista",
+            "pintor"
         ],
         "englishwords": [
-            "artist"
+            "artist",
+            "painter"
         ]
     },
     {
@@ -1797,7 +1669,7 @@
     },
     {
         "spanishwords": [
-            "cancion"
+            "canción"
         ],
         "englishwords": [
             "song"
@@ -1813,7 +1685,7 @@
     },
     {
         "spanishwords": [
-            "ciencia ficcion"
+            "ciencia ficción"
         ],
         "englishwords": [
             "science fiction"
@@ -1845,7 +1717,7 @@
     },
     {
         "spanishwords": [
-            "grabacion"
+            "grabación"
         ],
         "englishwords": [
             "recording"
@@ -1864,7 +1736,8 @@
             "letra"
         ],
         "englishwords": [
-            "words"
+            "words",
+            "letter of the alphabet"
         ]
     },
     {
@@ -1877,15 +1750,7 @@
     },
     {
         "spanishwords": [
-            "papel"
-        ],
-        "englishwords": [
-            "role"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pelicula"
+            "película"
         ],
         "englishwords": [
             "film"
@@ -1896,7 +1761,8 @@
             "taquilla"
         ],
         "englishwords": [
-            "box office"
+            "box office",
+            "ticket office"
         ]
     },
     {
@@ -1941,7 +1807,7 @@
     },
     {
         "spanishwords": [
-            "atun"
+            "atún"
         ],
         "englishwords": [
             "tuna"
@@ -1949,7 +1815,7 @@
     },
     {
         "spanishwords": [
-            "azucar"
+            "azúcar"
         ],
         "englishwords": [
             "sugar"
@@ -1973,7 +1839,8 @@
     },
     {
         "spanishwords": [
-            "bistec"
+            "bistec",
+            "filete"
         ],
         "englishwords": [
             "steak"
@@ -2029,7 +1896,7 @@
     },
     {
         "spanishwords": [
-            "champinones"
+            "champiñones"
         ],
         "englishwords": [
             "mushrooms"
@@ -2037,7 +1904,8 @@
     },
     {
         "spanishwords": [
-            "chorizo"
+            "chorizo",
+            "salchicha"
         ],
         "englishwords": [
             "sausage"
@@ -2072,7 +1940,9 @@
             "comida"
         ],
         "englishwords": [
-            "junk/fast food"
+            "junk/fast food",
+            "meal",
+            "lunch"
         ]
     },
     {
@@ -2109,18 +1979,10 @@
     },
     {
         "spanishwords": [
-            "filete"
-        ],
-        "englishwords": [
-            "steak"
-        ]
-    },
-    {
-        "spanishwords": [
             "flan"
         ],
         "englishwords": [
-            "creme caramel"
+            "crème caramel"
         ]
     },
     {
@@ -2197,7 +2059,7 @@
     },
     {
         "spanishwords": [
-            "jamon"
+            "jamón"
         ],
         "englishwords": [
             "boiled ham"
@@ -2205,7 +2067,7 @@
     },
     {
         "spanishwords": [
-            "jamon serrano"
+            "jamón serrano"
         ],
         "englishwords": [
             "cured ham"
@@ -2213,7 +2075,7 @@
     },
     {
         "spanishwords": [
-            "judias verdes"
+            "judías verdes"
         ],
         "englishwords": [
             "string beans"
@@ -2237,7 +2099,8 @@
     },
     {
         "spanishwords": [
-            "legumbres"
+            "legumbres",
+            "verduras"
         ],
         "englishwords": [
             "vegetables",
@@ -2270,7 +2133,7 @@
     },
     {
         "spanishwords": [
-            "melocoton"
+            "melocotón"
         ],
         "englishwords": [
             "peach"
@@ -2352,15 +2215,6 @@
     },
     {
         "spanishwords": [
-            "pescado",
-            ""
-        ],
-        "englishwords": [
-            "fish"
-        ]
-    },
-    {
-        "spanishwords": [
             "pimienta"
         ],
         "englishwords": [
@@ -2377,7 +2231,7 @@
     },
     {
         "spanishwords": [
-            "pina"
+            "piña"
         ],
         "englishwords": [
             "pineapple"
@@ -2385,7 +2239,7 @@
     },
     {
         "spanishwords": [
-            "platano"
+            "plátano"
         ],
         "englishwords": [
             "banana"
@@ -2417,15 +2271,7 @@
     },
     {
         "spanishwords": [
-            "salchicha"
-        ],
-        "englishwords": [
-            "sausage"
-        ]
-    },
-    {
-        "spanishwords": [
-            "salchichon"
+            "salchichón"
         ],
         "englishwords": [
             "salami"
@@ -2482,14 +2328,6 @@
     },
     {
         "spanishwords": [
-            "verduras"
-        ],
-        "englishwords": [
-            "vegetables"
-        ]
-    },
-    {
-        "spanishwords": [
             "zanahoria"
         ],
         "englishwords": [
@@ -2502,1054 +2340,6 @@
         ],
         "englishwords": [
             "mineral water"
-        ]
-    },
-    {
-        "spanishwords": [
-            "te"
-        ],
-        "englishwords": [
-            "Tea"
-        ]
-    },
-    {
-        "spanishwords": [
-            "vino"
-        ],
-        "englishwords": [
-            "wine"
-        ]
-    },
-    {
-        "spanishwords": [
-            "zumo"
-        ],
-        "englishwords": [
-            "juice"
-        ]
-    },
-    {
-        "spanishwords": [
-            "almorzar"
-        ],
-        "englishwords": [
-            "to have lunch"
-        ]
-    },
-    {
-        "spanishwords": [
-            "apetecer"
-        ],
-        "englishwords": [
-            "to fancy",
-            "to feel like"
-        ]
-    },
-    {
-        "spanishwords": [
-            "beber"
-        ],
-        "englishwords": [
-            "to drink"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cenar"
-        ],
-        "englishwords": [
-            "to have the evening meal"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cocinar"
-        ],
-        "englishwords": [
-            "to cook"
-        ]
-    },
-    {
-        "spanishwords": [
-            "comer"
-        ],
-        "englishwords": [
-            "to eat"
-        ]
-    },
-    {
-        "spanishwords": [
-            "desayunar"
-        ],
-        "englishwords": [
-            "to have breakfast"
-        ]
-    },
-    {
-        "spanishwords": [
-            "elegir"
-        ],
-        "englishwords": [
-            "to choose"
-        ]
-    },
-    {
-        "spanishwords": [
-            "escoger"
-        ],
-        "englishwords": [
-            "to choose"
-        ]
-    },
-    {
-        "spanishwords": [
-            "merendar"
-        ],
-        "englishwords": [
-            "to have a snack/picnic"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pedir"
-        ],
-        "englishwords": [
-            "to order",
-            "ask for"
-        ]
-    },
-    {
-        "spanishwords": [
-            "probar"
-        ],
-        "englishwords": [
-            "to taste",
-            "to try"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tener hambre"
-        ],
-        "englishwords": [
-            "to be hungry"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tener sed"
-        ],
-        "englishwords": [
-            "to be thirsty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tomar"
-        ],
-        "englishwords": [
-            "to have",
-            "to take"
-        ]
-    },
-    {
-        "spanishwords": [
-            "traer"
-        ],
-        "englishwords": [
-            "to bring"
-        ]
-    },
-    {
-        "spanishwords": [
-            "alimentacion",
-            "la"
-        ],
-        "englishwords": [
-            "food",
-            "nourishment"
-        ]
-    },
-    {
-        "spanishwords": [
-            "alimento"
-        ],
-        "englishwords": [
-            "foodstuff"
-        ]
-    },
-    {
-        "spanishwords": [
-            "almuerzo"
-        ],
-        "englishwords": [
-            "lunch"
-        ]
-    },
-    {
-        "spanishwords": [
-            "bebida"
-        ],
-        "englishwords": [
-            "drink"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carta"
-        ],
-        "englishwords": [
-            "menu"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cena"
-        ],
-        "englishwords": [
-            "dinner"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cocina"
-        ],
-        "englishwords": [
-            "cooking"
-        ]
-    },
-    {
-        "spanishwords": [
-            "comida"
-        ],
-        "englishwords": [
-            "meal",
-            "lunch"
-        ]
-    },
-    {
-        "spanishwords": [
-            "copa"
-        ],
-        "englishwords": [
-            "wine glass"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cuchara"
-        ],
-        "englishwords": [
-            "spoon"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cuchillo"
-        ],
-        "englishwords": [
-            "knife"
-        ]
-    },
-    {
-        "spanishwords": [
-            "cuenta"
-        ],
-        "englishwords": [
-            "bill"
-        ]
-    },
-    {
-        "spanishwords": [
-            "desayuno"
-        ],
-        "englishwords": [
-            "breakfast"
-        ]
-    },
-    {
-        "spanishwords": [
-            "heladeria"
-        ],
-        "englishwords": [
-            "ice cream parlour"
-        ]
-    },
-    {
-        "spanishwords": [
-            "merienda"
-        ],
-        "englishwords": [
-            "snack/picnic"
-        ]
-    },
-    {
-        "spanishwords": [
-            "nada mas"
-        ],
-        "englishwords": [
-            "nothing else"
-        ]
-    },
-    {
-        "spanishwords": [
-            "plato"
-        ],
-        "englishwords": [
-            "dish"
-        ]
-    },
-    {
-        "spanishwords": [
-            "postre"
-        ],
-        "englishwords": [
-            "dessert"
-        ]
-    },
-    {
-        "spanishwords": [
-            "propina"
-        ],
-        "englishwords": [
-            "tip"
-        ]
-    },
-    {
-        "spanishwords": [
-            "servicios"
-        ],
-        "englishwords": [
-            "toilets"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tenedor"
-        ],
-        "englishwords": [
-            "fork"
-        ]
-    },
-    {
-        "spanishwords": [
-            "vaso"
-        ],
-        "englishwords": [
-            "glass"
-        ]
-    },
-    {
-        "spanishwords": [
-            "a la plancha"
-        ],
-        "englishwords": [
-            "grilled"
-        ]
-    },
-    {
-        "spanishwords": [
-            "apto"
-        ],
-        "englishwords": [
-            "suitable"
-        ]
-    },
-    {
-        "spanishwords": [
-            "asado"
-        ],
-        "englishwords": [
-            "roast"
-        ]
-    },
-    {
-        "spanishwords": [
-            "dulce"
-        ],
-        "englishwords": [
-            "sweet"
-        ]
-    },
-    {
-        "spanishwords": [
-            "frito"
-        ],
-        "englishwords": [
-            "fried"
-        ]
-    },
-    {
-        "spanishwords": [
-            "hervido"
-        ],
-        "englishwords": [
-            "boiled"
-        ]
-    },
-    {
-        "spanishwords": [
-            "incluido"
-        ],
-        "englishwords": [
-            "included"
-        ]
-    },
-    {
-        "spanishwords": [
-            "picante"
-        ],
-        "englishwords": [
-            "spicy"
-        ]
-    },
-    {
-        "spanishwords": [
-            "rico"
-        ],
-        "englishwords": [
-            "tasty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "sabroso"
-        ],
-        "englishwords": [
-            "tasty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "salado"
-        ],
-        "englishwords": [
-            "salty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "divertir"
-        ],
-        "englishwords": [
-            "to have a good time"
-        ]
-    },
-    {
-        "spanishwords": [
-            "hacer cola"
-        ],
-        "englishwords": [
-            "to queue"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ser aficionado a"
-        ],
-        "englishwords": [
-            "to be very keen on/fond of"
-        ]
-    },
-    {
-        "spanishwords": [
-            "tocar"
-        ],
-        "englishwords": [
-            "to play",
-            "to touch"
-        ]
-    },
-    {
-        "spanishwords": [
-            "al aire libre"
-        ],
-        "englishwords": [
-            "outdoors"
-        ]
-    },
-    {
-        "spanishwords": [
-            "bateria"
-        ],
-        "englishwords": [
-            "drums"
-        ]
-    },
-    {
-        "spanishwords": [
-            "bicicleta/bici"
-        ],
-        "englishwords": [
-            "bicycle",
-            "bike"
-        ]
-    },
-    {
-        "spanishwords": [
-            "campeon"
-        ],
-        "englishwords": [
-            "winner",
-            "champion"
-        ]
-    },
-    {
-        "spanishwords": [
-            "campeonato"
-        ],
-        "englishwords": [
-            "championship"
-        ]
-    },
-    {
-        "spanishwords": [
-            "carrera"
-        ],
-        "englishwords": [
-            "race v"
-        ]
-    },
-    {
-        "spanishwords": [
-            "concurso"
-        ],
-        "englishwords": [
-            "contest",
-            "competition"
-        ]
-    },
-    {
-        "spanishwords": [
-            "copa"
-        ],
-        "englishwords": [
-            "cup",
-            "trophy"
-        ]
-    },
-    {
-        "spanishwords": [
-            "diversion"
-        ],
-        "englishwords": [
-            "pastime",
-            "hobby",
-            "entertainment"
-        ]
-    },
-    {
-        "spanishwords": [
-            "entrada"
-        ],
-        "englishwords": [
-            "ticket"
-        ]
-    },
-    {
-        "spanishwords": [
-            "espectaculo"
-        ],
-        "englishwords": [
-            "show"
-        ]
-    },
-    {
-        "spanishwords": [
-            "estadio"
-        ],
-        "englishwords": [
-            "stadium"
-        ]
-    },
-    {
-        "spanishwords": [
-            "funcion"
-        ],
-        "englishwords": [
-            "show",
-            "performance"
-        ]
-    },
-    {
-        "spanishwords": [
-            "juego"
-        ],
-        "englishwords": [
-            "game",
-            "fun",
-            "amusement"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pelota"
-        ],
-        "englishwords": [
-            "ball"
-        ]
-    },
-    {
-        "spanishwords": [
-            "premio"
-        ],
-        "englishwords": [
-            "prize"
-        ]
-    },
-    {
-        "spanishwords": [
-            "socio"
-        ],
-        "englishwords": [
-            "member"
-        ]
-    },
-    {
-        "spanishwords": [
-            "andar"
-        ],
-        "englishwords": [
-            "to walk"
-        ]
-    },
-    {
-        "spanishwords": [
-            "bailar"
-        ],
-        "englishwords": [
-            "to dance"
-        ]
-    },
-    {
-        "spanishwords": [
-            "correr"
-        ],
-        "englishwords": [
-            "to run"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ganar"
-        ],
-        "englishwords": [
-            "to win"
-        ]
-    },
-    {
-        "spanishwords": [
-            "jugar"
-        ],
-        "englishwords": [
-            "to play"
-        ]
-    },
-    {
-        "spanishwords": [
-            "marcar"
-        ],
-        "englishwords": [
-            "to score"
-        ]
-    },
-    {
-        "spanishwords": [
-            "montar"
-        ],
-        "englishwords": [
-            "to ride"
-        ]
-    },
-    {
-        "spanishwords": [
-            "nadar"
-        ],
-        "englishwords": [
-            "to swim"
-        ]
-    },
-    {
-        "spanishwords": [
-            "patinar"
-        ],
-        "englishwords": [
-            "to skate"
-        ]
-    },
-    {
-        "spanishwords": [
-            "perder"
-        ],
-        "englishwords": [
-            "to lose"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pescar"
-        ],
-        "englishwords": [
-            "to fish"
-        ]
-    },
-    {
-        "spanishwords": [
-            "alpinismo"
-        ],
-        "englishwords": [
-            "mountain climbing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "baile"
-        ],
-        "englishwords": [
-            "dancing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "baloncesto"
-        ],
-        "englishwords": [
-            "basketball"
-        ]
-    },
-    {
-        "spanishwords": [
-            "billar"
-        ],
-        "englishwords": [
-            "billiards"
-        ]
-    },
-    {
-        "spanishwords": [
-            "deporte"
-        ],
-        "englishwords": [
-            "sport"
-        ]
-    },
-    {
-        "spanishwords": [
-            "deportes de riesgo"
-        ],
-        "englishwords": [
-            "adventure sports"
-        ]
-    },
-    {
-        "spanishwords": [
-            "deportista"
-        ],
-        "englishwords": [
-            "sports person"
-        ]
-    },
-    {
-        "spanishwords": [
-            "equipo"
-        ],
-        "englishwords": [
-            "team",
-            "equipment"
-        ]
-    },
-    {
-        "spanishwords": [
-            "equitacion"
-        ],
-        "englishwords": [
-            "horse riding"
-        ]
-    },
-    {
-        "spanishwords": [
-            "gol"
-        ],
-        "englishwords": [
-            "goal"
-        ]
-    },
-    {
-        "spanishwords": [
-            "Juegos Olimpicos"
-        ],
-        "englishwords": [
-            "Olympic Games"
-        ]
-    },
-    {
-        "spanishwords": [
-            "jugador"
-        ],
-        "englishwords": [
-            "player"
-        ]
-    },
-    {
-        "spanishwords": [
-            "monopatin"
-        ],
-        "englishwords": [
-            "skateboard"
-        ]
-    },
-    {
-        "spanishwords": [
-            "natacion"
-        ],
-        "englishwords": [
-            "swimming"
-        ]
-    },
-    {
-        "spanishwords": [
-            "partido"
-        ],
-        "englishwords": [
-            "match"
-        ]
-    },
-    {
-        "spanishwords": [
-            "patinaje"
-        ],
-        "englishwords": [
-            "skating"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pesca"
-        ],
-        "englishwords": [
-            "fishing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "piraguismo"
-        ],
-        "englishwords": [
-            "canoeing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pista de hielo"
-        ],
-        "englishwords": [
-            "ice rink"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pista"
-        ],
-        "englishwords": [
-            "track",
-            "court",
-            "run",
-            "slope",
-            "rink"
-        ]
-    },
-    {
-        "spanishwords": [
-            "seleccion"
-        ],
-        "englishwords": [
-            "team",
-            "side"
-        ]
-    },
-    {
-        "spanishwords": [
-            "torneo"
-        ],
-        "englishwords": [
-            "tournament"
-        ]
-    },
-    {
-        "spanishwords": [
-            "vela"
-        ],
-        "englishwords": [
-            "sail",
-            "sailing"
-        ]
-    },
-    {
-        "spanishwords": [
-            "deportista"
-        ],
-        "englishwords": [
-            "sporty"
-        ]
-    },
-    {
-        "spanishwords": [
-            "archivo"
-        ],
-        "englishwords": [
-            "File"
-        ]
-    },
-    {
-        "spanishwords": [
-            "buscador"
-        ],
-        "englishwords": [
-            "search engine"
-        ]
-    },
-    {
-        "spanishwords": [
-            "buzon"
-        ],
-        "englishwords": [
-            "mail box"
-        ]
-    },
-    {
-        "spanishwords": [
-            "contrasena"
-        ],
-        "englishwords": [
-            "password"
-        ]
-    },
-    {
-        "spanishwords": [
-            "correo basura"
-        ],
-        "englishwords": [
-            "spam"
-        ]
-    },
-    {
-        "spanishwords": [
-            "correo electronico"
-        ],
-        "englishwords": [
-            "email"
-        ]
-    },
-    {
-        "spanishwords": [
-            "disco duro"
-        ],
-        "englishwords": [
-            "hard drive"
-        ]
-    },
-    {
-        "spanishwords": [
-            "guion bajo"
-        ],
-        "englishwords": [
-            "underscore"
-        ]
-    },
-    {
-        "spanishwords": [
-            "guion"
-        ],
-        "englishwords": [
-            "hyphen"
-        ]
-    },
-    {
-        "spanishwords": [
-            "herramienta"
-        ],
-        "englishwords": [
-            "tool"
-        ]
-    },
-    {
-        "spanishwords": [
-            "internauta"
-        ],
-        "englishwords": [
-            "internet user"
-        ]
-    },
-    {
-        "spanishwords": [
-            "marcador"
-        ],
-        "englishwords": [
-            "bookmark"
-        ]
-    },
-    {
-        "spanishwords": [
-            "mensaje"
-        ],
-        "englishwords": [
-            "text"
-        ]
-    },
-    {
-        "spanishwords": [
-            "muro"
-        ],
-        "englishwords": [
-            "wall"
-        ]
-    },
-    {
-        "spanishwords": [
-            "navegador"
-        ],
-        "englishwords": [
-            "browser"
-        ]
-    },
-    {
-        "spanishwords": [
-            "ordenador"
-        ],
-        "englishwords": [
-            "computer"
-        ]
-    },
-    {
-        "spanishwords": [
-            "pantalla"
-        ],
-        "englishwords": [
-            "screen"
-        ]
-    },
-    {
-        "spanishwords": [
-            "periodico"
-        ],
-        "englishwords": [
-            "newspaper"
-        ]
-    },
-    {
-        "spanishwords": [
-            "portada"
-        ],
-        "englishwords": [
-            "homepage"
-        ]
-    },
-    {
-        "spanishwords": [
-            "portatil"
-        ],
-        "englishwords": [
-            "laptop"
         ]
     }
 ]
