@@ -107,7 +107,15 @@ function CheckAnswer()
         correctAnswers = currentWord.spanishwords.map(word => ConvertToAscii(word.toLowerCase()));
     }
   
-    let isCorrect = correctAnswers.some(correctAnswer => EditDistance(userAnswer, correctAnswer) <= 2);
+    let isCorrect = false;
+    
+    correctAnswers.forEach((ans) =>
+    {
+        if(EditDistance(userAnswer, ans <=2))
+        {
+            isCorrect = true;
+        }
+    });
 
     if (!isCorrect && userAnswer.length > 3) 
     {
