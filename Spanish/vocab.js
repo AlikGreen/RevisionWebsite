@@ -31,6 +31,9 @@ var wordsSet;
 setInputElement.addEventListener("change", (event) =>
 {
     LoadJson(event.target.value)
+    score = 0;
+    answered = 0;
+    index = 0;
 });
 nextButtonElement.addEventListener("click", NextWord);
 submitButtonElement.addEventListener("click", CheckAnswer);
@@ -76,9 +79,12 @@ function LoadJson(filename) {
 var currentWord;
 var isSpanishToEnglish;
 
+var index = 0;
+
 function NextWord()
 {
-    currentWord = RandomChoice(wordsSet)
+    currentWord = wordsSet[index];
+    index++;
     isSpanishToEnglish = RandomChoice([true, false])
     if(isSpanishToEnglish)
     {
