@@ -1,0 +1,9426 @@
+[
+    {
+        "spanishwords": [
+            "beau-pere"
+        ],
+        "englishwords": [
+            "step-father"
+        ]
+    },
+    {
+        "spanishwords": [
+            "belle-mere"
+        ],
+        "englishwords": [
+            "step-mother"
+        ]
+    },
+    {
+        "spanishwords": [
+            "copain",
+            "copine"
+        ],
+        "englishwords": [
+            "friend",
+            "mate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demi-frere"
+        ],
+        "englishwords": [
+            "half-brother"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demi-sur"
+        ],
+        "englishwords": [
+            "half-sister"
+        ]
+    },
+    {
+        "spanishwords": [
+            "femme"
+        ],
+        "englishwords": [
+            "wife",
+            "woman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fille"
+        ],
+        "englishwords": [
+            "daughter",
+            "girl"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fils"
+        ],
+        "englishwords": [
+            "son"
+        ]
+    },
+    {
+        "spanishwords": [
+            "grand-mere"
+        ],
+        "englishwords": [
+            "grandmother"
+        ]
+    },
+    {
+        "spanishwords": [
+            "grand-pere"
+        ],
+        "englishwords": [
+            "grandfather"
+        ]
+    },
+    {
+        "spanishwords": [
+            "grands-parents"
+        ],
+        "englishwords": [
+            "grandparents"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jumeau",
+            "jumelle"
+        ],
+        "englishwords": [
+            "twin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "neveu"
+        ],
+        "englishwords": [
+            "nephew"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petite-fille"
+        ],
+        "englishwords": [
+            "granddaughter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petit-fils"
+        ],
+        "englishwords": [
+            "grandson"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tante"
+        ],
+        "englishwords": [
+            "aunt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "epouser"
+        ],
+        "englishwords": [
+            "to marry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre daccord"
+        ],
+        "englishwords": [
+            "to agree"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se marier"
+        ],
+        "englishwords": [
+            "to get married",
+            "to marry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "separer"
+        ],
+        "englishwords": [
+            "to separate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sortir"
+        ],
+        "englishwords": [
+            "to go out"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vivre"
+        ],
+        "englishwords": [
+            "to live"
+        ]
+    },
+    {
+        "spanishwords": [
+            "amour"
+        ],
+        "englishwords": [
+            "love"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bague"
+        ],
+        "englishwords": [
+            "ring"
+        ]
+    },
+    {
+        "spanishwords": [
+            "femme"
+        ],
+        "englishwords": [
+            "wife"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fiancailles"
+        ],
+        "englishwords": [
+            "engagement"
+        ]
+    },
+    {
+        "spanishwords": [
+            "liberte"
+        ],
+        "englishwords": [
+            "freedom"
+        ]
+    },
+    {
+        "spanishwords": [
+            "noces"
+        ],
+        "englishwords": [
+            "wedding"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mari"
+        ],
+        "englishwords": [
+            "husband"
+        ]
+    },
+    {
+        "spanishwords": [
+            "partenaire"
+        ],
+        "englishwords": [
+            "partner"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petit ami"
+        ],
+        "englishwords": [
+            "boyfriend"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petite amie"
+        ],
+        "englishwords": [
+            "girlfriend"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vie"
+        ],
+        "englishwords": [
+            "life"
+        ]
+    },
+    {
+        "spanishwords": [
+            "celibataire"
+        ],
+        "englishwords": [
+            "single"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ensemble"
+        ],
+        "englishwords": [
+            "together"
+        ]
+    },
+    {
+        "spanishwords": [
+            "separe"
+        ],
+        "englishwords": [
+            "separated"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir...ans"
+        ],
+        "englishwords": [
+            "to be...years old"
+        ]
+    },
+    {
+        "spanishwords": [
+            "connaitre"
+        ],
+        "englishwords": [
+            "to know"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dire"
+        ],
+        "englishwords": [
+            "to say",
+            "to tell"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire confiance"
+        ],
+        "englishwords": [
+            "to trust"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gater"
+        ],
+        "englishwords": [
+            "to spoil"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gener"
+        ],
+        "englishwords": [
+            "to annoy",
+            "to embarrass"
+        ]
+    },
+    {
+        "spanishwords": [
+            "en avoir marre de"
+        ],
+        "englishwords": [
+            "to be fed up with"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mepriser"
+        ],
+        "englishwords": [
+            "to despise"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mourir"
+        ],
+        "englishwords": [
+            "to die"
+        ]
+    },
+    {
+        "spanishwords": [
+            "naitre"
+        ],
+        "englishwords": [
+            "to be born"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mort"
+        ],
+        "englishwords": [
+            "dead"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ne le..."
+        ],
+        "englishwords": [
+            "born on the..."
+        ]
+    },
+    {
+        "spanishwords": [
+            "partager"
+        ],
+        "englishwords": [
+            "to share"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rigoler"
+        ],
+        "englishwords": [
+            "to have a laugh"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rire"
+        ],
+        "englishwords": [
+            "to laugh"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sappeler"
+        ],
+        "englishwords": [
+            "to be called"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sentendre avec"
+        ],
+        "englishwords": [
+            "to get on with"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se disputer"
+        ],
+        "englishwords": [
+            "to argue"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se faire des amis"
+        ],
+        "englishwords": [
+            "to make friends"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se mettre en colere"
+        ],
+        "englishwords": [
+            "to get angry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se rendre compte"
+        ],
+        "englishwords": [
+            "to realise"
+        ]
+    },
+    {
+        "spanishwords": [
+            "barbe"
+        ],
+        "englishwords": [
+            "beard"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bouton"
+        ],
+        "englishwords": [
+            "spot",
+            "pimple"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cheveux"
+        ],
+        "englishwords": [
+            "hair"
+        ]
+    },
+    {
+        "spanishwords": [
+            "confiance"
+        ],
+        "englishwords": [
+            "trust"
+        ]
+    },
+    {
+        "spanishwords": [
+            "esprit"
+        ],
+        "englishwords": [
+            "mind"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lunettes"
+        ],
+        "englishwords": [
+            "glasses"
+        ]
+    },
+    {
+        "spanishwords": [
+            "naissance"
+        ],
+        "englishwords": [
+            "birth"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nom"
+        ],
+        "englishwords": [
+            "name"
+        ]
+    },
+    {
+        "spanishwords": [
+            "prenom"
+        ],
+        "englishwords": [
+            "first name"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rapports"
+        ],
+        "englishwords": [
+            "relationships"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sens de lhumour"
+        ],
+        "englishwords": [
+            "sense of humour"
+        ]
+    },
+    {
+        "spanishwords": [
+            "yeux"
+        ],
+        "englishwords": [
+            "eyes"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aine"
+        ],
+        "englishwords": [
+            "elder"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aimable"
+        ],
+        "englishwords": [
+            "kind",
+            "polite"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bavard"
+        ],
+        "englishwords": [
+            "chatty",
+            "talkative"
+        ]
+    },
+    {
+        "spanishwords": [
+            "beau",
+            "bel",
+            "belle"
+        ],
+        "englishwords": [
+            "beautiful",
+            "attractive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bete"
+        ],
+        "englishwords": [
+            "stupid",
+            "silly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boucle"
+        ],
+        "englishwords": [
+            "curly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "comprehensive"
+        ],
+        "englishwords": [
+            "understanding"
+        ]
+    },
+    {
+        "spanishwords": [
+            "court"
+        ],
+        "englishwords": [
+            "short"
+        ]
+    },
+    {
+        "spanishwords": [
+            "de mauvaise humeur"
+        ],
+        "englishwords": [
+            "bad tempered"
+        ]
+    },
+    {
+        "spanishwords": [
+            "de taille moyenne"
+        ],
+        "englishwords": [
+            "medium height"
+        ]
+    },
+    {
+        "spanishwords": [
+            "egoiste"
+        ],
+        "englishwords": [
+            "selfish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etonnant"
+        ],
+        "englishwords": [
+            "amazing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etrange"
+        ],
+        "englishwords": [
+            "strange"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fache"
+        ],
+        "englishwords": [
+            "angry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fier",
+            "fiere"
+        ],
+        "englishwords": [
+            "proud"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fou",
+            "folle"
+        ],
+        "englishwords": [
+            "mad",
+            "crazy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "frise"
+        ],
+        "englishwords": [
+            "curly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "",
+            "genereuse"
+        ],
+        "englishwords": [
+            "generous"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gentil",
+            "gentille"
+        ],
+        "englishwords": [
+            "kind",
+            "nice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gros",
+            "grosse"
+        ],
+        "englishwords": [
+            "fat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "heureux",
+            "heureuse"
+        ],
+        "englishwords": [
+            "happy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "injuste"
+        ],
+        "englishwords": [
+            "unfair"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jaloux",
+            "jalouse"
+        ],
+        "englishwords": [
+            "jealous"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jeune"
+        ],
+        "englishwords": [
+            "young"
+        ]
+    },
+    {
+        "spanishwords": [
+            "joli"
+        ],
+        "englishwords": [
+            "pretty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "laid"
+        ],
+        "englishwords": [
+            "ugly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "libre"
+        ],
+        "englishwords": [
+            "free"
+        ]
+    },
+    {
+        "spanishwords": [
+            "long",
+            "longue"
+        ],
+        "englishwords": [
+            "long"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mechant"
+        ],
+        "englishwords": [
+            "naughty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mi-long"
+        ],
+        "englishwords": [
+            "medium length"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ondule"
+        ],
+        "englishwords": [
+            "wavy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "paresseuse"
+        ],
+        "englishwords": [
+            "lazy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "penible"
+        ],
+        "englishwords": [
+            "annoying"
+        ]
+    },
+    {
+        "spanishwords": [
+            "raide"
+        ],
+        "englishwords": [
+            "straight"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sportif",
+            "sportive"
+        ],
+        "englishwords": [
+            "sporty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sympa"
+        ],
+        "englishwords": [
+            "kind",
+            "nice",
+            "friendly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "timide"
+        ],
+        "englishwords": [
+            "shy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tranquille"
+        ],
+        "englishwords": [
+            "quiet",
+            "calm"
+        ]
+    },
+    {
+        "spanishwords": [
+            "travailleuse"
+        ],
+        "englishwords": [
+            "hard-working"
+        ]
+    },
+    {
+        "spanishwords": [
+            "triste"
+        ],
+        "englishwords": [
+            "sad"
+        ]
+    },
+    {
+        "spanishwords": [
+            "unique"
+        ],
+        "englishwords": [
+            "only"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vieux",
+            "vieil",
+            "vieille"
+        ],
+        "englishwords": [
+            "old"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vif",
+            "vive"
+        ],
+        "englishwords": [
+            "lively"
+        ]
+    },
+    {
+        "spanishwords": [
+            "acheter"
+        ],
+        "englishwords": [
+            "to buy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chercher"
+        ],
+        "englishwords": [
+            "to look for"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cliquer"
+        ],
+        "englishwords": [
+            "to click"
+        ]
+    },
+    {
+        "spanishwords": [
+            "effacer"
+        ],
+        "englishwords": [
+            "to delete"
+        ]
+    },
+    {
+        "spanishwords": [
+            "enregistrer"
+        ],
+        "englishwords": [
+            "to record"
+        ]
+    },
+    {
+        "spanishwords": [
+            "envoyer"
+        ],
+        "englishwords": [
+            "to send"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire des achats"
+        ],
+        "englishwords": [
+            "to shop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "imprimer"
+        ],
+        "englishwords": [
+            "to print"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mettre"
+        ],
+        "englishwords": [
+            "to put"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mettre en ligne"
+        ],
+        "englishwords": [
+            "to upload"
+        ]
+    },
+    {
+        "spanishwords": [
+            "passer du temps"
+        ],
+        "englishwords": [
+            "to spend time"
+        ]
+    },
+    {
+        "spanishwords": [
+            "recevoir"
+        ],
+        "englishwords": [
+            "to receive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "remplir"
+        ],
+        "englishwords": [
+            "to fill in"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rester en contact"
+        ],
+        "englishwords": [
+            "to stay in contact"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sauvegarder"
+        ],
+        "englishwords": [
+            "to save"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se servir de"
+        ],
+        "englishwords": [
+            "to use"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sinteresser a"
+        ],
+        "englishwords": [
+            "to be interested in"
+        ]
+    },
+    {
+        "spanishwords": [
+            "surfer sur Internet"
+        ],
+        "englishwords": [
+            "to browse the internet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "taper"
+        ],
+        "englishwords": [
+            "to type"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tchatter"
+        ],
+        "englishwords": [
+            "to talk online"
+        ]
+    },
+    {
+        "spanishwords": [
+            "telecharger"
+        ],
+        "englishwords": [
+            "to download"
+        ]
+    },
+    {
+        "spanishwords": [
+            "utiliser"
+        ],
+        "englishwords": [
+            "to use"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avantage"
+        ],
+        "englishwords": [
+            "advantage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bloggeur",
+            "bloggeuse"
+        ],
+        "englishwords": [
+            "blogger"
+        ]
+    },
+    {
+        "spanishwords": [
+            "camescope"
+        ],
+        "englishwords": [
+            "camcorder"
+        ]
+    },
+    {
+        "spanishwords": [
+            "clavier"
+        ],
+        "englishwords": [
+            "keyboard"
+        ]
+    },
+    {
+        "spanishwords": [
+            "compte"
+        ],
+        "englishwords": [
+            "account"
+        ]
+    },
+    {
+        "spanishwords": [
+            "console de jeux"
+        ],
+        "englishwords": [
+            "games console"
+        ]
+    },
+    {
+        "spanishwords": [
+            "courrier electronique",
+            "courriel"
+        ],
+        "englishwords": [
+            "email"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cyber intimidation"
+        ],
+        "englishwords": [
+            "cyber bullying"
+        ]
+    },
+    {
+        "spanishwords": [
+            "desavantage"
+        ],
+        "englishwords": [
+            "disadvantage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecran"
+        ],
+        "englishwords": [
+            "screen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecran tactile"
+        ],
+        "englishwords": [
+            "touch screen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fichier"
+        ],
+        "englishwords": [
+            "file"
+        ]
+    },
+    {
+        "spanishwords": [
+            "forum"
+        ],
+        "englishwords": [
+            "chat room"
+        ]
+    },
+    {
+        "spanishwords": [
+            "genre"
+        ],
+        "englishwords": [
+            "type",
+            "kind"
+        ]
+    },
+    {
+        "spanishwords": [
+            "imprimante"
+        ],
+        "englishwords": [
+            "printer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "inconvenient"
+        ],
+        "englishwords": [
+            "disadvantage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "internaute"
+        ],
+        "englishwords": [
+            "internet user"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jeu"
+        ],
+        "englishwords": [
+            "game"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lecteur DVD"
+        ],
+        "englishwords": [
+            "DVD player"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lecteur MP3"
+        ],
+        "englishwords": [
+            "MP3 player"
+        ]
+    },
+    {
+        "spanishwords": [
+            "logiciel"
+        ],
+        "englishwords": [
+            "software"
+        ]
+    },
+    {
+        "spanishwords": [
+            "moniteur"
+        ],
+        "englishwords": [
+            "monitor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mot de passe"
+        ],
+        "englishwords": [
+            "password"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ordinateur"
+        ],
+        "englishwords": [
+            "computer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "portable"
+        ],
+        "englishwords": [
+            "laptop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ordinateur tablette"
+        ],
+        "englishwords": [
+            "tablet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "page daccueil"
+        ],
+        "englishwords": [
+            "welcome page"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pile"
+        ],
+        "englishwords": [
+            "battery"
+        ]
+    },
+    {
+        "spanishwords": [
+            "portable"
+        ],
+        "englishwords": [
+            "mobile"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reseau social"
+        ],
+        "englishwords": [
+            "social network"
+        ]
+    },
+    {
+        "spanishwords": [
+            "site internet"
+        ],
+        "englishwords": [
+            "website"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sondage"
+        ],
+        "englishwords": [
+            "survey"
+        ]
+    },
+    {
+        "spanishwords": [
+            "souris"
+        ],
+        "englishwords": [
+            "mouse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "texto"
+        ],
+        "englishwords": [
+            "text"
+        ]
+    },
+    {
+        "spanishwords": [
+            "touche"
+        ],
+        "englishwords": [
+            "key"
+        ]
+    },
+    {
+        "spanishwords": [
+            "traitement de texte"
+        ],
+        "englishwords": [
+            "word processing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dangereux"
+        ],
+        "englishwords": [
+            "dangerous"
+        ]
+    },
+    {
+        "spanishwords": [
+            "en ligne"
+        ],
+        "englishwords": [
+            "online"
+        ]
+    },
+    {
+        "spanishwords": [
+            "numerique"
+        ],
+        "englishwords": [
+            "digital"
+        ]
+    },
+    {
+        "spanishwords": [
+            "feter"
+        ],
+        "englishwords": [
+            "to celebrate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cadeau"
+        ],
+        "englishwords": [
+            "present"
+        ]
+    },
+    {
+        "spanishwords": [
+            "defile"
+        ],
+        "englishwords": [
+            "procession",
+            "parade"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eglise"
+        ],
+        "englishwords": [
+            "church"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fete des meres"
+        ],
+        "englishwords": [
+            "Mother's Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fete des peres"
+        ],
+        "englishwords": [
+            "Father's Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fete des rois"
+        ],
+        "englishwords": [
+            "Twelfth Night",
+            "Epiphany"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fete du travail"
+        ],
+        "englishwords": [
+            "May Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fete"
+        ],
+        "englishwords": [
+            "festival",
+            "celebration",
+            "party"
+        ]
+    },
+    {
+        "spanishwords": [
+            "feux dartifice"
+        ],
+        "englishwords": [
+            "fireworks"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Jour de lAn"
+        ],
+        "englishwords": [
+            "New Years Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jour ferie"
+        ],
+        "englishwords": [
+            "bank holiday"
+        ]
+    },
+    {
+        "spanishwords": [
+            "messe"
+        ],
+        "englishwords": [
+            "mass"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mosquee"
+        ],
+        "englishwords": [
+            "Mosque"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Paques"
+        ],
+        "englishwords": [
+            "Easter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Pentecote"
+        ],
+        "englishwords": [
+            "Whitsuntide"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poisson davril"
+        ],
+        "englishwords": [
+            "April Fools' Day",
+            "April Fool"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reunion"
+        ],
+        "englishwords": [
+            "meeting"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Saint Valentin"
+        ],
+        "englishwords": [
+            "St Valentines Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Saint-Sylvestre"
+        ],
+        "englishwords": [
+            "New Years Eve"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Toussaint"
+        ],
+        "englishwords": [
+            "All Saints' Day"
+        ]
+    },
+    {
+        "spanishwords": [
+            "veille de Noel"
+        ],
+        "englishwords": [
+            "Christmas Eve"
+        ]
+    },
+    {
+        "spanishwords": [
+            "juif",
+            "juive"
+        ],
+        "englishwords": [
+            "Jewish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "musulman"
+        ],
+        "englishwords": [
+            "Muslim"
+        ]
+    },
+    {
+        "spanishwords": [
+            "religieux",
+            "religieuse"
+        ],
+        "englishwords": [
+            "religious"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chanter"
+        ],
+        "englishwords": [
+            "to sing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commencer"
+        ],
+        "englishwords": [
+            "to start"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voir"
+        ],
+        "englishwords": [
+            "to see"
+        ]
+    },
+    {
+        "spanishwords": [
+            "actualites"
+        ],
+        "englishwords": [
+            "news"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chanson"
+        ],
+        "englishwords": [
+            "song"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chanteur",
+            "chanteuse"
+        ],
+        "englishwords": [
+            "singer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chorale"
+        ],
+        "englishwords": [
+            "choir"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dessin anime"
+        ],
+        "englishwords": [
+            "cartoon"
+        ]
+    },
+    {
+        "spanishwords": [
+            "effets speciaux"
+        ],
+        "englishwords": [
+            "special effects"
+        ]
+    },
+    {
+        "spanishwords": [
+            "feuilleton"
+        ],
+        "englishwords": [
+            "soap opera"
+        ]
+    },
+    {
+        "spanishwords": [
+            "film de guerre"
+        ],
+        "englishwords": [
+            "war film"
+        ]
+    },
+    {
+        "spanishwords": [
+            "film policier"
+        ],
+        "englishwords": [
+            "detective film"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jeu televise"
+        ],
+        "englishwords": [
+            "game show"
+        ]
+    },
+    {
+        "spanishwords": [
+            "publicite"
+        ],
+        "englishwords": [
+            "adverts"
+        ]
+    },
+    {
+        "spanishwords": [
+            "seance"
+        ],
+        "englishwords": [
+            "performance"
+        ]
+    },
+    {
+        "spanishwords": [
+            "serie"
+        ],
+        "englishwords": [
+            "series"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tele-realite"
+        ],
+        "englishwords": [
+            "reality television"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vedette"
+        ],
+        "englishwords": [
+            "film star"
+        ]
+    },
+    {
+        "spanishwords": [
+            "agneau"
+        ],
+        "englishwords": [
+            "lamb"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ail"
+        ],
+        "englishwords": [
+            "garlic"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ananas"
+        ],
+        "englishwords": [
+            "pineapple"
+        ]
+    },
+    {
+        "spanishwords": [
+            "beurre"
+        ],
+        "englishwords": [
+            "butter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "buf"
+        ],
+        "englishwords": [
+            "beef"
+        ]
+    },
+    {
+        "spanishwords": [
+            "canard"
+        ],
+        "englishwords": [
+            "duck"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cassis"
+        ],
+        "englishwords": [
+            "blackcurrant"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cerise"
+        ],
+        "englishwords": [
+            "cherry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "champignon"
+        ],
+        "englishwords": [
+            "mushroom"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chou"
+        ],
+        "englishwords": [
+            "cabbage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chou-fleur"
+        ],
+        "englishwords": [
+            "cauliflower"
+        ]
+    },
+    {
+        "spanishwords": [
+            "citron"
+        ],
+        "englishwords": [
+            "lemon"
+        ]
+    },
+    {
+        "spanishwords": [
+            "confiture"
+        ],
+        "englishwords": [
+            "jam"
+        ]
+    },
+    {
+        "spanishwords": [
+            "crepe"
+        ],
+        "englishwords": [
+            "pancake"
+        ]
+    },
+    {
+        "spanishwords": [
+            "crudites"
+        ],
+        "englishwords": [
+            "raw chopped vegetables"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dinde"
+        ],
+        "englishwords": [
+            "turkey"
+        ]
+    },
+    {
+        "spanishwords": [
+            "escargot"
+        ],
+        "englishwords": [
+            "snail"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fraise"
+        ],
+        "englishwords": [
+            "strawberry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "framboise"
+        ],
+        "englishwords": [
+            "raspberry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fromage"
+        ],
+        "englishwords": [
+            "cheese"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fromage blanc"
+        ],
+        "englishwords": [
+            "fromage frais"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fruits de mer"
+        ],
+        "englishwords": [
+            "seafood"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gaufre"
+        ],
+        "englishwords": [
+            "waffle"
+        ]
+    },
+    {
+        "spanishwords": [
+            "glace"
+        ],
+        "englishwords": [
+            "ice cream"
+        ]
+    },
+    {
+        "spanishwords": [
+            "haricots verts"
+        ],
+        "englishwords": [
+            "green beans"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jambon"
+        ],
+        "englishwords": [
+            "ham"
+        ]
+    },
+    {
+        "spanishwords": [
+            "legumes"
+        ],
+        "englishwords": [
+            "vegetables"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mangue"
+        ],
+        "englishwords": [
+            "mango"
+        ]
+    },
+    {
+        "spanishwords": [
+            "noix"
+        ],
+        "englishwords": [
+            "nut"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nourriture"
+        ],
+        "englishwords": [
+            "food"
+        ]
+    },
+    {
+        "spanishwords": [
+            "uf"
+        ],
+        "englishwords": [
+            "egg"
+        ]
+    },
+    {
+        "spanishwords": [
+            "oignon"
+        ],
+        "englishwords": [
+            "onion"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pamplemousse"
+        ],
+        "englishwords": [
+            "grapefruit"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pain"
+        ],
+        "englishwords": [
+            "bread"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pates"
+        ],
+        "englishwords": [
+            "pasta"
+        ]
+    },
+    {
+        "spanishwords": [
+            "peche"
+        ],
+        "englishwords": [
+            "peach"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petits pois"
+        ],
+        "englishwords": [
+            "peas"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poire"
+        ],
+        "englishwords": [
+            "pear"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poisson"
+        ],
+        "englishwords": [
+            "fish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poivron"
+        ],
+        "englishwords": [
+            "pepper"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pomme de terre"
+        ],
+        "englishwords": [
+            "potato"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pomme"
+        ],
+        "englishwords": [
+            "apple"
+        ]
+    },
+    {
+        "spanishwords": [
+            "potage"
+        ],
+        "englishwords": [
+            "soup"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poulet"
+        ],
+        "englishwords": [
+            "chicken"
+        ]
+    },
+    {
+        "spanishwords": [
+            "prune"
+        ],
+        "englishwords": [
+            "plum"
+        ]
+    },
+    {
+        "spanishwords": [
+            "raisin"
+        ],
+        "englishwords": [
+            "grapes"
+        ]
+    },
+    {
+        "spanishwords": [
+            "riz"
+        ],
+        "englishwords": [
+            "rice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "saucisse"
+        ],
+        "englishwords": [
+            "sausage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "saumon"
+        ],
+        "englishwords": [
+            "salmon"
+        ]
+    },
+    {
+        "spanishwords": [
+            "steak hache"
+        ],
+        "englishwords": [
+            "burger"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sucre"
+        ],
+        "englishwords": [
+            "sugar"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tartine"
+        ],
+        "englishwords": [
+            "slice of bread"
+        ]
+    },
+    {
+        "spanishwords": [
+            "thon"
+        ],
+        "englishwords": [
+            "tuna"
+        ]
+    },
+    {
+        "spanishwords": [
+            "truite"
+        ],
+        "englishwords": [
+            "trout"
+        ]
+    },
+    {
+        "spanishwords": [
+            "veau"
+        ],
+        "englishwords": [
+            "veal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "viande"
+        ],
+        "englishwords": [
+            "meat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "yaourt"
+        ],
+        "englishwords": [
+            "yoghurt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "biere"
+        ],
+        "englishwords": [
+            "beer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boisson"
+        ],
+        "englishwords": [
+            "drink"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cafe"
+        ],
+        "englishwords": [
+            "coffee"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eau"
+        ],
+        "englishwords": [
+            "water"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lait"
+        ],
+        "englishwords": [
+            "milk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "the"
+        ],
+        "englishwords": [
+            "tea"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vin"
+        ],
+        "englishwords": [
+            "wine"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir faim"
+        ],
+        "englishwords": [
+            "to be hungry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir soif"
+        ],
+        "englishwords": [
+            "to be thirsty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boire"
+        ],
+        "englishwords": [
+            "to drink"
+        ]
+    },
+    {
+        "spanishwords": [
+            "choisir"
+        ],
+        "englishwords": [
+            "to choose"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commander"
+        ],
+        "englishwords": [
+            "to order"
+        ]
+    },
+    {
+        "spanishwords": [
+            "couter"
+        ],
+        "englishwords": [
+            "to cost"
+        ]
+    },
+    {
+        "spanishwords": [
+            "essayer"
+        ],
+        "englishwords": [
+            "to try"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gouter"
+        ],
+        "englishwords": [
+            "to taste"
+        ]
+    },
+    {
+        "spanishwords": [
+            "manger"
+        ],
+        "englishwords": [
+            "to eat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "payer"
+        ],
+        "englishwords": [
+            "to pay"
+        ]
+    },
+    {
+        "spanishwords": [
+            "prendre"
+        ],
+        "englishwords": [
+            "to take"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vouloir"
+        ],
+        "englishwords": [
+            "to wish",
+            "to want"
+        ]
+    },
+    {
+        "spanishwords": [
+            "argent"
+        ],
+        "englishwords": [
+            "money"
+        ]
+    },
+    {
+        "spanishwords": [
+            "assiette"
+        ],
+        "englishwords": [
+            "plate",
+            "dish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "billet"
+        ],
+        "englishwords": [
+            "ticket",
+            "note - money"
+        ]
+    },
+    {
+        "spanishwords": [
+            "hors doeuvre"
+        ],
+        "englishwords": [
+            "starter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "carte"
+        ],
+        "englishwords": [
+            "menu"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dejeuner"
+        ],
+        "englishwords": [
+            "lunch"
+        ]
+    },
+    {
+        "spanishwords": [
+            "diner"
+        ],
+        "englishwords": [
+            "dinner"
+        ]
+    },
+    {
+        "spanishwords": [
+            "entree"
+        ],
+        "englishwords": [
+            "starter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petit-dejeuner"
+        ],
+        "englishwords": [
+            "breakfast"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plat principal"
+        ],
+        "englishwords": [
+            "main meal",
+            "dish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poivre"
+        ],
+        "englishwords": [
+            "pepper"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pourboire"
+        ],
+        "englishwords": [
+            "tip"
+        ]
+    },
+    {
+        "spanishwords": [
+            "repas"
+        ],
+        "englishwords": [
+            "meal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sel"
+        ],
+        "englishwords": [
+            "salt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "serveuse"
+        ],
+        "englishwords": [
+            "waiter",
+            "waitress"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tasse"
+        ],
+        "englishwords": [
+            "cup"
+        ]
+    },
+    {
+        "spanishwords": [
+            "amer",
+            "amere"
+        ],
+        "englishwords": [
+            "sour"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bien cuit"
+        ],
+        "englishwords": [
+            "well cooked"
+        ]
+    },
+    {
+        "spanishwords": [
+            "epice"
+        ],
+        "englishwords": [
+            "spicy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piquant"
+        ],
+        "englishwords": [
+            "spicy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "debuter"
+        ],
+        "englishwords": [
+            "to begin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "feliciter"
+        ],
+        "englishwords": [
+            "to congratulate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rencontrer"
+        ],
+        "englishwords": [
+            "to meet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sabonner"
+        ],
+        "englishwords": [
+            "to subscribe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sinteresser a"
+        ],
+        "englishwords": [
+            "to be interested in"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ado"
+        ],
+        "englishwords": [
+            "teenager"
+        ]
+    },
+    {
+        "spanishwords": [
+            "club des jeunes"
+        ],
+        "englishwords": [
+            "youth club"
+        ]
+    },
+    {
+        "spanishwords": [
+            "echecs"
+        ],
+        "englishwords": [
+            "chess"
+        ]
+    },
+    {
+        "spanishwords": [
+            "espece"
+        ],
+        "englishwords": [
+            "type",
+            "kind",
+            "sort"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lieu"
+        ],
+        "englishwords": [
+            "place"
+        ]
+    },
+    {
+        "spanishwords": [
+            "passe-temps"
+        ],
+        "englishwords": [
+            "hobby"
+        ]
+    },
+    {
+        "spanishwords": [
+            "peche"
+        ],
+        "englishwords": [
+            "fishing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piscine"
+        ],
+        "englishwords": [
+            "swimming pool"
+        ]
+    },
+    {
+        "spanishwords": [
+            "promenade"
+        ],
+        "englishwords": [
+            "walk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "temps libre"
+        ],
+        "englishwords": [
+            "free time"
+        ]
+    },
+    {
+        "spanishwords": [
+            "courir"
+        ],
+        "englishwords": [
+            "to run"
+        ]
+    },
+    {
+        "spanishwords": [
+            "marcher"
+        ],
+        "englishwords": [
+            "to walk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "un essai"
+        ],
+        "englishwords": [
+            "to score a goal",
+            "to score a try"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nager"
+        ],
+        "englishwords": [
+            "to swim"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sauter"
+        ],
+        "englishwords": [
+            "to jump"
+        ]
+    },
+    {
+        "spanishwords": [
+            "skier"
+        ],
+        "englishwords": [
+            "to ski"
+        ]
+    },
+    {
+        "spanishwords": [
+            "basket"
+        ],
+        "englishwords": [
+            "basketball"
+        ]
+    },
+    {
+        "spanishwords": [
+            "centre sportif"
+        ],
+        "englishwords": [
+            "sports centre"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cheval"
+        ],
+        "englishwords": [
+            "horse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "course"
+        ],
+        "englishwords": [
+            "race"
+        ]
+    },
+    {
+        "spanishwords": [
+            "equitation"
+        ],
+        "englishwords": [
+            "horse riding"
+        ]
+    },
+    {
+        "spanishwords": [
+            "escalade"
+        ],
+        "englishwords": [
+            "rock climbing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fan"
+        ],
+        "englishwords": [
+            "a fan"
+        ]
+    },
+    {
+        "spanishwords": [
+            "natation"
+        ],
+        "englishwords": [
+            "swimming"
+        ]
+    },
+    {
+        "spanishwords": [
+            "patinage sur glace"
+        ],
+        "englishwords": [
+            "ice skating"
+        ]
+    },
+    {
+        "spanishwords": [
+            "patinoire"
+        ],
+        "englishwords": [
+            "ice rink"
+        ]
+    },
+    {
+        "spanishwords": [
+            "planche a voile"
+        ],
+        "englishwords": [
+            "windsurfing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "skate"
+        ],
+        "englishwords": [
+            "skateboarding"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ski"
+        ],
+        "englishwords": [
+            "skiing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sports dhiver"
+        ],
+        "englishwords": [
+            "winter sports"
+        ]
+    },
+    {
+        "spanishwords": [
+            "stade"
+        ],
+        "englishwords": [
+            "stadium"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tournee"
+        ],
+        "englishwords": [
+            "tour"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tournoi"
+        ],
+        "englishwords": [
+            "tournament"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voile"
+        ],
+        "englishwords": [
+            "sailing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "volley"
+        ],
+        "englishwords": [
+            "volleyball"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aider"
+        ],
+        "englishwords": [
+            "to help"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demenager"
+        ],
+        "englishwords": [
+            "to move"
+        ]
+    },
+    {
+        "spanishwords": [
+            "devoir"
+        ],
+        "englishwords": [
+            "to have to",
+            "must"
+        ]
+    },
+    {
+        "spanishwords": [
+            "garder"
+        ],
+        "englishwords": [
+            "to look after",
+            "to keep"
+        ]
+    },
+    {
+        "spanishwords": [
+            "laver"
+        ],
+        "englishwords": [
+            "to wash"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nettoyer"
+        ],
+        "englishwords": [
+            "to clean"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poser"
+        ],
+        "englishwords": [
+            "to put down"
+        ]
+    },
+    {
+        "spanishwords": [
+            "quitter"
+        ],
+        "englishwords": [
+            "to leave"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ranger"
+        ],
+        "englishwords": [
+            "to tidy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vivre"
+        ],
+        "englishwords": [
+            "to live"
+        ]
+    },
+    {
+        "spanishwords": [
+            "armoire"
+        ],
+        "englishwords": [
+            "wardrobe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bricolage"
+        ],
+        "englishwords": [
+            "DIY-do it yourself-"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bureau"
+        ],
+        "englishwords": [
+            "office",
+            "study",
+            "desk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cave"
+        ],
+        "englishwords": [
+            "cellar"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chaise"
+        ],
+        "englishwords": [
+            "chair"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chevet"
+        ],
+        "englishwords": [
+            "bedside table"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commode"
+        ],
+        "englishwords": [
+            "chest of drawers"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cuisine"
+        ],
+        "englishwords": [
+            "kitchen",
+            "cooking"
+        ]
+    },
+    {
+        "spanishwords": [
+            "escalier"
+        ],
+        "englishwords": [
+            "staircase"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etage"
+        ],
+        "englishwords": [
+            "floor",
+            "storey"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etagere"
+        ],
+        "englishwords": [
+            "shelf"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fenetre"
+        ],
+        "englishwords": [
+            "window"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ferme"
+        ],
+        "englishwords": [
+            "farm"
+        ]
+    },
+    {
+        "spanishwords": [
+            "four"
+        ],
+        "englishwords": [
+            "oven"
+        ]
+    },
+    {
+        "spanishwords": [
+            "foyer"
+        ],
+        "englishwords": [
+            "home",
+            "household"
+        ]
+    },
+    {
+        "spanishwords": [
+            "immeuble"
+        ],
+        "englishwords": [
+            "block of flats"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jardinage"
+        ],
+        "englishwords": [
+            "gardening"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lit"
+        ],
+        "englishwords": [
+            "bed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "loyer"
+        ],
+        "englishwords": [
+            "rent"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lumiere"
+        ],
+        "englishwords": [
+            "light"
+        ]
+    },
+    {
+        "spanishwords": [
+            "maison"
+        ],
+        "englishwords": [
+            "house"
+        ]
+    },
+    {
+        "spanishwords": [
+            "menage"
+        ],
+        "englishwords": [
+            "housework"
+        ]
+    },
+    {
+        "spanishwords": [
+            "meubles"
+        ],
+        "englishwords": [
+            "furniture"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mur"
+        ],
+        "englishwords": [
+            "wall"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pelouse"
+        ],
+        "englishwords": [
+            "lawn"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piece"
+        ],
+        "englishwords": [
+            "room"
+        ]
+    },
+    {
+        "spanishwords": [
+            "placard"
+        ],
+        "englishwords": [
+            "cupboard"
+        ]
+    },
+    {
+        "spanishwords": [
+            "porte"
+        ],
+        "englishwords": [
+            "door"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rez-de-chaussee"
+        ],
+        "englishwords": [
+            "ground floor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "salle a manger"
+        ],
+        "englishwords": [
+            "dining room"
+        ]
+    },
+    {
+        "spanishwords": [
+            "salle de bains"
+        ],
+        "englishwords": [
+            "bathroom"
+        ]
+    },
+    {
+        "spanishwords": [
+            "salon"
+        ],
+        "englishwords": [
+            "living room",
+            "lounge"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sous-sol"
+        ],
+        "englishwords": [
+            "basement"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tache menagere"
+        ],
+        "englishwords": [
+            "housework task",
+            "chore"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tapis"
+        ],
+        "englishwords": [
+            "carpet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voisin",
+            "voisine"
+        ],
+        "englishwords": [
+            "neighbour"
+        ]
+    },
+    {
+        "spanishwords": [
+            "acheter"
+        ],
+        "englishwords": [
+            "to buy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "depenser"
+        ],
+        "englishwords": [
+            "to spend"
+        ]
+    },
+    {
+        "spanishwords": [
+            "economiser"
+        ],
+        "englishwords": [
+            "to save"
+        ]
+    },
+    {
+        "spanishwords": [
+            "livrer"
+        ],
+        "englishwords": [
+            "to deliver"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rembourser"
+        ],
+        "englishwords": [
+            "to reimburse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vendre"
+        ],
+        "englishwords": [
+            "to sell"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bibliotheque"
+        ],
+        "englishwords": [
+            "library",
+            "bookshelf"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bijouterie"
+        ],
+        "englishwords": [
+            "jewellers shop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boucherie"
+        ],
+        "englishwords": [
+            "butchers shop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boulangerie"
+        ],
+        "englishwords": [
+            "bakery"
+        ]
+    },
+    {
+        "spanishwords": [
+            "caisse"
+        ],
+        "englishwords": [
+            "till"
+        ]
+    },
+    {
+        "spanishwords": [
+            "carte bancaire"
+        ],
+        "englishwords": [
+            "bank card"
+        ]
+    },
+    {
+        "spanishwords": [
+            "centre commercial"
+        ],
+        "englishwords": [
+            "shopping centre"
+        ]
+    },
+    {
+        "spanishwords": [
+            "charcuterie"
+        ],
+        "englishwords": [
+            "delicatessen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "article"
+        ],
+        "englishwords": [
+            "item"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commerces"
+        ],
+        "englishwords": [
+            "shops"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fermeture"
+        ],
+        "englishwords": [
+            "closure"
+        ]
+    },
+    {
+        "spanishwords": [
+            "grand magasin"
+        ],
+        "englishwords": [
+            "department store"
+        ]
+    },
+    {
+        "spanishwords": [
+            "grande surface"
+        ],
+        "englishwords": [
+            "superstore"
+        ]
+    },
+    {
+        "spanishwords": [
+            "marche"
+        ],
+        "englishwords": [
+            "market"
+        ]
+    },
+    {
+        "spanishwords": [
+            "patisserie"
+        ],
+        "englishwords": [
+            "cake shop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "prix"
+        ],
+        "englishwords": [
+            "price"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rayon"
+        ],
+        "englishwords": [
+            "department",
+            "aisle"
+        ]
+    },
+    {
+        "spanishwords": [
+            "soldes"
+        ],
+        "englishwords": [
+            "sale"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vendeur",
+            "vendeuse"
+        ],
+        "englishwords": [
+            "shop assistant"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vitrine"
+        ],
+        "englishwords": [
+            "shop window"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bon marche"
+        ],
+        "englishwords": [
+            "cheap"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cher",
+            "chere"
+        ],
+        "englishwords": [
+            "expensive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reduit"
+        ],
+        "englishwords": [
+            "reduced"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gratuit"
+        ],
+        "englishwords": [
+            "free"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pouvoir"
+        ],
+        "englishwords": [
+            "to be able",
+            "can"
+        ]
+    },
+    {
+        "spanishwords": [
+            "perdre"
+        ],
+        "englishwords": [
+            "to lose"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reduire"
+        ],
+        "englishwords": [
+            "to reduce"
+        ]
+    },
+    {
+        "spanishwords": [
+            "travailler"
+        ],
+        "englishwords": [
+            "to work"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se trouver"
+        ],
+        "englishwords": [
+            "to be situated"
+        ]
+    },
+    {
+        "spanishwords": [
+            "montagne"
+        ],
+        "englishwords": [
+            "mountain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "arbre"
+        ],
+        "englishwords": [
+            "tree"
+        ]
+    },
+    {
+        "spanishwords": [
+            "batiment"
+        ],
+        "englishwords": [
+            "building"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bruit"
+        ],
+        "englishwords": [
+            "noise"
+        ]
+    },
+    {
+        "spanishwords": [
+            "campagne"
+        ],
+        "englishwords": [
+            "countryside"
+        ]
+    },
+    {
+        "spanishwords": [
+            "champ"
+        ],
+        "englishwords": [
+            "field"
+        ]
+    },
+    {
+        "spanishwords": [
+            "choix"
+        ],
+        "englishwords": [
+            "choice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "circulation"
+        ],
+        "englishwords": [
+            "traffic"
+        ]
+    },
+    {
+        "spanishwords": [
+            "colline"
+        ],
+        "englishwords": [
+            "hill"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commissariat"
+        ],
+        "englishwords": [
+            "police station"
+        ]
+    },
+    {
+        "spanishwords": [
+            "distractions"
+        ],
+        "englishwords": [
+            "things to do"
+        ]
+    },
+    {
+        "spanishwords": [
+            "embouteillage"
+        ],
+        "englishwords": [
+            "traffic jam"
+        ]
+    },
+    {
+        "spanishwords": [
+            "endroit"
+        ],
+        "englishwords": [
+            "place"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fleur"
+        ],
+        "englishwords": [
+            "flower"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gare"
+        ],
+        "englishwords": [
+            "railway station"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gare routiere"
+        ],
+        "englishwords": [
+            "bus station"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gens"
+        ],
+        "englishwords": [
+            "people"
+        ]
+    },
+    {
+        "spanishwords": [
+            "habitant"
+        ],
+        "englishwords": [
+            "inhabitant",
+            "resident"
+        ]
+    },
+    {
+        "spanishwords": [
+            "hotel de ville"
+        ],
+        "englishwords": [
+            "town hall"
+        ]
+    },
+    {
+        "spanishwords": [
+            "librairie"
+        ],
+        "englishwords": [
+            "bookshop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mairie"
+        ],
+        "englishwords": [
+            "town hall"
+        ]
+    },
+    {
+        "spanishwords": [
+            "musee"
+        ],
+        "englishwords": [
+            "museum"
+        ]
+    },
+    {
+        "spanishwords": [
+            "parc"
+        ],
+        "englishwords": [
+            "park"
+        ]
+    },
+    {
+        "spanishwords": [
+            "place"
+        ],
+        "englishwords": [
+            "square"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poste"
+        ],
+        "englishwords": [
+            "post office"
+        ]
+    },
+    {
+        "spanishwords": [
+            "quartier"
+        ],
+        "englishwords": [
+            "quarter",
+            "area"
+        ]
+    },
+    {
+        "spanishwords": [
+            "risque"
+        ],
+        "englishwords": [
+            "risk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "securite"
+        ],
+        "englishwords": [
+            "safety"
+        ]
+    },
+    {
+        "spanishwords": [
+            "station-service"
+        ],
+        "englishwords": [
+            "service station"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tabac-presse"
+        ],
+        "englishwords": [
+            "newsagents"
+        ]
+    },
+    {
+        "spanishwords": [
+            "transports en commun"
+        ],
+        "englishwords": [
+            "public transport"
+        ]
+    },
+    {
+        "spanishwords": [
+            "usine"
+        ],
+        "englishwords": [
+            "factory"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vie"
+        ],
+        "englishwords": [
+            "life"
+        ]
+    },
+    {
+        "spanishwords": [
+            "village"
+        ],
+        "englishwords": [
+            "village"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ville"
+        ],
+        "englishwords": [
+            "town"
+        ]
+    },
+    {
+        "spanishwords": [
+            "zone pietonne"
+        ],
+        "englishwords": [
+            "pedestrian zone"
+        ]
+    },
+    {
+        "spanishwords": [
+            "anime"
+        ],
+        "englishwords": [
+            "lively"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bruyant"
+        ],
+        "englishwords": [
+            "noisy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "calme"
+        ],
+        "englishwords": [
+            "quiet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "celebre"
+        ],
+        "englishwords": [
+            "famous"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pauvre"
+        ],
+        "englishwords": [
+            "poor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pollue"
+        ],
+        "englishwords": [
+            "polluted"
+        ]
+    },
+    {
+        "spanishwords": [
+            "propre"
+        ],
+        "englishwords": [
+            "clean",
+            "tidy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sale"
+        ],
+        "englishwords": [
+            "dirty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "surcharge"
+        ],
+        "englishwords": [
+            "overcrowded"
+        ]
+    },
+    {
+        "spanishwords": [
+            "essayer"
+        ],
+        "englishwords": [
+            "to try"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mettre"
+        ],
+        "englishwords": [
+            "to wear"
+        ]
+    },
+    {
+        "spanishwords": [
+            "porter"
+        ],
+        "englishwords": [
+            "to wear",
+            "to carry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "shabiller"
+        ],
+        "englishwords": [
+            "to get dressed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "baskets"
+        ],
+        "englishwords": [
+            "trainers"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bijou"
+        ],
+        "englishwords": [
+            "jewel",
+            "jewellery"
+        ]
+    },
+    {
+        "spanishwords": [
+            "blouson"
+        ],
+        "englishwords": [
+            "coat",
+            "jacket"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ceinture"
+        ],
+        "englishwords": [
+            "belt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chapeau"
+        ],
+        "englishwords": [
+            "hat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chaussette"
+        ],
+        "englishwords": [
+            "sock"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chaussure"
+        ],
+        "englishwords": [
+            "shoe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chemise"
+        ],
+        "englishwords": [
+            "shirt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cravate"
+        ],
+        "englishwords": [
+            "tie"
+        ]
+    },
+    {
+        "spanishwords": [
+            "echarpe"
+        ],
+        "englishwords": [
+            "scarf"
+        ]
+    },
+    {
+        "spanishwords": [
+            "foulard"
+        ],
+        "englishwords": [
+            "scarf"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gilet"
+        ],
+        "englishwords": [
+            "cardigan",
+            "waistcoat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jupe"
+        ],
+        "englishwords": [
+            "skirt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "manteau"
+        ],
+        "englishwords": [
+            "coat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "marque"
+        ],
+        "englishwords": [
+            "make",
+            "label",
+            "brand"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mode"
+        ],
+        "englishwords": [
+            "fashion"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pantalon"
+        ],
+        "englishwords": [
+            "trousers"
+        ]
+    },
+    {
+        "spanishwords": [
+            "parfum"
+        ],
+        "englishwords": [
+            "perfume"
+        ]
+    },
+    {
+        "spanishwords": [
+            "portefeuille"
+        ],
+        "englishwords": [
+            "wallet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "porte-monnaie"
+        ],
+        "englishwords": [
+            "purse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pull a capuche"
+        ],
+        "englishwords": [
+            "hoodie"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pull"
+        ],
+        "englishwords": [
+            "jumper"
+        ]
+    },
+    {
+        "spanishwords": [
+            "robe"
+        ],
+        "englishwords": [
+            "dress"
+        ]
+    },
+    {
+        "spanishwords": [
+            "veste"
+        ],
+        "englishwords": [
+            "jacket"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vetements"
+        ],
+        "englishwords": [
+            "clothes"
+        ]
+    },
+    {
+        "spanishwords": [
+            "a la mode"
+        ],
+        "englishwords": [
+            "fashionable"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demode"
+        ],
+        "englishwords": [
+            "old-fashioned"
+        ]
+    },
+    {
+        "spanishwords": [
+            "doccasion"
+        ],
+        "englishwords": [
+            "second-hand"
+        ]
+    },
+    {
+        "spanishwords": [
+            "neuf",
+            "neuve"
+        ],
+        "englishwords": [
+            "new"
+        ]
+    },
+    {
+        "spanishwords": [
+            "agir"
+        ],
+        "englishwords": [
+            "to act"
+        ]
+    },
+    {
+        "spanishwords": [
+            "arreter"
+        ],
+        "englishwords": [
+            "to stop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avertir"
+        ],
+        "englishwords": [
+            "to warn"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cacher"
+        ],
+        "englishwords": [
+            "to hide"
+        ]
+    },
+    {
+        "spanishwords": [
+            "combattre"
+        ],
+        "englishwords": [
+            "to combat",
+            "to fight"
+        ]
+    },
+    {
+        "spanishwords": [
+            "desintoxiquer"
+        ],
+        "englishwords": [
+            "to detox"
+        ]
+    },
+    {
+        "spanishwords": [
+            "devenir"
+        ],
+        "englishwords": [
+            "to become"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dormir"
+        ],
+        "englishwords": [
+            "to sleep"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se droguer"
+        ],
+        "englishwords": [
+            "to take drugs"
+        ]
+    },
+    {
+        "spanishwords": [
+            "senivrer"
+        ],
+        "englishwords": [
+            "to get drunk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "epuiser"
+        ],
+        "englishwords": [
+            "to exhaust"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fumer"
+        ],
+        "englishwords": [
+            "to smoke"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mener"
+        ],
+        "englishwords": [
+            "to lead"
+        ]
+    },
+    {
+        "spanishwords": [
+            "renoncer"
+        ],
+        "englishwords": [
+            "to give up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rester"
+        ],
+        "englishwords": [
+            "to stay",
+            "to remain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reussir"
+        ],
+        "englishwords": [
+            "to succeed",
+            "to manage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sentir"
+        ],
+        "englishwords": [
+            "to feel"
+        ]
+    },
+    {
+        "spanishwords": [
+            "soigner"
+        ],
+        "englishwords": [
+            "to care for"
+        ]
+    },
+    {
+        "spanishwords": [
+            "surveiller"
+        ],
+        "englishwords": [
+            "to watch",
+            ""
+        ]
+    },
+    {
+        "spanishwords": [
+            "tousser"
+        ],
+        "englishwords": [
+            "to cough"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tuer"
+        ],
+        "englishwords": [
+            "to kill"
+        ]
+    },
+    {
+        "spanishwords": [
+            "valoir mieux"
+        ],
+        "englishwords": [
+            "to be better",
+            ""
+        ]
+    },
+    {
+        "spanishwords": [
+            "vomir"
+        ],
+        "englishwords": [
+            "to be sick"
+        ]
+    },
+    {
+        "spanishwords": [
+            "alcool"
+        ],
+        "englishwords": [
+            "alcohol"
+        ]
+    },
+    {
+        "spanishwords": [
+            "association caritative"
+        ],
+        "englishwords": [
+            "charity"
+        ]
+    },
+    {
+        "spanishwords": [
+            "conseil"
+        ],
+        "englishwords": [
+            "advice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "consommation"
+        ],
+        "englishwords": [
+            "consumption",
+            "use"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dette"
+        ],
+        "englishwords": [
+            "debt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "douleur"
+        ],
+        "englishwords": [
+            "pain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eau potable"
+        ],
+        "englishwords": [
+            "drinking water"
+        ]
+    },
+    {
+        "spanishwords": [
+            "egalite"
+        ],
+        "englishwords": [
+            "equality"
+        ]
+    },
+    {
+        "spanishwords": [
+            "enquete"
+        ],
+        "englishwords": [
+            "enquiry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "habitude"
+        ],
+        "englishwords": [
+            "habit"
+        ]
+    },
+    {
+        "spanishwords": [
+            "maladie"
+        ],
+        "englishwords": [
+            "illness"
+        ]
+    },
+    {
+        "spanishwords": [
+            "medecin"
+        ],
+        "englishwords": [
+            "doctor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "medicament"
+        ],
+        "englishwords": [
+            "medicine"
+        ]
+    },
+    {
+        "spanishwords": [
+            "odeur"
+        ],
+        "englishwords": [
+            "smell"
+        ]
+    },
+    {
+        "spanishwords": [
+            "personnes defavorisees"
+        ],
+        "englishwords": [
+            "disadvantaged people"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sida"
+        ],
+        "englishwords": [
+            "AIDS"
+        ]
+    },
+    {
+        "spanishwords": [
+            "soin"
+        ],
+        "englishwords": [
+            "care"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sommeil"
+        ],
+        "englishwords": [
+            "sleep"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tabac"
+        ],
+        "englishwords": [
+            "tobacco"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tabagisme"
+        ],
+        "englishwords": [
+            "addiction to smoking"
+        ]
+    },
+    {
+        "spanishwords": [
+            "toxicomane"
+        ],
+        "englishwords": [
+            "drug addict"
+        ]
+    },
+    {
+        "spanishwords": [
+            "travail benevole"
+        ],
+        "englishwords": [
+            "voluntary work"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voix"
+        ],
+        "englishwords": [
+            "voice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "accro"
+        ],
+        "englishwords": [
+            "addicted"
+        ]
+    },
+    {
+        "spanishwords": [
+            "alcoolique"
+        ],
+        "englishwords": [
+            "alcoholic"
+        ]
+    },
+    {
+        "spanishwords": [
+            "coupable"
+        ],
+        "englishwords": [
+            "guilty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "defavorise"
+        ],
+        "englishwords": [
+            "disadvantaged"
+        ]
+    },
+    {
+        "spanishwords": [
+            "deprime"
+        ],
+        "englishwords": [
+            "depressed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faible"
+        ],
+        "englishwords": [
+            "weak"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fort"
+        ],
+        "englishwords": [
+            "strong"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ivre"
+        ],
+        "englishwords": [
+            "drunk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "malade"
+        ],
+        "englishwords": [
+            "ill",
+            "sick"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pauvre"
+        ],
+        "englishwords": [
+            "poor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "riche"
+        ],
+        "englishwords": [
+            "rich",
+            "wealthy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vide"
+        ],
+        "englishwords": [
+            "empty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aller bien"
+        ],
+        "englishwords": [
+            "to feel well"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aller mieux"
+        ],
+        "englishwords": [
+            "to feel better"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir sommeil"
+        ],
+        "englishwords": [
+            "to feel sleepy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se detendre"
+        ],
+        "englishwords": [
+            "to relax"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eviter"
+        ],
+        "englishwords": [
+            "to avoid"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire un regime"
+        ],
+        "englishwords": [
+            "to be on a diet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se relaxer"
+        ],
+        "englishwords": [
+            "to relax"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se reposer"
+        ],
+        "englishwords": [
+            "to rest"
+        ]
+    },
+    {
+        "spanishwords": [
+            "respirer"
+        ],
+        "englishwords": [
+            "to breathe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sentrainer"
+        ],
+        "englishwords": [
+            "to train"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tenter"
+        ],
+        "englishwords": [
+            "to attempt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "suivre"
+        ],
+        "englishwords": [
+            "to follow"
+        ]
+    },
+    {
+        "spanishwords": [
+            "alimentation"
+        ],
+        "englishwords": [
+            "food"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bonbon"
+        ],
+        "englishwords": [
+            "sweet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bonheur"
+        ],
+        "englishwords": [
+            "happiness"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cancer"
+        ],
+        "englishwords": [
+            "cancer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "casse-croute"
+        ],
+        "englishwords": [
+            "snack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chocolat"
+        ],
+        "englishwords": [
+            "chocolate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "crise cardiaque"
+        ],
+        "englishwords": [
+            "heart attack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dejeuner"
+        ],
+        "englishwords": [
+            "lunch"
+        ]
+    },
+    {
+        "spanishwords": [
+            "diner"
+        ],
+        "englishwords": [
+            "dinner"
+        ]
+    },
+    {
+        "spanishwords": [
+            "drogue"
+        ],
+        "englishwords": [
+            "drug"
+        ]
+    },
+    {
+        "spanishwords": [
+            "entrainement"
+        ],
+        "englishwords": [
+            "training"
+        ]
+    },
+    {
+        "spanishwords": [
+            "espace vert"
+        ],
+        "englishwords": [
+            "green area"
+        ]
+    },
+    {
+        "spanishwords": [
+            "foie"
+        ],
+        "englishwords": [
+            "liver"
+        ]
+    },
+    {
+        "spanishwords": [
+            "forme"
+        ],
+        "englishwords": [
+            "fitness"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mannequin"
+        ],
+        "englishwords": [
+            "model"
+        ]
+    },
+    {
+        "spanishwords": [
+            "matieres grasses"
+        ],
+        "englishwords": [
+            "fats"
+        ]
+    },
+    {
+        "spanishwords": [
+            "musculation"
+        ],
+        "englishwords": [
+            "weight lifting"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nourriture bio"
+        ],
+        "englishwords": [
+            "organic food"
+        ]
+    },
+    {
+        "spanishwords": [
+            "obesite"
+        ],
+        "englishwords": [
+            "obesity"
+        ]
+    },
+    {
+        "spanishwords": [
+            "peau"
+        ],
+        "englishwords": [
+            "skin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petit dejeuner"
+        ],
+        "englishwords": [
+            "breakfast"
+        ]
+    },
+    {
+        "spanishwords": [
+            "repas"
+        ],
+        "englishwords": [
+            "meal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sante"
+        ],
+        "englishwords": [
+            "health"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tatouage"
+        ],
+        "englishwords": [
+            "tattoo"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bon"
+        ],
+        "englishwords": [
+            "good",
+            "tasty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "degoutant"
+        ],
+        "englishwords": [
+            "disgusting"
+        ]
+    },
+    {
+        "spanishwords": [
+            "en bonne forme"
+        ],
+        "englishwords": [
+            "fit",
+            "in good health"
+        ]
+    },
+    {
+        "spanishwords": [
+            "equilibre"
+        ],
+        "englishwords": [
+            "balanced"
+        ]
+    },
+    {
+        "spanishwords": [
+            "essouffle"
+        ],
+        "englishwords": [
+            "breathless"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fatigant"
+        ],
+        "englishwords": [
+            "tiring"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fatigue"
+        ],
+        "englishwords": [
+            "tired"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gras"
+        ],
+        "englishwords": [
+            "fatty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "hors dhaleine"
+        ],
+        "englishwords": [
+            "out of breath"
+        ]
+    },
+    {
+        "spanishwords": [
+            "malsain"
+        ],
+        "englishwords": [
+            "unhealthy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mauvais"
+        ],
+        "englishwords": [
+            "bad"
+        ]
+    },
+    {
+        "spanishwords": [
+            "presse"
+        ],
+        "englishwords": [
+            "in a hurry",
+            "rushed. squeezed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "quotidien"
+        ],
+        "englishwords": [
+            "daily"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sain"
+        ],
+        "englishwords": [
+            "healthy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sale"
+        ],
+        "englishwords": [
+            "salty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sucre"
+        ],
+        "englishwords": [
+            "sugary"
+        ]
+    },
+    {
+        "spanishwords": [
+            "il fait"
+        ],
+        "englishwords": [
+            "it is"
+        ]
+    },
+    {
+        "spanishwords": [
+            "beau"
+        ],
+        "englishwords": [
+            "lovely weather"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chaud"
+        ],
+        "englishwords": [
+            "hot"
+        ]
+    },
+    {
+        "spanishwords": [
+            "froid"
+        ],
+        "englishwords": [
+            "cold"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mauvais"
+        ],
+        "englishwords": [
+            "bad weather"
+        ]
+    },
+    {
+        "spanishwords": [
+            "il y a"
+        ],
+        "englishwords": [
+            "there is",
+            "are"
+        ]
+    },
+    {
+        "spanishwords": [
+            "de lorage"
+        ],
+        "englishwords": [
+            "a storm"
+        ]
+    },
+    {
+        "spanishwords": [
+            "des eclairs"
+        ],
+        "englishwords": [
+            "lightning"
+        ]
+    },
+    {
+        "spanishwords": [
+            "des nuages"
+        ],
+        "englishwords": [
+            "clouds"
+        ]
+    },
+    {
+        "spanishwords": [
+            "du brouillard"
+        ],
+        "englishwords": [
+            "fog"
+        ]
+    },
+    {
+        "spanishwords": [
+            "du soleil"
+        ],
+        "englishwords": [
+            "sun"
+        ]
+    },
+    {
+        "spanishwords": [
+            "du vent"
+        ],
+        "englishwords": [
+            "wind"
+        ]
+    },
+    {
+        "spanishwords": [
+            "une tempete"
+        ],
+        "englishwords": [
+            "a storm"
+        ]
+    },
+    {
+        "spanishwords": [
+            "des averses"
+        ],
+        "englishwords": [
+            "showers"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Il neige"
+        ],
+        "englishwords": [
+            "its snowing",
+            "it snows"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Il pleut"
+        ],
+        "englishwords": [
+            "Its raining",
+            "it rains"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chaleur"
+        ],
+        "englishwords": [
+            "heat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "froid"
+        ],
+        "englishwords": [
+            "cold"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pluie"
+        ],
+        "englishwords": [
+            "rain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "agresser"
+        ],
+        "englishwords": [
+            "to assault",
+            "to attack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "allumer"
+        ],
+        "englishwords": [
+            "to switch on"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ameliorer"
+        ],
+        "englishwords": [
+            "to improve"
+        ]
+    },
+    {
+        "spanishwords": [
+            "augmenter"
+        ],
+        "englishwords": [
+            "to increase"
+        ]
+    },
+    {
+        "spanishwords": [
+            "croire"
+        ],
+        "englishwords": [
+            "to believe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cultiver"
+        ],
+        "englishwords": [
+            "to grow"
+        ]
+    },
+    {
+        "spanishwords": [
+            "detruire"
+        ],
+        "englishwords": [
+            "to destroy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "disparaitre"
+        ],
+        "englishwords": [
+            "to disappear"
+        ]
+    },
+    {
+        "spanishwords": [
+            "empecher"
+        ],
+        "englishwords": [
+            "to prevent"
+        ]
+    },
+    {
+        "spanishwords": [
+            "endommager"
+        ],
+        "englishwords": [
+            "to damage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eteindre"
+        ],
+        "englishwords": [
+            "to switch off"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire du recyclage"
+        ],
+        "englishwords": [
+            "to recycle"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gaspiller"
+        ],
+        "englishwords": [
+            "to waste"
+        ]
+    },
+    {
+        "spanishwords": [
+            "inonder"
+        ],
+        "englishwords": [
+            "to flood"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jeter"
+        ],
+        "englishwords": [
+            "to throw"
+        ]
+    },
+    {
+        "spanishwords": [
+            "proteger"
+        ],
+        "englishwords": [
+            "to protect"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ramasser"
+        ],
+        "englishwords": [
+            "to pick up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "recycler"
+        ],
+        "englishwords": [
+            "to recycle"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sauver"
+        ],
+        "englishwords": [
+            "to save"
+        ]
+    },
+    {
+        "spanishwords": [
+            "utiliser"
+        ],
+        "englishwords": [
+            "to use"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bain"
+        ],
+        "englishwords": [
+            "bath"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boite"
+        ],
+        "englishwords": [
+            "box"
+        ]
+    },
+    {
+        "spanishwords": [
+            "campagne"
+        ],
+        "englishwords": [
+            "campaign"
+        ]
+    },
+    {
+        "spanishwords": [
+            "centre de recyclage"
+        ],
+        "englishwords": [
+            "recycling centre"
+        ]
+    },
+    {
+        "spanishwords": [
+            "charbon"
+        ],
+        "englishwords": [
+            "coal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chauffage central"
+        ],
+        "englishwords": [
+            "central heating"
+        ]
+    },
+    {
+        "spanishwords": [
+            "couche dozone"
+        ],
+        "englishwords": [
+            "ozone layer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "deboisement"
+        ],
+        "englishwords": [
+            "deforestation"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dechets"
+        ],
+        "englishwords": [
+            "rubbish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "douche"
+        ],
+        "englishwords": [
+            "shower"
+        ]
+    },
+    {
+        "spanishwords": [
+            "effet de serre"
+        ],
+        "englishwords": [
+            "greenhouse effect"
+        ]
+    },
+    {
+        "spanishwords": [
+            "emballage"
+        ],
+        "englishwords": [
+            "packaging"
+        ]
+    },
+    {
+        "spanishwords": [
+            "energie renouvelable"
+        ],
+        "englishwords": [
+            "renewable energy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "environnement"
+        ],
+        "englishwords": [
+            "environment"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gaz carbonique"
+        ],
+        "englishwords": [
+            "carbon dioxide"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gaz dechappement"
+        ],
+        "englishwords": [
+            "exhaust fumes"
+        ]
+    },
+    {
+        "spanishwords": [
+            "incendie"
+        ],
+        "englishwords": [
+            "fire"
+        ]
+    },
+    {
+        "spanishwords": [
+            "inondation"
+        ],
+        "englishwords": [
+            "flood"
+        ]
+    },
+    {
+        "spanishwords": [
+            "maree"
+        ],
+        "englishwords": [
+            "tide"
+        ]
+    },
+    {
+        "spanishwords": [
+            "niveau"
+        ],
+        "englishwords": [
+            "level"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ordures"
+        ],
+        "englishwords": [
+            "rubbish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "paysage"
+        ],
+        "englishwords": [
+            "countryside",
+            "landscape"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petrole"
+        ],
+        "englishwords": [
+            "oil"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piste cyclable"
+        ],
+        "englishwords": [
+            "cycle lane"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poubelle"
+        ],
+        "englishwords": [
+            "bin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "produits bio"
+        ],
+        "englishwords": [
+            "organic products"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rechauffement de la Terre"
+        ],
+        "englishwords": [
+            "global warming"
+        ]
+    },
+    {
+        "spanishwords": [
+            "robinet"
+        ],
+        "englishwords": [
+            "tap"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sac en plastique"
+        ],
+        "englishwords": [
+            "plastic bag"
+        ]
+    },
+    {
+        "spanishwords": [
+            "trou"
+        ],
+        "englishwords": [
+            "hole"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vague"
+        ],
+        "englishwords": [
+            "wave"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pollue"
+        ],
+        "englishwords": [
+            "polluted"
+        ]
+    },
+    {
+        "spanishwords": [
+            "harceler"
+        ],
+        "englishwords": [
+            "to bully",
+            "to harass"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sinquieter"
+        ],
+        "englishwords": [
+            "to worry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lutter"
+        ],
+        "englishwords": [
+            "to fight"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mentir"
+        ],
+        "englishwords": [
+            "to lie"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se plaindre"
+        ],
+        "englishwords": [
+            "to complain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "produire"
+        ],
+        "englishwords": [
+            "to provide",
+            "to produce"
+        ]
+    },
+    {
+        "spanishwords": [
+            "supporter"
+        ],
+        "englishwords": [
+            "to tolerate",
+            "to put up with",
+            "to bear",
+            "to stand"
+        ]
+    },
+    {
+        "spanishwords": [
+            "supprimer"
+        ],
+        "englishwords": [
+            "to eliminate",
+            "to eradicate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voler"
+        ],
+        "englishwords": [
+            "to steal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "attaque"
+        ],
+        "englishwords": [
+            "attack",
+            "assault"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bande"
+        ],
+        "englishwords": [
+            "gang"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chomage"
+        ],
+        "englishwords": [
+            "unemployment"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ennui"
+        ],
+        "englishwords": [
+            "problem",
+            "worry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etat"
+        ],
+        "englishwords": [
+            "state"
+        ]
+    },
+    {
+        "spanishwords": [
+            "guerre"
+        ],
+        "englishwords": [
+            "war"
+        ]
+    },
+    {
+        "spanishwords": [
+            "harcelement"
+        ],
+        "englishwords": [
+            "bullying",
+            "harassment"
+        ]
+    },
+    {
+        "spanishwords": [
+            "immigre"
+        ],
+        "englishwords": [
+            "immigrant"
+        ]
+    },
+    {
+        "spanishwords": [
+            "manifestation"
+        ],
+        "englishwords": [
+            "demonstration"
+        ]
+    },
+    {
+        "spanishwords": [
+            "paix"
+        ],
+        "englishwords": [
+            "peace"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pauvrete"
+        ],
+        "englishwords": [
+            "poverty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "refugie"
+        ],
+        "englishwords": [
+            "refugee"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sans-abri"
+        ],
+        "englishwords": [
+            "homeless person"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sans domicile fixe"
+        ],
+        "englishwords": [
+            "homeless person"
+        ]
+    },
+    {
+        "spanishwords": [
+            "souci"
+        ],
+        "englishwords": [
+            "worry",
+            "concern"
+        ]
+    },
+    {
+        "spanishwords": [
+            "temoin"
+        ],
+        "englishwords": [
+            "witness"
+        ]
+    },
+    {
+        "spanishwords": [
+            "delinquant"
+        ],
+        "englishwords": [
+            "offender"
+        ]
+    },
+    {
+        "spanishwords": [
+            "effrayant"
+        ],
+        "englishwords": [
+            "frightening"
+        ]
+    },
+    {
+        "spanishwords": [
+            "egal"
+        ],
+        "englishwords": [
+            "equal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "en danger"
+        ],
+        "englishwords": [
+            "in danger"
+        ]
+    },
+    {
+        "spanishwords": [
+            "entoure"
+        ],
+        "englishwords": [
+            "surrounded"
+        ]
+    },
+    {
+        "spanishwords": [
+            "inegal"
+        ],
+        "englishwords": [
+            "unequal"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lourd"
+        ],
+        "englishwords": [
+            "heavy",
+            "serious"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mondial"
+        ],
+        "englishwords": [
+            "worldwide"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reconnaissant"
+        ],
+        "englishwords": [
+            "grateful"
+        ]
+    },
+    {
+        "spanishwords": [
+            "attendre"
+        ],
+        "englishwords": [
+            "to wait"
+        ]
+    },
+    {
+        "spanishwords": [
+            "baigner"
+        ],
+        "englishwords": [
+            "to bathe",
+            "swim"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bronzer"
+        ],
+        "englishwords": [
+            "to sunbathe"
+        ]
+    },
+    {
+        "spanishwords": [
+            "casser"
+        ],
+        "englishwords": [
+            "to break"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chercher"
+        ],
+        "englishwords": [
+            "to look for"
+        ]
+    },
+    {
+        "spanishwords": [
+            "deranger"
+        ],
+        "englishwords": [
+            "to disturb"
+        ]
+    },
+    {
+        "spanishwords": [
+            "descendre"
+        ],
+        "englishwords": [
+            "to descend",
+            "to go down"
+        ]
+    },
+    {
+        "spanishwords": [
+            "durer"
+        ],
+        "englishwords": [
+            "to last"
+        ]
+    },
+    {
+        "spanishwords": [
+            "expliquer"
+        ],
+        "englishwords": [
+            "to explain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire la connaissance"
+        ],
+        "englishwords": [
+            "to get to know"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire la grasse matinee"
+        ],
+        "englishwords": [
+            "to lie in",
+            "to sleep in"
+        ]
+    },
+    {
+        "spanishwords": [
+            "s habituer a"
+        ],
+        "englishwords": [
+            "to get used to"
+        ]
+    },
+    {
+        "spanishwords": [
+            "laisser"
+        ],
+        "englishwords": [
+            "to leave behind",
+            "to let"
+        ]
+    },
+    {
+        "spanishwords": [
+            "laver"
+        ],
+        "englishwords": [
+            "to wash"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se laver"
+        ],
+        "englishwords": [
+            "to get washed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lever"
+        ],
+        "englishwords": [
+            "to lift"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se lever"
+        ],
+        "englishwords": [
+            "to get up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "manquer"
+        ],
+        "englishwords": [
+            "to miss",
+            "to lack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "monter"
+        ],
+        "englishwords": [
+            "to ascend",
+            "to go up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nager"
+        ],
+        "englishwords": [
+            "to swim"
+        ]
+    },
+    {
+        "spanishwords": [
+            "paraitre"
+        ],
+        "englishwords": [
+            "to seem"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plaire"
+        ],
+        "englishwords": [
+            "to please"
+        ]
+    },
+    {
+        "spanishwords": [
+            "remarquer"
+        ],
+        "englishwords": [
+            "to notice"
+        ]
+    },
+    {
+        "spanishwords": [
+            "remercier"
+        ],
+        "englishwords": [
+            "to thank"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se reveiller"
+        ],
+        "englishwords": [
+            "to wake up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se coucher"
+        ],
+        "englishwords": [
+            "to go to bed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se debrouiller"
+        ],
+        "englishwords": [
+            "to get by",
+            "to cope"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se presenter"
+        ],
+        "englishwords": [
+            "to introduce oneself"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se promener"
+        ],
+        "englishwords": [
+            "to go for a walk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tourner"
+        ],
+        "englishwords": [
+            "to turn"
+        ]
+    },
+    {
+        "spanishwords": [
+            "traduire"
+        ],
+        "englishwords": [
+            "to translate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voyages"
+        ],
+        "englishwords": [
+            "travel agency"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aventure"
+        ],
+        "englishwords": [
+            "adventure"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avis",
+            "opinion"
+        ],
+        "englishwords": [
+            "opinion"
+        ]
+    },
+    {
+        "spanishwords": [
+            "carte postale"
+        ],
+        "englishwords": [
+            "postcard"
+        ]
+    },
+    {
+        "spanishwords": [
+            "concours"
+        ],
+        "englishwords": [
+            "competition"
+        ]
+    },
+    {
+        "spanishwords": [
+            "couture"
+        ],
+        "englishwords": [
+            "sewing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "creme solaire"
+        ],
+        "englishwords": [
+            "sun cream"
+        ]
+    },
+    {
+        "spanishwords": [
+            "echange"
+        ],
+        "englishwords": [
+            "exchange"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etranger",
+            "etrangere"
+        ],
+        "englishwords": [
+            "stranger",
+            "foreigner"
+        ]
+    },
+    {
+        "spanishwords": [
+            "evenement"
+        ],
+        "englishwords": [
+            "event"
+        ]
+    },
+    {
+        "spanishwords": [
+            "foire"
+        ],
+        "englishwords": [
+            "fair"
+        ]
+    },
+    {
+        "spanishwords": [
+            "instruction civique"
+        ],
+        "englishwords": [
+            "citizenship education"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jardin zoologique",
+            "zoo"
+        ],
+        "englishwords": [
+            "zoo"
+        ]
+    },
+    {
+        "spanishwords": [
+            "langues vivantes"
+        ],
+        "englishwords": [
+            "modern languages"
+        ]
+    },
+    {
+        "spanishwords": [
+            "location"
+        ],
+        "englishwords": [
+            "hiring",
+            "rent"
+        ]
+    },
+    {
+        "spanishwords": [
+            "loisir"
+        ],
+        "englishwords": [
+            "free time"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lunettes de soleil"
+        ],
+        "englishwords": [
+            "sunglasses"
+        ]
+    },
+    {
+        "spanishwords": [
+            "maillot de bain"
+        ],
+        "englishwords": [
+            "swimming costume"
+        ]
+    },
+    {
+        "spanishwords": [
+            "parc dattractions"
+        ],
+        "englishwords": [
+            "theme park"
+        ]
+    },
+    {
+        "spanishwords": [
+            "perte"
+        ],
+        "englishwords": [
+            "loss"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piece",
+            "carte didentite"
+        ],
+        "englishwords": [
+            "ID card"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plage"
+        ],
+        "englishwords": [
+            "beach"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plan de la ville"
+        ],
+        "englishwords": [
+            "town map"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plongee sous-marine"
+        ],
+        "englishwords": [
+            "underwater diving"
+        ]
+    },
+    {
+        "spanishwords": [
+            "projet"
+        ],
+        "englishwords": [
+            "plan"
+        ]
+    },
+    {
+        "spanishwords": [
+            "randonnee"
+        ],
+        "englishwords": [
+            "walk",
+            "hike"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rendez-vous"
+        ],
+        "englishwords": [
+            "meeting",
+            "appointment"
+        ]
+    },
+    {
+        "spanishwords": [
+            "renseignement"
+        ],
+        "englishwords": [
+            "information"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sable"
+        ],
+        "englishwords": [
+            "sand"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sac"
+        ],
+        "englishwords": [
+            "travel bag"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sac a dos"
+        ],
+        "englishwords": [
+            "rucksack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sejour"
+        ],
+        "englishwords": [
+            "stay",
+            "visit"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sommet"
+        ],
+        "englishwords": [
+            "summit"
+        ]
+    },
+    {
+        "spanishwords": [
+            "spectacle"
+        ],
+        "englishwords": [
+            "show"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tour"
+        ],
+        "englishwords": [
+            "tower"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tour"
+        ],
+        "englishwords": [
+            "tour"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tourisme"
+        ],
+        "englishwords": [
+            "tourism"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vacances"
+        ],
+        "englishwords": [
+            "holidays"
+        ]
+    },
+    {
+        "spanishwords": [
+            "valise"
+        ],
+        "englishwords": [
+            "suitcase"
+        ]
+    },
+    {
+        "spanishwords": [
+            "visite"
+        ],
+        "englishwords": [
+            "visit"
+        ]
+    },
+    {
+        "spanishwords": [
+            "a lexterieur",
+            "dehors",
+            "en plein air"
+        ],
+        "englishwords": [
+            "in the open air",
+            "outdoor",
+            "outside"
+        ]
+    },
+    {
+        "spanishwords": [
+            "a linterieur",
+            "dedans"
+        ],
+        "englishwords": [
+            "Indoor",
+            "inside"
+        ]
+    },
+    {
+        "spanishwords": [
+            "connu"
+        ],
+        "englishwords": [
+            "famous",
+            "known"
+        ]
+    },
+    {
+        "spanishwords": [
+            "inconnu"
+        ],
+        "englishwords": [
+            "unknown"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jumele"
+        ],
+        "englishwords": [
+            "twinned"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lentement",
+            "doucement"
+        ],
+        "englishwords": [
+            "slowly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pret"
+        ],
+        "englishwords": [
+            "ready"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rapidement"
+        ],
+        "englishwords": [
+            "fast"
+        ]
+    },
+    {
+        "spanishwords": [
+            "donner sur"
+        ],
+        "englishwords": [
+            "to overlook"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dresser"
+        ],
+        "englishwords": [
+            "to put up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire du camping"
+        ],
+        "englishwords": [
+            "to do camping"
+        ]
+    },
+    {
+        "spanishwords": [
+            "heberger"
+        ],
+        "englishwords": [
+            "to accommodate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "loger"
+        ],
+        "englishwords": [
+            "to stay",
+            "to lodge"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reserver"
+        ],
+        "englishwords": [
+            "to book",
+            "to reserve"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rester"
+        ],
+        "englishwords": [
+            "to stay"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aire de jeux"
+        ],
+        "englishwords": [
+            "play area"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ascenseur"
+        ],
+        "englishwords": [
+            "lift"
+        ]
+    },
+    {
+        "spanishwords": [
+            "auberge de jeunesse"
+        ],
+        "englishwords": [
+            "youth hostel"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chambre dhote"
+        ],
+        "englishwords": [
+            "bed and breakfast"
+        ]
+    },
+    {
+        "spanishwords": [
+            "familiale"
+        ],
+        "englishwords": [
+            "family room"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cle",
+            "clef"
+        ],
+        "englishwords": [
+            "key"
+        ]
+    },
+    {
+        "spanishwords": [
+            "climatisation"
+        ],
+        "englishwords": [
+            "air conditioning"
+        ]
+    },
+    {
+        "spanishwords": [
+            "colonie de vacances"
+        ],
+        "englishwords": [
+            "holiday",
+            "summer camp"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dortoir"
+        ],
+        "englishwords": [
+            "dormitory"
+        ]
+    },
+    {
+        "spanishwords": [
+            "douche"
+        ],
+        "englishwords": [
+            "shower"
+        ]
+    },
+    {
+        "spanishwords": [
+            "emplacement"
+        ],
+        "englishwords": [
+            "pitch"
+        ]
+    },
+    {
+        "spanishwords": [
+            "herbe"
+        ],
+        "englishwords": [
+            "grass"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lavabo"
+        ],
+        "englishwords": [
+            "wash basin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lit"
+        ],
+        "englishwords": [
+            "bed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lit double"
+        ],
+        "englishwords": [
+            "double bed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lit simple"
+        ],
+        "englishwords": [
+            "single bed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lits superposes"
+        ],
+        "englishwords": [
+            "bunk beds"
+        ]
+    },
+    {
+        "spanishwords": [
+            "logement"
+        ],
+        "englishwords": [
+            "accommodation"
+        ]
+    },
+    {
+        "spanishwords": [
+            "moquette"
+        ],
+        "englishwords": [
+            "carpet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pelouse"
+        ],
+        "englishwords": [
+            "grass"
+        ]
+    },
+    {
+        "spanishwords": [
+            "proprietaire"
+        ],
+        "englishwords": [
+            "owner"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sac de couchage"
+        ],
+        "englishwords": [
+            "sleeping bag"
+        ]
+    },
+    {
+        "spanishwords": [
+            "salle de sejour"
+        ],
+        "englishwords": [
+            "lounge"
+        ]
+    },
+    {
+        "spanishwords": [
+            "terrasse"
+        ],
+        "englishwords": [
+            "terrace",
+            "patio"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vue sur la mer"
+        ],
+        "englishwords": [
+            "sea view"
+        ]
+    },
+    {
+        "spanishwords": [
+            "annuler"
+        ],
+        "englishwords": [
+            "to cancel"
+        ]
+    },
+    {
+        "spanishwords": [
+            "atterrir"
+        ],
+        "englishwords": [
+            "to land"
+        ]
+    },
+    {
+        "spanishwords": [
+            "conduire"
+        ],
+        "englishwords": [
+            "to drive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "decoller"
+        ],
+        "englishwords": [
+            "to take off"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se garer"
+        ],
+        "englishwords": [
+            "to park"
+        ]
+    },
+    {
+        "spanishwords": [
+            "louer"
+        ],
+        "englishwords": [
+            "to hire",
+            "to rent"
+        ]
+    },
+    {
+        "spanishwords": [
+            "marcher"
+        ],
+        "englishwords": [
+            "to walk"
+        ]
+    },
+    {
+        "spanishwords": [
+            "partir"
+        ],
+        "englishwords": [
+            "to leave"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ralentir"
+        ],
+        "englishwords": [
+            "to slow down"
+        ]
+    },
+    {
+        "spanishwords": [
+            "retarder"
+        ],
+        "englishwords": [
+            "to delay"
+        ]
+    },
+    {
+        "spanishwords": [
+            "retourner"
+        ],
+        "englishwords": [
+            "to return"
+        ]
+    },
+    {
+        "spanishwords": [
+            "revenir"
+        ],
+        "englishwords": [
+            "to come back"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sasseoir"
+        ],
+        "englishwords": [
+            "to sit down"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se mettre en route"
+        ],
+        "englishwords": [
+            "to set off"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voler"
+        ],
+        "englishwords": [
+            "to fly"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voyager"
+        ],
+        "englishwords": [
+            "to travel"
+        ]
+    },
+    {
+        "spanishwords": [
+            "accueil"
+        ],
+        "englishwords": [
+            "welcome",
+            "reception area"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aeroport"
+        ],
+        "englishwords": [
+            "airport"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aller-retour"
+        ],
+        "englishwords": [
+            "single ticket"
+        ]
+    },
+    {
+        "spanishwords": [
+            "aller simple"
+        ],
+        "englishwords": [
+            "return ticket"
+        ]
+    },
+    {
+        "spanishwords": [
+            "arrivee"
+        ],
+        "englishwords": [
+            "arrival"
+        ]
+    },
+    {
+        "spanishwords": [
+            "auto"
+        ],
+        "englishwords": [
+            "car"
+        ]
+    },
+    {
+        "spanishwords": [
+            "autobus"
+        ],
+        "englishwords": [
+            "bus"
+        ]
+    },
+    {
+        "spanishwords": [
+            "autoroute"
+        ],
+        "englishwords": [
+            "motorway"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avion"
+        ],
+        "englishwords": [
+            "plane"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bagages"
+        ],
+        "englishwords": [
+            "luggage"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bateau"
+        ],
+        "englishwords": [
+            "boat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "billet"
+        ],
+        "englishwords": [
+            "note",
+            "ticket"
+        ]
+    },
+    {
+        "spanishwords": [
+            "car"
+        ],
+        "englishwords": [
+            "coach"
+        ]
+    },
+    {
+        "spanishwords": [
+            "carte"
+        ],
+        "englishwords": [
+            "map",
+            "card"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chemin de fer"
+        ],
+        "englishwords": [
+            "railway"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chemin"
+        ],
+        "englishwords": [
+            "way",
+            "path"
+        ]
+    },
+    {
+        "spanishwords": [
+            "depart"
+        ],
+        "englishwords": [
+            "departure"
+        ]
+    },
+    {
+        "spanishwords": [
+            "especes"
+        ],
+        "englishwords": [
+            "change"
+        ]
+    },
+    {
+        "spanishwords": [
+            "essence"
+        ],
+        "englishwords": [
+            "petrol"
+        ]
+    },
+    {
+        "spanishwords": [
+            "frontiere"
+        ],
+        "englishwords": [
+            "border",
+            "frontier"
+        ]
+    },
+    {
+        "spanishwords": [
+            "horaire"
+        ],
+        "englishwords": [
+            "timetable"
+        ]
+    },
+    {
+        "spanishwords": [
+            "location de voitures"
+        ],
+        "englishwords": [
+            "car rental"
+        ]
+    },
+    {
+        "spanishwords": [
+            "moto"
+        ],
+        "englishwords": [
+            "motor bike"
+        ]
+    },
+    {
+        "spanishwords": [
+            "permis de conduire"
+        ],
+        "englishwords": [
+            "driving licence"
+        ]
+    },
+    {
+        "spanishwords": [
+            "piece"
+        ],
+        "englishwords": [
+            "coin",
+            "room",
+            "piece"
+        ]
+    },
+    {
+        "spanishwords": [
+            "retour"
+        ],
+        "englishwords": [
+            "return"
+        ]
+    },
+    {
+        "spanishwords": [
+            "route"
+        ],
+        "englishwords": [
+            "road",
+            "way"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rue"
+        ],
+        "englishwords": [
+            "street"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sac a dos"
+        ],
+        "englishwords": [
+            "rucksack"
+        ]
+    },
+    {
+        "spanishwords": [
+            "trajet"
+        ],
+        "englishwords": [
+            "journey"
+        ]
+    },
+    {
+        "spanishwords": [
+            "traversee"
+        ],
+        "englishwords": [
+            "crossing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "valise"
+        ],
+        "englishwords": [
+            "suitcase"
+        ]
+    },
+    {
+        "spanishwords": [
+            "voiture"
+        ],
+        "englishwords": [
+            "car"
+        ]
+    },
+    {
+        "spanishwords": [
+            "vol"
+        ],
+        "englishwords": [
+            "flight"
+        ]
+    },
+    {
+        "spanishwords": [
+            "a letranger"
+        ],
+        "englishwords": [
+            "abroad"
+        ]
+    },
+    {
+        "spanishwords": [
+            "au bord de la mer"
+        ],
+        "englishwords": [
+            "by the seaside"
+        ]
+    },
+    {
+        "spanishwords": [
+            "africain"
+        ],
+        "englishwords": [
+            "Africa"
+        ]
+    },
+    {
+        "spanishwords": [
+            "algerien"
+        ],
+        "englishwords": [
+            "Algeria"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Allemagne allemand"
+        ],
+        "englishwords": [
+            "Germany"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Alpes"
+        ],
+        "englishwords": [
+            "Alps"
+        ]
+    },
+    {
+        "spanishwords": [
+            "anglais"
+        ],
+        "englishwords": [
+            "England"
+        ]
+    },
+    {
+        "spanishwords": [
+            "banlieue"
+        ],
+        "englishwords": [
+            "outskirt",
+            "suburbs"
+        ]
+    },
+    {
+        "spanishwords": [
+            "belge"
+        ],
+        "englishwords": [
+            "Belgium"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bord de mer"
+        ],
+        "englishwords": [
+            "seafront"
+        ]
+    },
+    {
+        "spanishwords": [
+            "campagne"
+        ],
+        "englishwords": [
+            "countryside"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chinois"
+        ],
+        "englishwords": [
+            "China"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Douvres"
+        ],
+        "englishwords": [
+            "Dover"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecossais"
+        ],
+        "englishwords": [
+            "Scotland"
+        ]
+    },
+    {
+        "spanishwords": [
+            "espagnol"
+        ],
+        "englishwords": [
+            "Spain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "americain"
+        ],
+        "englishwords": [
+            "the USA"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fleuve"
+        ],
+        "englishwords": [
+            "river"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Grande-Bretagne  britannique"
+        ],
+        "englishwords": [
+            "Great Britain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ile"
+        ],
+        "englishwords": [
+            "island"
+        ]
+    },
+    {
+        "spanishwords": [
+            "irlandais"
+        ],
+        "englishwords": [
+            "Ireland"
+        ]
+    },
+    {
+        "spanishwords": [
+            "italien"
+        ],
+        "englishwords": [
+            "Italy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lac"
+        ],
+        "englishwords": [
+            "lake"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Londres"
+        ],
+        "englishwords": [
+            "London"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Manche"
+        ],
+        "englishwords": [
+            "the English Channel"
+        ]
+    },
+    {
+        "spanishwords": [
+            "marocain"
+        ],
+        "englishwords": [
+            "Morocco"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Mediterranee"
+        ],
+        "englishwords": [
+            "the Mediterranean sea"
+        ]
+    },
+    {
+        "spanishwords": [
+            "monde"
+        ],
+        "englishwords": [
+            "world",
+            "the people"
+        ]
+    },
+    {
+        "spanishwords": [
+            "montagne"
+        ],
+        "englishwords": [
+            "mountain"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Pays de Galles gallois"
+        ],
+        "englishwords": [
+            "Wales"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Seine"
+        ],
+        "englishwords": [
+            "the river Seine"
+        ]
+    },
+    {
+        "spanishwords": [
+            "station balneaire"
+        ],
+        "englishwords": [
+            "seaside resort"
+        ]
+    },
+    {
+        "spanishwords": [
+            "station de ski"
+        ],
+        "englishwords": [
+            "ski resort"
+        ]
+    },
+    {
+        "spanishwords": [
+            "suisse"
+        ],
+        "englishwords": [
+            "Switzerland"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Tamise"
+        ],
+        "englishwords": [
+            "the river Thames"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tunisien"
+        ],
+        "englishwords": [
+            "Tunisia"
+        ]
+    },
+    {
+        "spanishwords": [
+            "allemand"
+        ],
+        "englishwords": [
+            "German"
+        ]
+    },
+    {
+        "spanishwords": [
+            "anglais"
+        ],
+        "englishwords": [
+            "English"
+        ]
+    },
+    {
+        "spanishwords": [
+            "arts plastiques"
+        ],
+        "englishwords": [
+            "art"
+        ]
+    },
+    {
+        "spanishwords": [
+            "biologie"
+        ],
+        "englishwords": [
+            "biology"
+        ]
+    },
+    {
+        "spanishwords": [
+            "brevet des colleges"
+        ],
+        "englishwords": [
+            "GCSE"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chimie"
+        ],
+        "englishwords": [
+            "chemistry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "couture"
+        ],
+        "englishwords": [
+            "sewing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demi-pensionnaire"
+        ],
+        "englishwords": [
+            "student who stays at school for lunch time"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dessin"
+        ],
+        "englishwords": [
+            "art"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecole"
+        ],
+        "englishwords": [
+            "school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecole maternelle"
+        ],
+        "englishwords": [
+            "infant school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecole primaire"
+        ],
+        "englishwords": [
+            "primary school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eleve"
+        ],
+        "englishwords": [
+            "pupil"
+        ]
+    },
+    {
+        "spanishwords": [
+            "EPS"
+        ],
+        "englishwords": [
+            "PE"
+        ]
+    },
+    {
+        "spanishwords": [
+            "espagnol"
+        ],
+        "englishwords": [
+            "Spanish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "externe"
+        ],
+        "englishwords": [
+            "student who goes home for lunch time"
+        ]
+    },
+    {
+        "spanishwords": [
+            "francais"
+        ],
+        "englishwords": [
+            "French"
+        ]
+    },
+    {
+        "spanishwords": [
+            "geographie"
+        ],
+        "englishwords": [
+            "geography"
+        ]
+    },
+    {
+        "spanishwords": [
+            "Histoire"
+        ],
+        "englishwords": [
+            "history"
+        ]
+    },
+    {
+        "spanishwords": [
+            "informatique"
+        ],
+        "englishwords": [
+            "IT"
+        ]
+    },
+    {
+        "spanishwords": [
+            "institutrice"
+        ],
+        "englishwords": [
+            "primary school teacher"
+        ]
+    },
+    {
+        "spanishwords": [
+            "enseignement moral et civique"
+        ],
+        "englishwords": [
+            "citizenship education"
+        ]
+    },
+    {
+        "spanishwords": [
+            "langue"
+        ],
+        "englishwords": [
+            "language"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mathematiques"
+        ],
+        "englishwords": [
+            "mathematics"
+        ]
+    },
+    {
+        "spanishwords": [
+            "matiere"
+        ],
+        "englishwords": [
+            "subject"
+        ]
+    },
+    {
+        "spanishwords": [
+            "musique"
+        ],
+        "englishwords": [
+            "music"
+        ]
+    },
+    {
+        "spanishwords": [
+            "physique",
+            "sciences physiques"
+        ],
+        "englishwords": [
+            "physics",
+            ""
+        ]
+    },
+    {
+        "spanishwords": [
+            "professeur"
+        ],
+        "englishwords": [
+            "teacher"
+        ]
+    },
+    {
+        "spanishwords": [
+            "proviseur"
+        ],
+        "englishwords": [
+            "head teacher"
+        ]
+    },
+    {
+        "spanishwords": [
+            "religion"
+        ],
+        "englishwords": [
+            "religious studies"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sciences de la vie et de la Terre"
+        ],
+        "englishwords": [
+            "biology",
+            "geology",
+            "& astronomy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "technologie"
+        ],
+        "englishwords": [
+            "technology"
+        ]
+    },
+    {
+        "spanishwords": [
+            "abandonner"
+        ],
+        "englishwords": [
+            "to give up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir envie de"
+        ],
+        "englishwords": [
+            "to want to",
+            "to feel like"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avoir lintention de"
+        ],
+        "englishwords": [
+            "to intend to"
+        ]
+    },
+    {
+        "spanishwords": [
+            "continuer"
+        ],
+        "englishwords": [
+            "to continue"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etudier"
+        ],
+        "englishwords": [
+            "to study"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre en premiere"
+        ],
+        "englishwords": [
+            "to be in year 12"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre en terminale"
+        ],
+        "englishwords": [
+            "to be in year 13"
+        ]
+    },
+    {
+        "spanishwords": [
+            "former"
+        ],
+        "englishwords": [
+            "to train"
+        ]
+    },
+    {
+        "spanishwords": [
+            "laisser tomber"
+        ],
+        "englishwords": [
+            "to drop"
+        ]
+    },
+    {
+        "spanishwords": [
+            "annee sabbatique"
+        ],
+        "englishwords": [
+            "gap year"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bac"
+        ],
+        "englishwords": [
+            "A-level"
+        ]
+    },
+    {
+        "spanishwords": [
+            "college"
+        ],
+        "englishwords": [
+            "secondary school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "conseiller",
+            "conseillere dorientation"
+        ],
+        "englishwords": [
+            "careers advisor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "epreuve"
+        ],
+        "englishwords": [
+            "test"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etablissement"
+        ],
+        "englishwords": [
+            "establishment"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etudiant"
+        ],
+        "englishwords": [
+            "student"
+        ]
+    },
+    {
+        "spanishwords": [
+            "examen"
+        ],
+        "englishwords": [
+            "exam"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faculte"
+        ],
+        "englishwords": [
+            "university",
+            "faculty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "liberte"
+        ],
+        "englishwords": [
+            "freedom"
+        ]
+    },
+    {
+        "spanishwords": [
+            "licence"
+        ],
+        "englishwords": [
+            "degree"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lycee"
+        ],
+        "englishwords": [
+            "sixth form college"
+        ]
+    },
+    {
+        "spanishwords": [
+            "projet"
+        ],
+        "englishwords": [
+            "plan"
+        ]
+    },
+    {
+        "spanishwords": [
+            "analyser"
+        ],
+        "englishwords": [
+            "to analyse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "apprendre"
+        ],
+        "englishwords": [
+            "to learn"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chercher"
+        ],
+        "englishwords": [
+            "to look for"
+        ]
+    },
+    {
+        "spanishwords": [
+            "commencer"
+        ],
+        "englishwords": [
+            "to start",
+            "to begin"
+        ]
+    },
+    {
+        "spanishwords": [
+            "comprendre"
+        ],
+        "englishwords": [
+            "to understand"
+        ]
+    },
+    {
+        "spanishwords": [
+            "demander"
+        ],
+        "englishwords": [
+            "to ask"
+        ]
+    },
+    {
+        "spanishwords": [
+            "discuter"
+        ],
+        "englishwords": [
+            "to discuss"
+        ]
+    },
+    {
+        "spanishwords": [
+            "distraire"
+        ],
+        "englishwords": [
+            "to distract"
+        ]
+    },
+    {
+        "spanishwords": [
+            "distribuer"
+        ],
+        "englishwords": [
+            "to give out"
+        ]
+    },
+    {
+        "spanishwords": [
+            "echouer"
+        ],
+        "englishwords": [
+            "to fail"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecouter"
+        ],
+        "englishwords": [
+            "to listen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecrire"
+        ],
+        "englishwords": [
+            "to write"
+        ]
+    },
+    {
+        "spanishwords": [
+            "enseigner"
+        ],
+        "englishwords": [
+            "to teach"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre en seconde"
+        ],
+        "englishwords": [
+            "to be in year 11"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire",
+            "payer attention"
+        ],
+        "englishwords": [
+            "to be careful",
+            "to pay attention"
+        ]
+    },
+    {
+        "spanishwords": [
+            "faire des recherches"
+        ],
+        "englishwords": [
+            "to do some research"
+        ]
+    },
+    {
+        "spanishwords": [
+            "finir"
+        ],
+        "englishwords": [
+            "to finish",
+            "to end"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jouer"
+        ],
+        "englishwords": [
+            "to play"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lire"
+        ],
+        "englishwords": [
+            "to read"
+        ]
+    },
+    {
+        "spanishwords": [
+            "oublier"
+        ],
+        "englishwords": [
+            "to forget"
+        ]
+    },
+    {
+        "spanishwords": [
+            "passer un examen"
+        ],
+        "englishwords": [
+            "to sit",
+            "to take an exam"
+        ]
+    },
+    {
+        "spanishwords": [
+            "penser"
+        ],
+        "englishwords": [
+            "to think"
+        ]
+    },
+    {
+        "spanishwords": [
+            "permettre"
+        ],
+        "englishwords": [
+            "to allow",
+            "to permit",
+            "to enable"
+        ]
+    },
+    {
+        "spanishwords": [
+            "perturber"
+        ],
+        "englishwords": [
+            "to disrupt"
+        ]
+    },
+    {
+        "spanishwords": [
+            "porter"
+        ],
+        "englishwords": [
+            "to wear",
+            "to carry"
+        ]
+    },
+    {
+        "spanishwords": [
+            "poser une question"
+        ],
+        "englishwords": [
+            "to ask a question"
+        ]
+    },
+    {
+        "spanishwords": [
+            "prendre des notes"
+        ],
+        "englishwords": [
+            "to take notes"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rater"
+        ],
+        "englishwords": [
+            "to fail",
+            "to miss"
+        ]
+    },
+    {
+        "spanishwords": [
+            "redoubler"
+        ],
+        "englishwords": [
+            "to repeat the year"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reflechir"
+        ],
+        "englishwords": [
+            "to think",
+            "to reflect"
+        ]
+    },
+    {
+        "spanishwords": [
+            "repeter"
+        ],
+        "englishwords": [
+            "to repeat"
+        ]
+    },
+    {
+        "spanishwords": [
+            "repondre a une question"
+        ],
+        "englishwords": [
+            "to answer a question"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reussir un examen"
+        ],
+        "englishwords": [
+            "to pass an exam"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reviser"
+        ],
+        "englishwords": [
+            "to revise"
+        ]
+    },
+    {
+        "spanishwords": [
+            "samuser"
+        ],
+        "englishwords": [
+            "to have fun"
+        ]
+    },
+    {
+        "spanishwords": [
+            "savoir"
+        ],
+        "englishwords": [
+            "to know"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se comporter"
+        ],
+        "englishwords": [
+            "to behave"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sennuyer"
+        ],
+        "englishwords": [
+            "to feel",
+            "to be bored"
+        ]
+    },
+    {
+        "spanishwords": [
+            "se rappeler",
+            "se souvenir"
+        ],
+        "englishwords": [
+            "to remember"
+        ]
+    },
+    {
+        "spanishwords": [
+            "travailler"
+        ],
+        "englishwords": [
+            "to work"
+        ]
+    },
+    {
+        "spanishwords": [
+            "trouver"
+        ],
+        "englishwords": [
+            "to find"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bulletin scolaire"
+        ],
+        "englishwords": [
+            "school report"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cahier"
+        ],
+        "englishwords": [
+            "exercise book"
+        ]
+    },
+    {
+        "spanishwords": [
+            "calculette",
+            "calculatrice"
+        ],
+        "englishwords": [
+            "calculator"
+        ]
+    },
+    {
+        "spanishwords": [
+            "car de ramassage"
+        ],
+        "englishwords": [
+            "school bus"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cartable"
+        ],
+        "englishwords": [
+            "school bag"
+        ]
+    },
+    {
+        "spanishwords": [
+            "classeur"
+        ],
+        "englishwords": [
+            "folder"
+        ]
+    },
+    {
+        "spanishwords": [
+            "colle"
+        ],
+        "englishwords": [
+            "glue",
+            "detention"
+        ]
+    },
+    {
+        "spanishwords": [
+            "college"
+        ],
+        "englishwords": [
+            "secondary school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "controle"
+        ],
+        "englishwords": [
+            "test"
+        ]
+    },
+    {
+        "spanishwords": [
+            "controle continu"
+        ],
+        "englishwords": [
+            "coursework"
+        ]
+    },
+    {
+        "spanishwords": [
+            "couloir"
+        ],
+        "englishwords": [
+            "corridor"
+        ]
+    },
+    {
+        "spanishwords": [
+            "cours"
+        ],
+        "englishwords": [
+            "lesson"
+        ]
+    },
+    {
+        "spanishwords": [
+            "crayon"
+        ],
+        "englishwords": [
+            "pencil"
+        ]
+    },
+    {
+        "spanishwords": [
+            "devoirs"
+        ],
+        "englishwords": [
+            "homework"
+        ]
+    },
+    {
+        "spanishwords": [
+            "difficulte"
+        ],
+        "englishwords": [
+            "difficulty"
+        ]
+    },
+    {
+        "spanishwords": [
+            "diplome"
+        ],
+        "englishwords": [
+            "qualification"
+        ]
+    },
+    {
+        "spanishwords": [
+            "proviseur"
+        ],
+        "englishwords": [
+            "headmaster",
+            "headmistress"
+        ]
+    },
+    {
+        "spanishwords": [
+            "droit"
+        ],
+        "englishwords": [
+            "right"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecole secondaire"
+        ],
+        "englishwords": [
+            "secondary school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ecriture"
+        ],
+        "englishwords": [
+            "writing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "emploi du temps"
+        ],
+        "englishwords": [
+            "timetable"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etudes"
+        ],
+        "englishwords": [
+            "studies"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gomme"
+        ],
+        "englishwords": [
+            "rubber"
+        ]
+    },
+    {
+        "spanishwords": [
+            "harcelement"
+        ],
+        "englishwords": [
+            "bullying"
+        ]
+    },
+    {
+        "spanishwords": [
+            "incivilites"
+        ],
+        "englishwords": [
+            "rudeness"
+        ]
+    },
+    {
+        "spanishwords": [
+            "injure"
+        ],
+        "englishwords": [
+            "insult"
+        ]
+    },
+    {
+        "spanishwords": [
+            "interrogation"
+        ],
+        "englishwords": [
+            "test"
+        ]
+    },
+    {
+        "spanishwords": [
+            "interrogation"
+        ],
+        "englishwords": [
+            "test"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lecon"
+        ],
+        "englishwords": [
+            "lesson"
+        ]
+    },
+    {
+        "spanishwords": [
+            "lecture"
+        ],
+        "englishwords": [
+            "reading"
+        ]
+    },
+    {
+        "spanishwords": [
+            "livre"
+        ],
+        "englishwords": [
+            "book"
+        ]
+    },
+    {
+        "spanishwords": [
+            "maquillage"
+        ],
+        "englishwords": [
+            "make up"
+        ]
+    },
+    {
+        "spanishwords": [
+            "note"
+        ],
+        "englishwords": [
+            "mark"
+        ]
+    },
+    {
+        "spanishwords": [
+            "orthographe"
+        ],
+        "englishwords": [
+            "spelling"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pause"
+        ],
+        "englishwords": [
+            "break",
+            "pause"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pression"
+        ],
+        "englishwords": [
+            "pressure"
+        ]
+    },
+    {
+        "spanishwords": [
+            "recre"
+        ],
+        "englishwords": [
+            "break"
+        ]
+    },
+    {
+        "spanishwords": [
+            "regle"
+        ],
+        "englishwords": [
+            "rule",
+            "ruler"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reglement"
+        ],
+        "englishwords": [
+            "school rules"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rentree"
+        ],
+        "englishwords": [
+            "return to school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reponse"
+        ],
+        "englishwords": [
+            "reply"
+        ]
+    },
+    {
+        "spanishwords": [
+            "resultat"
+        ],
+        "englishwords": [
+            "result"
+        ]
+    },
+    {
+        "spanishwords": [
+            "retenue"
+        ],
+        "englishwords": [
+            "detention"
+        ]
+    },
+    {
+        "spanishwords": [
+            "salle de classe"
+        ],
+        "englishwords": [
+            "classroom"
+        ]
+    },
+    {
+        "spanishwords": [
+            "stage"
+        ],
+        "englishwords": [
+            "work experience"
+        ]
+    },
+    {
+        "spanishwords": [
+            "stylo"
+        ],
+        "englishwords": [
+            "pen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "tableau"
+        ],
+        "englishwords": [
+            "board"
+        ]
+    },
+    {
+        "spanishwords": [
+            "taille-crayon"
+        ],
+        "englishwords": [
+            "pencil sharpener"
+        ]
+    },
+    {
+        "spanishwords": [
+            "terrain de sport"
+        ],
+        "englishwords": [
+            "sports ground"
+        ]
+    },
+    {
+        "spanishwords": [
+            "trimestre"
+        ],
+        "englishwords": [
+            "term"
+        ]
+    },
+    {
+        "spanishwords": [
+            "trousse"
+        ],
+        "englishwords": [
+            "pencil case"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bien equipe"
+        ],
+        "englishwords": [
+            "well equipped"
+        ]
+    },
+    {
+        "spanishwords": [
+            "complique"
+        ],
+        "englishwords": [
+            "complicated"
+        ]
+    },
+    {
+        "spanishwords": [
+            "difficile"
+        ],
+        "englishwords": [
+            "difficult"
+        ]
+    },
+    {
+        "spanishwords": [
+            "doue"
+        ],
+        "englishwords": [
+            "gifted"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ennuyeux"
+        ],
+        "englishwords": [
+            "boring"
+        ]
+    },
+    {
+        "spanishwords": [
+            "facile"
+        ],
+        "englishwords": [
+            "easy"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fatigant"
+        ],
+        "englishwords": [
+            "tiring"
+        ]
+    },
+    {
+        "spanishwords": [
+            "genial"
+        ],
+        "englishwords": [
+            "great"
+        ]
+    },
+    {
+        "spanishwords": [
+            "interessant"
+        ],
+        "englishwords": [
+            "interesting"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mal equipe"
+        ],
+        "englishwords": [
+            "badly equipped"
+        ]
+    },
+    {
+        "spanishwords": [
+            "nul"
+        ],
+        "englishwords": [
+            "rubbish"
+        ]
+    },
+    {
+        "spanishwords": [
+            "passionant"
+        ],
+        "englishwords": [
+            "fascinating"
+        ]
+    },
+    {
+        "spanishwords": [
+            "perturbateur",
+            "perturbatrice"
+        ],
+        "englishwords": [
+            "disruptive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "scolaire"
+        ],
+        "englishwords": [
+            "school"
+        ]
+    },
+    {
+        "spanishwords": [
+            "compter"
+        ],
+        "englishwords": [
+            "to count"
+        ]
+    },
+    {
+        "spanishwords": [
+            "economiser"
+        ],
+        "englishwords": [
+            "to save"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre au chomage"
+        ],
+        "englishwords": [
+            "to be unemployed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "elargir"
+        ],
+        "englishwords": [
+            "to widen"
+        ]
+    },
+    {
+        "spanishwords": [
+            "embaucher"
+        ],
+        "englishwords": [
+            "to employ"
+        ]
+    },
+    {
+        "spanishwords": [
+            "empecher"
+        ],
+        "englishwords": [
+            "to prevent"
+        ]
+    },
+    {
+        "spanishwords": [
+            "esperer"
+        ],
+        "englishwords": [
+            "to hope"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre embauche"
+        ],
+        "englishwords": [
+            "to be employed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "etre licencie"
+        ],
+        "englishwords": [
+            "to be dismissed"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eviter"
+        ],
+        "englishwords": [
+            "to avoid"
+        ]
+    },
+    {
+        "spanishwords": [
+            "gagner"
+        ],
+        "englishwords": [
+            "to earn",
+            "to win"
+        ]
+    },
+    {
+        "spanishwords": [
+            "licencier"
+        ],
+        "englishwords": [
+            "to dismiss"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mettre de largent de cote"
+        ],
+        "englishwords": [
+            "to save money"
+        ]
+    },
+    {
+        "spanishwords": [
+            "postuler pour"
+        ],
+        "englishwords": [
+            "to apply"
+        ]
+    },
+    {
+        "spanishwords": [
+            "recevoir"
+        ],
+        "englishwords": [
+            "to receive"
+        ]
+    },
+    {
+        "spanishwords": [
+            "rever"
+        ],
+        "englishwords": [
+            "to dream"
+        ]
+    },
+    {
+        "spanishwords": [
+            "venir de"
+        ],
+        "englishwords": [
+            "to have just"
+        ]
+    },
+    {
+        "spanishwords": [
+            "agent de police"
+        ],
+        "englishwords": [
+            "policeman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avenir"
+        ],
+        "englishwords": [
+            "future"
+        ]
+    },
+    {
+        "spanishwords": [
+            "avocat",
+            "avocate"
+        ],
+        "englishwords": [
+            "lawyer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boucher",
+            "bouchere"
+        ],
+        "englishwords": [
+            "butcher"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boulanger",
+            "boulangere"
+        ],
+        "englishwords": [
+            "baker"
+        ]
+    },
+    {
+        "spanishwords": [
+            "boulot"
+        ],
+        "englishwords": [
+            "job"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bureau"
+        ],
+        "englishwords": [
+            "office"
+        ]
+    },
+    {
+        "spanishwords": [
+            "candidat",
+            "candidate"
+        ],
+        "englishwords": [
+            "candidate"
+        ]
+    },
+    {
+        "spanishwords": [
+            "carriere"
+        ],
+        "englishwords": [
+            "career"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chantier"
+        ],
+        "englishwords": [
+            "building site"
+        ]
+    },
+    {
+        "spanishwords": [
+            "chomeur",
+            "chomeuse"
+        ],
+        "englishwords": [
+            "unemployed person"
+        ]
+    },
+    {
+        "spanishwords": [
+            "coiffeur",
+            "coiffeuse"
+        ],
+        "englishwords": [
+            "hairdresser"
+        ]
+    },
+    {
+        "spanishwords": [
+            "comptable"
+        ],
+        "englishwords": [
+            "accountant"
+        ]
+    },
+    {
+        "spanishwords": [
+            "debouche"
+        ],
+        "englishwords": [
+            "prospect",
+            "job prospect",
+            "opportunity",
+            "outcome"
+        ]
+    },
+    {
+        "spanishwords": [
+            "dessinateur",
+            "dessinatrice de mode"
+        ],
+        "englishwords": [
+            "fashion designer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "eboueur",
+            "eboueuse"
+        ],
+        "englishwords": [
+            "binman",
+            "binwoman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "employe",
+            "employee"
+        ],
+        "englishwords": [
+            "employee"
+        ]
+    },
+    {
+        "spanishwords": [
+            "employeur"
+        ],
+        "englishwords": [
+            "employer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "entreprise"
+        ],
+        "englishwords": [
+            "firm",
+            "enterprise"
+        ]
+    },
+    {
+        "spanishwords": [
+            "entretien"
+        ],
+        "englishwords": [
+            "interview"
+        ]
+    },
+    {
+        "spanishwords": [
+            "espoir"
+        ],
+        "englishwords": [
+            "hope"
+        ]
+    },
+    {
+        "spanishwords": [
+            "facteur",
+            "factrice"
+        ],
+        "englishwords": [
+            "postman",
+            "postwoman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "fermier",
+            "fermiere"
+        ],
+        "englishwords": [
+            "farmer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "idee"
+        ],
+        "englishwords": [
+            "idea"
+        ]
+    },
+    {
+        "spanishwords": [
+            "infirmier",
+            "infirmiere"
+        ],
+        "englishwords": [
+            "nurse"
+        ]
+    },
+    {
+        "spanishwords": [
+            "informaticien",
+            "informaticienne"
+        ],
+        "englishwords": [
+            "IT worker"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ingenieur",
+            "ingenieure"
+        ],
+        "englishwords": [
+            "engineer"
+        ]
+    },
+    {
+        "spanishwords": [
+            "interprete"
+        ],
+        "englishwords": [
+            "interpreter"
+        ]
+    },
+    {
+        "spanishwords": [
+            "jardinier",
+            "jardiniere"
+        ],
+        "englishwords": [
+            "gardener"
+        ]
+    },
+    {
+        "spanishwords": [
+            "journal"
+        ],
+        "englishwords": [
+            "newspaper"
+        ]
+    },
+    {
+        "spanishwords": [
+            "livre"
+        ],
+        "englishwords": [
+            "pound"
+        ]
+    },
+    {
+        "spanishwords": [
+            "macon"
+        ],
+        "englishwords": [
+            "builder"
+        ]
+    },
+    {
+        "spanishwords": [
+            "metier"
+        ],
+        "englishwords": [
+            "job"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mecanicien",
+            "mecanicienne"
+        ],
+        "englishwords": [
+            "mechanic"
+        ]
+    },
+    {
+        "spanishwords": [
+            "outil"
+        ],
+        "englishwords": [
+            "tool"
+        ]
+    },
+    {
+        "spanishwords": [
+            "ouvrier",
+            "ouvriere"
+        ],
+        "englishwords": [
+            "factory worker"
+        ]
+    },
+    {
+        "spanishwords": [
+            "patron",
+            "patronne"
+        ],
+        "englishwords": [
+            "boss"
+        ]
+    },
+    {
+        "spanishwords": [
+            "petit job"
+        ],
+        "englishwords": [
+            "part-time job"
+        ]
+    },
+    {
+        "spanishwords": [
+            "plombier",
+            "plombiere"
+        ],
+        "englishwords": [
+            "plumber"
+        ]
+    },
+    {
+        "spanishwords": [
+            "policier",
+            "policiere"
+        ],
+        "englishwords": [
+            "policeman",
+            "policewoman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "pompier",
+            "pompiere"
+        ],
+        "englishwords": [
+            "fireman",
+            "firewoman"
+        ]
+    },
+    {
+        "spanishwords": [
+            "travail"
+        ],
+        "englishwords": [
+            "job"
+        ]
+    },
+    {
+        "spanishwords": [
+            "usine"
+        ],
+        "englishwords": [
+            "factory"
+        ]
+    },
+    {
+        "spanishwords": [
+            "reve"
+        ],
+        "englishwords": [
+            "dream"
+        ]
+    },
+    {
+        "spanishwords": [
+            "veterinaire"
+        ],
+        "englishwords": [
+            "vet"
+        ]
+    },
+    {
+        "spanishwords": [
+            "a peine"
+        ],
+        "englishwords": [
+            "scarcely"
+        ]
+    },
+    {
+        "spanishwords": [
+            "assis"
+        ],
+        "englishwords": [
+            "sitting"
+        ]
+    },
+    {
+        "spanishwords": [
+            "bien paye"
+        ],
+        "englishwords": [
+            "well-paid"
+        ]
+    },
+    {
+        "spanishwords": [
+            "debout"
+        ],
+        "englishwords": [
+            "standing"
+        ]
+    },
+    {
+        "spanishwords": [
+            "disponible"
+        ],
+        "englishwords": [
+            "available"
+        ]
+    },
+    {
+        "spanishwords": [
+            "enrichissant"
+        ],
+        "englishwords": [
+            "enriching",
+            "rewarding"
+        ]
+    },
+    {
+        "spanishwords": [
+            "mal paye"
+        ],
+        "englishwords": [
+            "badly paid"
+        ]
+    },
+    {
+        "spanishwords": [
+            "sedentaire"
+        ],
+        "englishwords": [
+            "sedentary"
+        ]
+    },
+    {
+        "spanishwords": [
+            "varie"
+        ],
+        "englishwords": [
+            "varied"
+        ]
+    }
+]
