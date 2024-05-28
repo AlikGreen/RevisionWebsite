@@ -8,9 +8,12 @@ const scoreTextElement = document.getElementById("score-text");
 
 const sets =
 [
-    "VocabSets/first 100.json",
+    "VocabSets/1st 100.json",
     "VocabSets/french vocab.json",
-    "VocabSets/spanish vocab.json"
+    "VocabSets/spanish vocab.json",
+    "VocabSets/1st 400.json",
+    "VocabSets/2st 400.json",
+    "VocabSets/3st 400.json",
 ]
 
 document.addEventListener("DOMContentLoaded", () =>
@@ -95,6 +98,7 @@ function NextWord()
         wordTextElement.textContent = RandomChoice(currentWord['englishwords']);
     }
     wordInputElement.value = "";
+    correctTextElement.innerText = "";
 }
 
 var score = 0;
