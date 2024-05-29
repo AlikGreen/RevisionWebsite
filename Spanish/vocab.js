@@ -6,8 +6,6 @@ const nextButtonElement = document.getElementById("next-btn");
 const correctTextElement = document.getElementById("correct-text");
 const scoreTextElement = document.getElementById("score-text");
 
-console.log(EditDistance("hello", "holla"));
-
 const sets =
 [
     "VocabSets/spanish 0-280.json",
@@ -28,16 +26,14 @@ document.addEventListener("DOMContentLoaded", () =>
 
         setInputElement.appendChild(setElement);
     });
-    wordsSet = LoadJson(setInputElement.value);
-    ShuffleArray(wordsSet);
+    LoadSet(setInputElement.value);
 });
 
 var wordsSet;
 
 setInputElement.addEventListener("change", (event) =>
 {
-    wordsSet = LoadJson(event.target.value)
-    ShuffleArray(wordsSet);
+    LoadSet(event.target.value)
     score = 0;
     answered = 0;
     index = 0;
@@ -46,7 +42,7 @@ nextButtonElement.addEventListener("click", NextWord);
 submitButtonElement.addEventListener("click", CheckAnswer);
 
 
-function LoadJson(filename) 
+function LoadSet(filename) 
 {
     // Construct the path to the JSON file
     const filePath = filename;
@@ -65,10 +61,10 @@ function LoadJson(filename)
         if (xhr.status === 200) 
         {
             // File contents retrieved successfully
-            const jsonData = JSON.parse(xhr.responseText);
+            let jsonData = JSON.parse(xhr.responseText);
             console.log(jsonData); // Output the parsed JSON data
             // Do something with the data (e.g., assign it to a global variable)
-            return jsonData;
+            wordsSet = ShuffleArray(jsonData);
         } else 
         {
             // Error handling if the file retrieval fails
