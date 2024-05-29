@@ -43,7 +43,6 @@ setInputElement.addEventListener("change", (event) =>
     index = 0;
 });
 nextButtonElement.addEventListener("click", NextWord);
-backButtonElement.addEventListener
 submitButtonElement.addEventListener("click", CheckAnswer);
 
 
