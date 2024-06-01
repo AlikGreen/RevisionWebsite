@@ -62,7 +62,7 @@ function LoadSet(filename)
         {
             // File contents retrieved successfully
             let jsonData = JSON.parse(xhr.responseText);
-            console.log(jsonData); // Output the parsed JSON data
+             // Output the parsed JSON data
             // Do something with the data (e.g., assign it to a global variable)
             wordsSet = ShuffleArray(jsonData);
         } else 
@@ -225,11 +225,12 @@ function ConvertToAscii(inputString)
 
 function ShuffleArray(array) 
 {
-    for (var i = array.length - 1; i > 0; i--) 
-    {
+    var newArray = array.slice(); // Create a copy of the original array
+    for (var i = newArray.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));
-        var temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
+        var temp = newArray[i];
+        newArray[i] = newArray[j];
+        newArray[j] = temp;
     }
+    return newArray;
 }
