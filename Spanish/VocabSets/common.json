@@ -1,218 +1,434 @@
 [
     {
-        "spanishwords": "red",
-        "englishwords": "rojo"
+        "spanishwords": [
+            "red"
+        ],
+        "englishwords": [
+            "rojo"
+        ]
     },
     {
-        "spanishwords": "green",
-        "englishwords": "verde"
+        "spanishwords": [
+            "green"
+        ],
+        "englishwords": [
+            "verde"
+        ]
     },
     {
-        "spanishwords": "blue",
-        "englishwords": "azul"
+        "spanishwords": [
+            "blue"
+        ],
+        "englishwords": [
+            "azul"
+        ]
     },
     {
-        "spanishwords": "yellow",
-        "englishwords": "amarillo"
+        "spanishwords": [
+            "yellow"
+        ],
+        "englishwords": [
+            "amarillo"
+        ]
     },
     {
-        "spanishwords": "orange",
-        "englishwords": "naranja"
+        "spanishwords": [
+            "orange"
+        ],
+        "englishwords": [
+            "naranja"
+        ]
     },
     {
-        "spanishwords": "purple",
-        "englishwords": "púrpura"
+        "spanishwords": [
+            "purple"
+        ],
+        "englishwords": [
+            "púrpura"
+        ]
     },
     {
-        "spanishwords": "brown",
-        "englishwords": "marrón"
+        "spanishwords": [
+            "brown"
+        ],
+        "englishwords": [
+            "marrón"
+        ]
     },
     {
-        "spanishwords": "black",
-        "englishwords": "negro"
+        "spanishwords": [
+            "black"
+        ],
+        "englishwords": [
+            "negro"
+        ]
     },
     {
-        "spanishwords": "white",
-        "englishwords": "blanco"
+        "spanishwords": [
+            "white"
+        ],
+        "englishwords": [
+            "blanco"
+        ]
     },
     {
-        "spanishwords": "grey",
-        "englishwords": "gris"
+        "spanishwords": [
+            "grey"
+        ],
+        "englishwords": [
+            "gris"
+        ]
     },
     {
-        "spanishwords": "pink",
-        "englishwords": "rosa"
+        "spanishwords": [
+            "pink"
+        ],
+        "englishwords": [
+            "rosa"
+        ]
     },
     {
-        "spanishwords": "above",
-        "englishwords": "arriba"
+        "spanishwords": [
+            "above"
+        ],
+        "englishwords": [
+            "arriba"
+        ]
     },
     {
-        "spanishwords": "below",
-        "englishwords": "abajo"
+        "spanishwords": [
+            "below"
+        ],
+        "englishwords": [
+            "abajo"
+        ]
     },
     {
-        "spanishwords": "to the right",
-        "englishwords": "a la derecha"
+        "spanishwords": [
+            "to the right"
+        ],
+        "englishwords": [
+            "a la derecha"
+        ]
     },
     {
-        "spanishwords": "to the left",
-        "englishwords": "a la izquierda"
+        "spanishwords": [
+            "to the left"
+        ],
+        "englishwords": [
+            "a la izquierda"
+        ]
     },
     {
-        "spanishwords": "behind",
-        "englishwords": "detrás"
+        "spanishwords": [
+            "behind"
+        ],
+        "englishwords": [
+            "detrás"
+        ]
     },
     {
-        "spanishwords": "infront of",
-        "englishwords": "delante de"
+        "spanishwords": [
+            "infront of"
+        ],
+        "englishwords": [
+            "delante de"
+        ]
     },
     {
-        "spanishwords": "inbetween",
-        "englishwords": "entre"
+        "spanishwords": [
+            "inbetween"
+        ],
+        "englishwords": [
+            "entre"
+        ]
     },
     {
-        "spanishwords": "next to",
-        "englishwords": "junto a"
+        "spanishwords": [
+            "next to"
+        ],
+        "englishwords": [
+            "junto a"
+        ]
     },
     {
-        "spanishwords": "i want",
-        "englishwords": "deseo"
+        "spanishwords": [
+            "i want"
+        ],
+        "englishwords": [
+            "deseo"
+        ]
     },
     {
-        "spanishwords": "i need",
-        "englishwords": "necesito"
+        "spanishwords": [
+            "i need"
+        ],
+        "englishwords": [
+            "necesito"
+        ]
     },
     {
-        "spanishwords": "i think",
-        "englishwords": "creo"
+        "spanishwords": [
+            "i think"
+        ],
+        "englishwords": [
+            "creo"
+        ]
     },
     {
-        "spanishwords": "i believe",
-        "englishwords": "yo creo"
+        "spanishwords": [
+            "i believe"
+        ],
+        "englishwords": [
+            "yo creo"
+        ]
     },
     {
-        "spanishwords": "eleven",
-        "englishwords": "once"
+        "spanishwords": [
+            "eleven"
+        ],
+        "englishwords": [
+            "once"
+        ]
     },
     {
-        "spanishwords": "twelve",
-        "englishwords": "doce"
+        "spanishwords": [
+            "twelve"
+        ],
+        "englishwords": [
+            "doce"
+        ]
     },
     {
-        "spanishwords": "thirteen",
-        "englishwords": "trece"
+        "spanishwords": [
+            "thirteen"
+        ],
+        "englishwords": [
+            "trece"
+        ]
     },
     {
-        "spanishwords": "forteen",
-        "englishwords": "catorce"
+        "spanishwords": [
+            "forteen"
+        ],
+        "englishwords": [
+            "catorce"
+        ]
     },
     {
-        "spanishwords": "fifteen",
-        "englishwords": "quince"
+        "spanishwords": [
+            "fifteen"
+        ],
+        "englishwords": [
+            "quince"
+        ]
     },
     {
-        "spanishwords": "sixteen",
-        "englishwords": "dieciséis"
+        "spanishwords": [
+            "sixteen"
+        ],
+        "englishwords": [
+            "dieciséis"
+        ]
     },
     {
-        "spanishwords": "twenty-three",
-        "englishwords": "veintitrés"
+        "spanishwords": [
+            "twenty-three"
+        ],
+        "englishwords": [
+            "veintitrés"
+        ]
     },
     {
-        "spanishwords": "thirty-seven",
-        "englishwords": "treinta y siete"
+        "spanishwords": [
+            "thirty-seven"
+        ],
+        "englishwords": [
+            "treinta y siete"
+        ]
     },
     {
-        "spanishwords": "forty-five",
-        "englishwords": "cuarenta y cinco"
+        "spanishwords": [
+            "forty-five"
+        ],
+        "englishwords": [
+            "cuarenta y cinco"
+        ]
     },
     {
-        "spanishwords": "fifty-six",
-        "englishwords": "cincuenta y seis"
+        "spanishwords": [
+            "fifty-six"
+        ],
+        "englishwords": [
+            "cincuenta y seis"
+        ]
     },
     {
-        "spanishwords": "sixty-eight",
-        "englishwords": "sesenta y ocho"
+        "spanishwords": [
+            "sixty-eight"
+        ],
+        "englishwords": [
+            "sesenta y ocho"
+        ]
     },
     {
-        "spanishwords": "seventy-nine",
-        "englishwords": "setenta y nueve"
+        "spanishwords": [
+            "seventy-nine"
+        ],
+        "englishwords": [
+            "setenta y nueve"
+        ]
     },
     {
-        "spanishwords": "eighty-one",
-        "englishwords": "ochenta y uno"
+        "spanishwords": [
+            "eighty-one"
+        ],
+        "englishwords": [
+            "ochenta y uno"
+        ]
     },
     {
-        "spanishwords": "ninety-nine",
-        "englishwords": "noventa y nueve"
+        "spanishwords": [
+            "ninety-nine"
+        ],
+        "englishwords": [
+            "noventa y nueve"
+        ]
     },
     {
-        "spanishwords": "one hundred and forty-three",
-        "englishwords": "ciento cuarenta y tres"
+        "spanishwords": [
+            "one hundred and forty-three"
+        ],
+        "englishwords": [
+            "ciento cuarenta y tres"
+        ]
     },
     {
-        "spanishwords": "one thousand six hundred and seventy-six",
-        "englishwords": "mil seiscientos setenta y seis"
+        "spanishwords": [
+            "one thousand six hundred and seventy-six"
+        ],
+        "englishwords": [
+            "mil seiscientos setenta y seis"
+        ]
     },
     {
-        "spanishwords": "more",
-        "englishwords": "más"
+        "spanishwords": [
+            "more"
+        ],
+        "englishwords": [
+            "más"
+        ]
     },
     {
-        "spanishwords": "less",
-        "englishwords": "menos"
+        "spanishwords": [
+            "less"
+        ],
+        "englishwords": [
+            "menos"
+        ]
     },
     {
-        "spanishwords": "too",
-        "englishwords": "también"
+        "spanishwords": [
+            "too"
+        ],
+        "englishwords": [
+            "también"
+        ]
     },
     {
-        "spanishwords": "as",
-        "englishwords": "como"
+        "spanishwords": [
+            "as"
+        ],
+        "englishwords": [
+            "como"
+        ]
     },
     {
-        "spanishwords": "very",
-        "englishwords": "muy"
+        "spanishwords": [
+            "very"
+        ],
+        "englishwords": [
+            "muy"
+        ]
     },
     {
-        "spanishwords": "really",
-        "englishwords": "en realidad"
+        "spanishwords": [
+            "really"
+        ],
+        "englishwords": [
+            "en realidad"
+        ]
     },
     {
-        "spanishwords": "extremly",
-        "englishwords": "extremadamente"
+        "spanishwords": [
+            "extremly"
+        ],
+        "englishwords": [
+            "extremadamente"
+        ]
     },
     {
-        "spanishwords": "slightly",
-        "englishwords": "levemente"
+        "spanishwords": [
+            "slightly"
+        ],
+        "englishwords": [
+            "levemente"
+        ]
     },
     {
-        "spanishwords": "a bit",
-        "englishwords": "un poco"
+        "spanishwords": [
+            "a bit"
+        ],
+        "englishwords": [
+            "un poco"
+        ]
     },
     {
-        "spanishwords": "when",
-        "englishwords": "cuando"
+        "spanishwords": [
+            "when"
+        ],
+        "englishwords": [
+            "cuando"
+        ]
     },
     {
-        "spanishwords": "where",
-        "englishwords": "dónde"
+        "spanishwords": [
+            "where"
+        ],
+        "englishwords": [
+            "dónde"
+        ]
     },
     {
-        "spanishwords": "how",
-        "englishwords": "cómo"
+        "spanishwords": [
+            "how"
+        ],
+        "englishwords": [
+            "cómo"
+        ]
     },
     {
-        "spanishwords": "who",
-        "englishwords": "quien"
+        "spanishwords": [
+            "who"
+        ],
+        "englishwords": [
+            "quien"
+        ]
     },
     {
-        "spanishwords": "which",
-        "englishwords": "cual"
+        "spanishwords": [
+            "which"
+        ],
+        "englishwords": [
+            "cual"
+        ]
     },
     {
-        "spanishwords": "why",
-        "englishwords": "por qué"
+        "spanishwords": [
+            "why"
+        ],
+        "englishwords": [
+            "por qué"
+        ]
     }
 ]
