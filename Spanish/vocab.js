@@ -12,6 +12,7 @@ const sets =
     "VocabSets/spanish 280-560.json",
     "VocabSets/spanish 560-840.json",
     "VocabSets/spanish 840-1120.json",
+    "VocabSets/common.json",
     "VocabSets/spanish vocab.json",
     "VocabSets/french vocab.json",
 ]
